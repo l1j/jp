@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<!--
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+-->
+<properties>
+<comment>Server config</comment>
+
+<!-- シングル、マルチ共にデフォルトのまま（変更不要）-->
+<!--  Bind ip of the gameserver, use * to bind on all available IPs -->
+<entry key="GameserverHostname">*</entry>
+<entry key="GameserverPort">2000</entry>
+
+<!-- LoginとPasswordは変更すべきだが、わからなければ変えない -->
+<entry key="Driver">com.mysql.jdbc.Driver</entry>
+<entry key="URL">jdbc:mysql://localhost/l1jdb?useUnicode=true&amp;characterEncoding=utf8</entry>
+<entry key="Login">root</entry>
+<entry key="Password"></entry>
+
+<!-- 使用するスレッドプール(推奨=2) -->
+<!-- GeneralThreadPoolType: -->
+<!-- 0: プールを使わない通常Thread（以前と同様の処理）-->
+<!-- 1: 指定した数のスレッドを使いまわしてタスクを処理 -->
+<!-- 2: 複数のスレッドでタスクを処理しますが、もし処理の終了しているスレッドがあれば、そのスレッドを再利用します。-->
+<!-- GeneralThreadPoolSize: -->
+<!-- GeneralThreadPoolTypeに"1"を指定した場合のスレッドの数 -->
+<entry key="GeneralThreadPoolType">2</entry>
+<entry key="GeneralThreadPoolSize">0</entry>
+
+<!-- スキルタイマーの実装タイプの選択 -->
+<!-- 1: Timerクラスによる実装。スキル数に関わらずスレッド1つで動作。-->
+<!-- 2: Threadクラスによる実装。スキル数と同数のスレッド数で動作。-->
+<entry key="SkillTimerImplType">1</entry>
+
+<!-- NpcAIの実装タイプの選択。値の意味はスキルタイマーと同じ。-->
+<entry key="NpcAIImplType">2</entry>
+
+<!-- クライアントの言語 0.US 1.Korea 2.Unknown 3.Taiwan 4.Janpan 5.China ?.HongKong -->
+<entry key="ClientLanguage">4</entry>
+
+<!-- タイムゾーンの設定 JST:日本標準時 -->
+<entry key="TimeZone">JST</entry>
+
+<!-- DNSの逆引き ... true: DNSの逆引きを行う, false: DNSの逆引きを行わない -->
+<entry key="HostnameLookups">false</entry>
+
+<!-- クライアントからパケットが送られて来なかった場合の自動切断するまでの時間（分）-->
+<!-- 0-35791(0を指定すると自動切断しない) -->
+<entry key="AutomaticKick">10</entry>
+
+<!-- キャラクター情報および所持アイテムの自動保存機能 -->
+<!-- 【注意】trueにしないでください。DUPEが発生する可能性があります。 -->
+<!-- サーバーとクライアントともに、何らかの問題でハングアップしてもデータの保全性は保たれています。 -->
+<!-- 定期的に、保存処理を実行する必要はありません。 -->
+<entry key="Autosave">false</entry>
+
+<!-- キャラクター情報を自動保存する間隔（秒）-->
+<entry key="AutosaveInterval">1200</entry>
+
+<!-- キャラクターの所持アイテム情報を自動保存する間隔（秒）-->
+<entry key="AutosaveIntervalOfInventory">300</entry>
+
+<!-- マップファイルをキャッシュするか true or false -->
+<!-- 有効にすると、./data/mapcache/にキャッシュが作成されサーバー起動時のマップ読み込み速度が2～5倍ほどになる -->
+<entry key="CacheMapFiles">true</entry>
+
+<!-- V2マップを使用する。テスト用 -->
+<entry key="LoadV2MapFiles">false</entry>
+
+<!-- 加速器検知機能を使用するか。Trueにした場合ONになり、パケット送信間隔がチェックされるようになる -->
+<!-- Move: 移動間隔  Attack: 攻撃間隔  Spell: スキル使用間隔 -->
+<entry key="CheckMoveInterval">True</entry>
+<entry key="CheckAttackInterval">True</entry>
+<entry key="CheckSpellInterval">True</entry>
+<!-- 不正な間隔のパケットのカウントがInjusticeCount回以上になった場合の処罰方法 -->
+<!-- PunishmentType: -->
+<!-- 0:PunishmentTime秒後��強制切断 -->
+<!-- 1:PunishmentTime秒間行動停止 -->
+<!-- 2:PunishmentTime秒間PunishmentMAPへ隔離 -->
+<entry key="PunishmentType">0</entry>
+<entry key="PunishmentTime">10</entry>
+<entry key="PunishmentMap">666</entry>
+<!--  正常な間隔のパケットがJusticeCount回連続で送られてきた場合、InjusticeCountをクリアする -->
+<entry key="InjusticeCount">10</entry>
+<entry key="JusticeCount">4</entry>
+<!--  チェックの厳しさ。何%加速までを許容するかを意味する。誤検知が出る場合は少し増やす。-->
+<entry key="CheckStrictness">102</entry>
+<!-- 加速器検知ログ -->
+<entry key="LoggingAccelerator">false</entry>
+
+<!-- 武器・防具のエンチャントログを残す強化数。10を指定すると+10になった時の情報をログに残す。-->
+<!-- 但し0以外を指定すると、指定した値に関係なく安全強化圏が+0の武器・防具のエンチャントはログに残る。-->
+<!-- 0を指定すると一切ログを残さない。-->
+<entry key="LoggingWeaponEnchant">0</entry>
+<entry key="LoggingArmorEnchant">0</entry>
+<entry key="LoggingAccessoryEnchant">0</entry>
+
+<!-- 武器・防具のエンチャント成功を全体チャットでアナウンスする強化数。-->
+<!-- 仕様は、Logging～と同じ。-->
+<entry key="AnnounceWeaponEnchant">0</entry>
+<entry key="AnnounceArmorEnchant">0</entry>
+<entry key="AnnounceAccessoryEnchant">0</entry>
+
+<!-- チャットログの設定 -->
+<!-- 通常チャット:LoggingChatNormal Whispaer:LoggingChatWhisper -->
+<!-- 叫び:LoggingChatShout 全体チャット:LoggingChatWorld -->
+<!-- 血盟チャット:LoggingChatClan パーティチャット:LoggingChatParty -->
+<!-- 連合チャット:LoggingChatCombined チャットパーティ:LoggingChatChatParty -->
+<entry key="LoggingChatNormal">false</entry>
+<entry key="LoggingChatWhisper">false</entry>
+<entry key="LoggingChatShout">false</entry>
+<entry key="LoggingChatWorld">false</entry>
+<entry key="LoggingChatClan">false</entry>
+<entry key="LoggingChatParty">false</entry>
+<entry key="LoggingChatCombined">false</entry>
+<entry key="LoggingChatChatParty">false</entry>
+
+<!-- 必要に応じて変更 -->
+<!--  Useable values: "true" - "false", use this option to choose whether accounts will be created -->
+<!--  automatically or not. If not, you have to put it in the logins.txt in the data folder -->
+<entry key="AutoCreateAccounts">true</entry>
+
+<!-- 必要に応じて変更 -->
+<!--  Define how many players are allowed to play simultaneously on your server. -->
+<entry key="MaximumOnlineUsers">30</entry>
+
+<!-- Telnetサーバーの設定 -->
+<!-- Telnetサーバーを起動するか TelnetServer: true or false -->
+<!-- Telnetサーバーのポート番号 TelnetServerPort: ポート番号 -->
+<!--  !!!! 現在、サーバー側では特にアクセス制限を行いません !!!! -->
+<!--  !!!! 起動する場合は、必ずファイアウォールやルーターで適切なアクセス制限を行ってください !!!! -->
+<entry key="TelnetServer">false</entry>
+<entry key="TelnetServerPort">23</entry>
+
+<!-- オブジェクト情報をクライアントに送信する範囲 -->
+<!-- -1なら今まで通り画面内のみ -->
+<entry key="PcRecognizeRange">-1</entry>
+
+<!-- キャラクター情報(F5~12によるショットカットキーやHPバーの位置等)をサーバー側で管理するか true or false -->
+<entry key="CharacterConfigInServerSide">true</entry>
+
+<!-- 2PC(同一IPからの同時接続)を許可するか true or false -->
+<entry key="Allow2PC">true</entry>
+
+<!-- レベルダウンを許容する範囲(死に上げ検出) -->
+<!-- 過去最高レベルと現在のレベルの差が、設定された値を超えると切断される。-->
+<!-- 以降、そのキャラクターではログインできない。0に設定すると機能OFF。-->
+<!-- 例) LevelDownRangeが10の場合、レベル50のキャラクターがレベル40以下になると切断される。-->
+<entry key="LevelDownRange">0</entry>
+
+<!-- テレポート制御 -->
+<!-- テレポート前にクライアントへの通知、クライアントからの応答を待ってからテレポートするか true or false -->
+<entry key="SendPacketBeforeTeleport">true</entry>
+
+<!-- デバッグモード -->
+<!-- サーバーの負荷を度外視した詳細なログ等、デバッグに役立つオプションを提供する -->
+<entry key="DebugMode">false</entry>
+
+<!-- 定期実行アナウンス -->
+<!-- 単位：分間隔 -->
+<entry key="AnnouncementsCycleTime">10</entry>
+<entry key="AnnouncmenntsTimeDisplay">True</entry>
+<entry key="AnnouncmenntsTimeFormat">YYYY.MM.DD</entry>
+
+<!-- 自動シャットダウン -->
+<!-- シャットダウン時刻は、/trunk/data/xml/Cycle/ShutdownCycle.xmlで設定する。-->
+<entry key="AutoShutdown">false</entry>
+
+<!-- シャットダウンリクエスト -->
+<!-- リクエスト数がShutdownRequestMaxを超えた場合、シャットダウン処理を開始する。-->
+<!-- 0を設定した場合は、リクエストを受け付けない。-->
+<entry key="ShutdownRequestMax">0</entry>
+
+<!-- シャットダウン処理を開始した場合のカウントダウン(秒) -->
+<entry key="ShutdownRequestDelay">300</entry>
+
+</properties>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<!--
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+-->
+<properties>
+<comment>Rates config</comment>
+<!--
+=================================================================
+NORMAL RATES
+=================================================================
+#整数値で指定（少数点以下も指定可能）
+-->
+
+<!-- RateXp ... 0.0-32767.0 -->
+<entry key="RateXp">1.0</entry>
+
+<!-- RateLawful ... 0.0-32767.0 -->
+<entry key="RateLawful">1.0</entry>
+
+<!-- RateKarma ... 0.0-32767.0 -->
+<entry key="RateKarma">1.0</entry>
+
+<!-- RateDropAdena ... 0.0-127.0 -->
+<entry key="RateDropAdena">1.0</entry>
+
+<!-- RateDropItems ... 0.0-32767.0 -->
+<entry key="RateDropItems">1.0</entry>
+
+<!-- 釣り成功時の経験値 -->
+<entry key="RateFishingExp">200</entry>
+
+<!-- エンチャント成功率 %で指定 -->
+<entry key="EnchantChanceWeapon">0</entry>
+<entry key="EnchantChanceArmor">0</entry>
+<entry key="EnchantChanceAccessory">0</entry>
+
+<!-- 属性強化成功率 %で指定 -->
+<entry key="AttrEnchantChance">10</entry>
+
+<!-- マジックドール強化成功率 %で指定 -->
+<entry key="EnchantChanceDoll">0</entry>
+
+<!-- RateWeightLimit ... 0.0-127.0 -->
+<entry key="RateWeightLimit">1.0</entry>
+
+<!-- RateWeightLimitforPet ... 0.0-127.0 -->
+<entry key="RateWeightLimitforPet">1.0</entry>
+
+<!-- RateShopSellingPrice ... 0.0-127.0 -->
+<entry key="RateShopSellingPrice">1.0</entry>
+
+<!-- RateShopPurchasingPrice ... 0.0-127.0 -->
+<entry key="RateShopPurchasingPrice">1.0</entry>
+
+<!-- item生成率 %で指定 -->
+<!-- 古代のアミュレット -->
+<entry key="CreateChanceAncientAmulet">90</entry>
+<!-- 封印された歴史書 -->
+<entry key="CreateChanceHistoryBook">50</entry>
+<!-- 誕生の魔眼 -->
+<entry key="CreateChanceMagicEyeOfBirth">82</entry>
+<!-- 形象の魔眼 -->
+<entry key="CreateChanceMagicEyeOfShape">82</entry>
+<!-- 生命の魔眼 -->
+<entry key="CreateChanceMagicEyeOfLife">82</entry>
+
+<!--
+=================================================================
+UNIQUE RATES
+=================================================================
+ユニークアイテムのドロップ率を % で指定(0 - 100)
+ユニークのドロップ率 * Map毎のドロップ率 * アイテム毎のドロップ率が100%以内になるように調整する。
+付加されるオプション数はランダム(0 - UniqueMaxOptionsの間)
+-->
+<entry key="RateDropUniqueItems">0</entry>
+
+<!-- ユニークアイテムの制作率を % で指定(0 - 100) -->
+<entry key="RateMakeUniqueItems">0</entry>
+
+<!-- 最大付加オプション数 -->
+<!-- オプション数が多すぎるアイテムを所持しているとクライアント落ちする。-->
+<!-- 低めの設定が望ましい。-->
+<entry key="UniqueMaxOptions">3</entry>
+
+<!-- Armor 固有のオプション -->
+<!-- (0 - Max) -->
+<entry key="UniqueMaxAc">3</entry>
+<entry key="UniqueMaxBowHitModifier">5</entry>
+<entry key="UniqueMaxBowDmgModifier">5</entry>
+
+<!-- Weapon 固有のオプション -->
+<!-- (True or False) -->
+<entry key="UniqueCanDmg">True</entry>
+
+<!-- Weapon, Armor 共通のオプション -->
+<!-- (0 - Max) -->
+<entry key="UniqueMaxStr">3</entry>
+<entry key="UniqueMaxCon">3</entry>
+<entry key="UniqueMaxDex">3</entry>
+<entry key="UniqueMaxWis">3</entry>
+<entry key="UniqueMaxInt">3</entry>
+<entry key="UniqueMaxCha">3</entry>
+<entry key="UniqueMaxHp">50</entry>
+<entry key="UniqueMaxHpr">3</entry>
+<entry key="UniqueMaxMp">50</entry>
+<entry key="UniqueMaxMpr">3</entry>
+<entry key="UniqueMaxSp">3</entry>
+<entry key="UniqueMaxMr">10</entry>
+<entry key="UniqueMaxDefenseEarth">10</entry>
+<entry key="UniqueMaxDefenseWater">10</entry>
+<entry key="UniqueMaxDefenseFire">10</entry>
+<entry key="UniqueMaxDefenseWind">10</entry>
+<entry key="UniqueMaxResistStun">10</entry>
+<entry key="UniqueMaxResistStone">10</entry>
+<entry key="UniqueMaxResistSleep">10</entry>
+<entry key="UniqueMaxResistFreeze">10</entry>
+<entry key="UniqueMaxResistHold">10</entry>
+<entry key="UniqueMaxResistBlind">10</entry>
+<entry key="UniqueMaxExpBonus">10</entry>
+<entry key="UniqueMaxHitModifier">5</entry>
+<entry key="UniqueMaxDmgModifier">5</entry>
+<!-- (True or False) -->
+<entry key="UniqueHaste">True</entry>
+
+<!-- ユニークアイテムの接頭詞 -->
+<entry key="UniquePrefix">[U]</entry>
+
+</properties>

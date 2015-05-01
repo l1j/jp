@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ItemEffectList>
+	<!-- 3連発 花火 -->
+	<Item ItemId="40136" Remove="1">
+		<Effect GfxId="2046" />
+	</Item>
+	<!-- 6連発 花火 -->
+	<Item ItemId="40137" Remove="1">
+		<Effect GfxId="2047" />
+	</Item>
+	<!-- 高級 6連発 花火 -->
+	<Item ItemId="40138" Remove="1">
+		<Effect GfxId="2048" />
+	</Item>
+	<!-- ブルー 2段階 花火 -->
+	<Item ItemId="40139" Remove="1">
+		<Effect GfxId="2040" />
+	</Item>
+	<!-- ブルー スパーク -->
+	<Item ItemId="40140" Remove="1">
+		<Effect GfxId="2051" />
+	</Item>
+	<!-- ブルー 花火 -->
+	<Item ItemId="40141" Remove="1">
+		<Effect GfxId="2028" />
+	</Item>
+	<!-- ブルー ハート 花火 -->
+	<Item ItemId="40142" Remove="1">
+		<Effect GfxId="2036" />
+	</Item>
+	<!-- レッド 2段階 花火 -->
+	<Item ItemId="40143" Remove="1">
+		<Effect GfxId="2041" />
+	</Item>
+	<!-- レッド スパーク -->
+	<Item ItemId="40144" Remove="1">
+		<Effect GfxId="2053" />
+	</Item>
+	<!-- レッド 花火 -->
+	<Item ItemId="40145" Remove="1">
+		<Effect GfxId="2029" />
+	</Item>
+	<!-- レッド ハート 花火 -->
+	<Item ItemId="40146" Remove="1">
+		<Effect GfxId="2039" />
+	</Item>
+	<!-- グリーン 2段階 円形 花火 -->
+	<Item ItemId="40147" Remove="1">
+		<Effect GfxId="2045" />
+	</Item>
+	<!-- グリーン 2段階 花火 -->
+	<Item ItemId="40148" Remove="1">
+		<Effect GfxId="2043" />
+	</Item>
+	<!-- グリーン 雪結晶 花火 -->
+	<Item ItemId="40149" Remove="1">
+		<Effect GfxId="2034" />
+	</Item>
+	<!-- グリーン スパーク -->
+	<Item ItemId="40150" Remove="1">
+		<Effect GfxId="2055" />
+	</Item>
+	<!-- グリーン 円形 花火 -->
+	<Item ItemId="40151" Remove="1">
+		<Effect GfxId="2032" />
+	</Item>
+	<!-- グリーン 花火 -->
+	<Item ItemId="40152" Remove="1">
+		<Effect GfxId="2031" />
+	</Item>
+	<!-- グリーン ハート 花火 -->
+	<Item ItemId="40153" Remove="1">
+		<Effect GfxId="2038" />
+	</Item>
+	<!-- クリスマス 花火 -->
+	<Item ItemId="40154" Remove="1">
+		<Effect GfxId="3198" />
+	</Item>
+	<!-- イエロー 2段階 円形 花火 -->
+	<Item ItemId="40155" Remove="1">
+		<Effect GfxId="2044" />
+	</Item>
+	<!-- イエロー 2段階 花火 -->
+	<Item ItemId="40156" Remove="1">
+		<Effect GfxId="2042" />
+	</Item>
+	<!-- イエロー 雪結晶 花火 -->
+	<Item ItemId="40157" Remove="1">
+		<Effect GfxId="2035" />
+	</Item>
+	<!-- イエロー スパーク -->
+	<Item ItemId="40158" Remove="1">
+		<Effect GfxId="2049" />
+	</Item>
+	<!-- イエロー 円形 花火 -->
+	<Item ItemId="40159" Remove="1">
+		<Effect GfxId="2033" />
+	</Item>
+	<!-- イエロー 花火 -->
+	<Item ItemId="40160" Remove="1">
+		<Effect GfxId="2030" />
+	</Item>
+	<!-- イエロー ハート 花火 -->
+	<Item ItemId="40161" Remove="1">
+		<Effect GfxId="2037" />
+	</Item>
+	<!-- 文字花火：A -->
+	<Item ItemId="41357" Remove="1">
+		<Effect GfxId="6411" />
+	</Item>
+	<!-- 文字花火：B -->
+	<Item ItemId="41358" Remove="1">
+		<Effect GfxId="6412" />
+	</Item>
+	<!-- 文字花火：C -->
+	<Item ItemId="41359" Remove="1">
+		<Effect GfxId="6413" />
+	</Item>
+	<!-- 文字花火：D -->
+	<Item ItemId="41360" Remove="1">
+		<Effect GfxId="6414" />
+	</Item>
+	<!-- 文字花火：E -->
+	<Item ItemId="41361" Remove="1">
+		<Effect GfxId="6415" />
+	</Item>
+	<!-- 文字花火：F -->
+	<Item ItemId="41362" Remove="1">
+		<Effect GfxId="6416" />
+	</Item>
+	<!-- 文字花火：G -->
+	<Item ItemId="41363" Remove="1">
+		<Effect GfxId="6417" />
+	</Item>
+	<!-- 文字花火：H -->
+	<Item ItemId="41364" Remove="1">
+		<Effect GfxId="6418" />
+	</Item>
+	<!-- 文字花火：I -->
+	<Item ItemId="41365" Remove="1">
+		<Effect GfxId="6419" />
+	</Item>
+	<!-- 文字花火：J -->
+	<Item ItemId="41366" Remove="1">
+		<Effect GfxId="6420" />
+	</Item>
+	<!-- 文字花火：K -->
+	<Item ItemId="41367" Remove="1">
+		<Effect GfxId="6421" />
+	</Item>
+	<!-- 文字花火：L -->
+	<Item ItemId="41368" Remove="1">
+		<Effect GfxId="6422" />
+	</Item>
+	<!-- 文字花火：M -->
+	<Item ItemId="41369" Remove="1">
+		<Effect GfxId="6423" />
+	</Item>
+	<!-- 文字花火：N -->
+	<Item ItemId="41370" Remove="1">
+		<Effect GfxId="6424" />
+	</Item>
+	<!-- 文字花火：O -->
+	<Item ItemId="41371" Remove="1">
+		<Effect GfxId="6425" />
+	</Item>
+	<!-- 文字花火：P -->
+	<Item ItemId="41372" Remove="1">
+		<Effect GfxId="6426" />
+	</Item>
+	<!-- 文字花火：Q -->
+	<Item ItemId="41373" Remove="1">
+		<Effect GfxId="6427" />
+	</Item>
+	<!-- 文字花火：R -->
+	<Item ItemId="41374" Remove="1">
+		<Effect GfxId="6428" />
+	</Item>
+	<!-- 文字花火：S -->
+	<Item ItemId="41375" Remove="1">
+		<Effect GfxId="6429" />
+	</Item>
+	<!-- 文字花火：T -->
+	<Item ItemId="41376" Remove="1">
+		<Effect GfxId="6430" />
+	</Item>
+	<!-- 文字花火：U -->
+	<Item ItemId="41377" Remove="1">
+		<Effect GfxId="6431" />
+	</Item>
+	<!-- 文字花火：V -->
+	<Item ItemId="41378" Remove="1">
+		<Effect GfxId="6432" />
+	</Item>
+	<!-- 文字花火：W -->
+	<Item ItemId="41379" Remove="1">
+		<Effect GfxId="6433" />
+	</Item>
+	<!-- 文字花火：X -->
+	<Item ItemId="41380" Remove="1">
+		<Effect GfxId="6434" />
+	</Item>
+	<!-- 文字花火：Y -->
+	<Item ItemId="41381" Remove="1">
+		<Effect GfxId="6435" />
+	</Item>
+	<!-- 文字花火：Z -->
+	<Item ItemId="41382" Remove="1">
+		<Effect GfxId="6436" />
+	</Item>
+</ItemEffectList>

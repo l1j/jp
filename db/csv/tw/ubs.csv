@@ -1,0 +1,6 @@
+id,name,map_id,area_x1,area_y1,are_x2,area_y2,min_level,max_level,max_player,enter_royal,enter_knight,enter_wizard,enter_elf,enter_darkelf,enter_dragonknight,enter_illusionist,enter_male,enter_female,use_pot,hpr_bonus,mpr_bonus
+1,ギランUB,88,33494,32724,33516,32746,52,99,20,1,1,1,1,1,1,1,1,1,1,0,0
+2,ウェルダンUB,98,32682,32878,32717,32913,45,60,20,1,1,1,1,1,1,1,1,1,1,0,0
+3,グルーディンUB,92,32682,32878,32717,32913,31,51,20,1,1,1,1,1,1,1,1,1,1,0,0
+4,TIUB,91,32682,32878,32717,32913,25,44,20,1,1,1,1,1,1,1,1,1,1,0,0
+5,SKTUB,95,32682,32878,32717,32913,1,30,20,1,1,1,1,1,1,1,1,1,1,0,0

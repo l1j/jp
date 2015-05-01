@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ItemEffectList>
+	<!-- ユニーク強化スクロール(ランダム) -->
+	<Item ItemId="43002" Rate="10" Type="3" Safety="true" Remove="1">
+		<Effect Random="true" />
+	</Item>
+	<!-- ユニーク強化スクロール(AC) -->
+	<Item ItemId="43003" Rate="10" Type="2" Safety="true" Remove="1">
+		<Effect AC="3" />
+	</Item>
+	<!-- ユニーク強化スクロール(STR) -->
+	<Item ItemId="43004" Rate="10" Type="3" Safety="true" Remove="1">
+		<Effect STR="3" />
+	</Item>
+  <!-- ユニーク強化スクロール(CON) -->
+	<Item ItemId="43005" Rate="10" Type="3" Safety="true" Remove="1">
+		<Effect CON="3" />
+	</Item>
+  <!-- ユニーク強化スクロール(DEX) -->
+	<Item ItemId="43006" Rate="10" Type="3" Safety="true" Remove="1">
+		<Effect DEX="3" />
+	</Item>
+  <!-- ユニーク強化スクロール(WIS) -->
+	<Item ItemId="43007" Rate="10" Type="3" Safety="true" Remove="1">
+		<Effect WIS="3" />
+	</Item>
+  <!-- ユニーク強化スクロール(INT) -->
+	<Item ItemId="43008" Rate="10" Type="3" Safety="true" Remove="1">
+		<Effect INT="3" />
+	</Item>
+  <!-- ユニーク強化スクロール(CHA) -->
+	<Item ItemId="43009" Rate="10" Type="3" Safety="true" Remove="1">
+		<Effect CHA="3" />
+	</Item>
+  <!-- ユニーク強化スクロール(HP) -->
+	<Item ItemId="43010" Rate="10" Type="3" Safety="true" Remove="1">
+		<Effect HP="50" />
+	</Item>
+  <!-- ユニーク強化スクロール(HPR) -->
+	<Item ItemId="43011" Rate="10" Type="3" Safety="true" Remove="1">
+		<Effect HPR="3" />
+	</Item>
+  <!-- ユニーク強化スクロール(MP) -->
+	<Item ItemId="43012" Rate="10" Type="3" Safety="true" Remove="1">
+		<Effect MP="50" />
+	</Item>
+  <!-- ユニーク強化スクロール(MPR) -->
+	<Item ItemId="43013" Rate="10" Type="3" Safety="true" Remove="1">
+		<Effect MPR="3" />
+	</Item>
+  <!-- ユニーク強化スクロール(MR) -->
+	<Item ItemId="43014" Rate="10" Type="3" Safety="true" Remove="1">
+		<Effect MR="10" />
+	</Item>
+  <!-- ユニーク強化スクロール(SP) -->
+	<Item ItemId="43015" Rate="10" Type="1" Safety="true" Remove="1">
+		<Effect SP="3" />
+	</Item>
+  <!-- ユニーク強化スクロール(武器命中) -->
+	<Item ItemId="43016" Rate="10" Type="3" Safety="true" Remove="1">
+		<Effect Hit="5" />
+	</Item>
+  <!-- ユニーク強化スクロール(追加ダメージ) -->
+	<Item ItemId="43017" Rate="10" Type="3" Safety="true" Remove="1">
+		<Effect Dmg="5" />
+	</Item>
+  <!-- ユニーク強化スクロール(遠距離命中) -->
+	<Item ItemId="43018" Rate="10" Type="2" Safety="true" Remove="1">
+		<Effect BowHit="5" />
+	</Item>
+  <!-- ユニーク強化スクロール(遠距離ダメージ) -->
+	<Item ItemId="43019" Rate="10" Type="2" Safety="true" Remove="1">
+		<Effect BowDmg="5" />
+	</Item>
+  <!-- ユニーク強化スクロール(地の属性抵抗) -->
+	<Item ItemId="43020" Rate="10" Type="3" Safety="true" Remove="1">
+		<Effect Earth="10" />
+	</Item>
+  <!-- ユニーク強化スクロール(水の属性抵抗) -->
+	<Item ItemId="43021" Rate="10" Type="3" Safety="true" Remove="1">
+		<Effect Water="10" />
+	</Item>
+  <!-- ユニーク強化スクロール(火の属性抵抗) -->
+	<Item ItemId="43022" Rate="10" Type="3" Safety="true" Remove="1">
+		<Effect Fire="10" />
+	</Item>
+  <!-- ユニーク強化スクロール(風の属性抵抗) -->
+	<Item ItemId="43023" Rate="10" Type="3" Safety="true" Remove="1">
+		<Effect Wind="10" />
+	</Item>
+  <!-- ユニーク強化スクロール(スタン耐性) -->
+	<Item ItemId="43024" Rate="10" Type="3" Safety="true" Remove="1">
+		<Effect Stun="10" />
+	</Item>
+  <!-- ユニーク強化スクロール(石化耐性) -->
+	<Item ItemId="43025" Rate="10" Type="3" Safety="true" Remove="1">
+		<Effect Stone="10" />
+	</Item>
+  <!-- ユニーク強化スクロール(睡眠耐性) -->
+	<Item ItemId="43026" Rate="10" Type="3" Safety="true" Remove="1">
+		<Effect Sleep="10" />
+	</Item>
+  <!-- ユニーク強化スクロール(凍結耐性) -->
+	<Item ItemId="43027" Rate="10" Type="3" Safety="true" Remove="1">
+		<Effect Freeze="10" />
+	</Item>
+  <!-- ユニーク強化スクロール(ホールド耐性) -->
+	<Item ItemId="43028" Rate="10" Type="3" Safety="true" Remove="1">
+		<Effect Hold="10" />
+	</Item>
+  <!-- ユニーク強化スクロール(暗闇耐性) -->
+	<Item ItemId="43029" Rate="10" Type="3" Safety="true" Remove="1">
+		<Effect Blind="10" />
+	</Item>
+  <!-- ユニーク強化スクロール(経験値増加) -->
+	<Item ItemId="43030" Rate="10" Type="3" Safety="true" Remove="1">
+		<Effect EXP="10" />
+	</Item>
+  <!-- ユニーク強化スクロール(ヘイスト) -->
+	<Item ItemId="43031" Rate="10" Type="3" Safety="true" Remove="1">
+		<Effect Haste="true" />
+	</Item>
+  <!-- ユニーク強化スクロール(武器非損傷) -->
+	<Item ItemId="43032" Rate="10" Type="1" Safety="true" Remove="1">
+		<Effect CanDmg="true" />
+	</Item>
+</ItemEffectList>

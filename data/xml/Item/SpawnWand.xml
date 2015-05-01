@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ItemEffectList>
+	<!-- パインワンド -->
+	<Item ItemId="40006" Type="RANDOM" Remove="1">
+		<Effect NpcId="45008" Time="300" Chance="4" /> <!-- ゴブリン -->
+		<Effect NpcId="45016" Time="300" Chance="4" /> <!-- コボルト -->
+		<Effect NpcId="45021" Time="300" Chance="4" /> <!-- 鹿 -->
+		<Effect NpcId="45025" Time="300" Chance="4" /> <!-- グレムリン -->
+		<Effect NpcId="45033" Time="300" Chance="4" /> <!-- インプ -->
+		<Effect NpcId="45040" Time="300" Chance="4" /> <!-- ベアー -->
+		<Effect NpcId="45046" Time="300" Chance="4" /> <!-- ビーグル -->
+		<Effect NpcId="45079" Time="300" Chance="4" /> <!-- ノール -->
+		<Effect NpcId="45092" Time="300" Chance="4" /> <!-- ドワーフウォリアー -->
+		<Effect NpcId="45098" Time="300" Chance="4" /> <!-- ガンジオーク -->
+		<Effect NpcId="45099" Time="300" Chance="4" /> <!-- インプエルダー -->
+		<Effect NpcId="45123" Time="300" Chance="4" /> <!-- スケルトンアーチャー -->
+		<Effect NpcId="45127" Time="300" Chance="4" /> <!-- ロバオーク -->
+		<Effect NpcId="45130" Time="300" Chance="4" /> <!-- スケルトンアックス -->
+		<Effect NpcId="45138" Time="300" Chance="4" /> <!-- オークスカウト -->
+		<Effect NpcId="45140" Time="300" Chance="4" /> <!-- ホブゴブリン -->
+		<Effect NpcId="45143" Time="300" Chance="4" /> <!-- ドゥダ-マラオーク -->
+		<Effect NpcId="45144" Time="300" Chance="4" /> <!-- リザードマン -->
+		<Effect NpcId="45147" Time="300" Chance="4" /> <!-- オウルベアー -->
+		<Effect NpcId="45149" Time="300" Chance="4" /> <!-- アトゥバオーク -->
+		<Effect NpcId="45155" Time="300" Chance="4" /> <!-- トロッグ -->
+		<Effect NpcId="45171" Time="300" Chance="4" /> <!-- ネルガオーク -->
+		<Effect NpcId="45173" Time="300" Chance="4" /> <!-- ライカンスロープ -->
+		<Effect NpcId="45192" Time="300" Chance="4" /> <!-- ラットマン -->
+		<Effect NpcId="45213" Time="300" Chance="4" /> <!-- ガースト -->
+	</Item>
+	<!-- ブラックエントの枝 -->
+	<Item ItemId="40412" Type="RANDOM" Remove="1">
+		<Effect NpcId="45008" Time="300" Chance="4" /> <!-- ゴブリン -->
+		<Effect NpcId="45016" Time="300" Chance="4" /> <!-- コボルト -->
+		<Effect NpcId="45021" Time="300" Chance="4" /> <!-- 鹿 -->
+		<Effect NpcId="45025" Time="300" Chance="4" /> <!-- グレムリン -->
+		<Effect NpcId="45033" Time="300" Chance="4" /> <!-- インプ -->
+		<Effect NpcId="45040" Time="300" Chance="4" /> <!-- ベアー -->
+		<Effect NpcId="45046" Time="300" Chance="4" /> <!-- ビーグル -->
+		<Effect NpcId="45079" Time="300" Chance="4" /> <!-- ノール -->
+		<Effect NpcId="45092" Time="300" Chance="4" /> <!-- ドワーフウォリアー -->
+		<Effect NpcId="45098" Time="300" Chance="4" /> <!-- ガンジオーク -->
+		<Effect NpcId="45099" Time="300" Chance="4" /> <!-- インプエルダー -->
+		<Effect NpcId="45123" Time="300" Chance="4" /> <!-- スケルトンアーチャー -->
+		<Effect NpcId="45127" Time="300" Chance="4" /> <!-- ロバオーク -->
+		<Effect NpcId="45130" Time="300" Chance="4" /> <!-- スケルトンアックス -->
+		<Effect NpcId="45138" Time="300" Chance="4" /> <!-- オークスカウト -->
+		<Effect NpcId="45140" Time="300" Chance="4" /> <!-- ホブゴブリン -->
+		<Effect NpcId="45143" Time="300" Chance="4" /> <!-- ドゥダ-マラオーク -->
+		<Effect NpcId="45144" Time="300" Chance="4" /> <!-- リザードマン -->
+		<Effect NpcId="45147" Time="300" Chance="4" /> <!-- オウルベアー -->
+		<Effect NpcId="45149" Time="300" Chance="4" /> <!-- アトゥバオーク -->
+		<Effect NpcId="45155" Time="300" Chance="4" /> <!-- トロッグ -->
+		<Effect NpcId="45171" Time="300" Chance="4" /> <!-- ネルガオーク -->
+		<Effect NpcId="45173" Time="300" Chance="4" /> <!-- ライカンスロープ -->
+		<Effect NpcId="45192" Time="300" Chance="4" /> <!-- ラットマン -->
+		<Effect NpcId="45213" Time="300" Chance="4" /> <!-- ガースト -->
+	</Item>
+	<!-- 祝福されたパインワンド -->
+	<Item ItemId="140006" Type="RANDOM" Remove="1">
+		<Effect NpcId="45008" Time="300" Chance="4" /> <!-- ゴブリン -->
+		<Effect NpcId="45016" Time="300" Chance="4" /> <!-- コボルト -->
+		<Effect NpcId="45021" Time="300" Chance="4" /> <!-- 鹿 -->
+		<Effect NpcId="45025" Time="300" Chance="4" /> <!-- グレムリン -->
+		<Effect NpcId="45033" Time="300" Chance="4" /> <!-- インプ -->
+		<Effect NpcId="45040" Time="300" Chance="4" /> <!-- ベアー -->
+		<Effect NpcId="45046" Time="300" Chance="4" /> <!-- ビーグル -->
+		<Effect NpcId="45079" Time="300" Chance="4" /> <!-- ノール -->
+		<Effect NpcId="45092" Time="300" Chance="4" /> <!-- ドワーフウォリアー -->
+		<Effect NpcId="45098" Time="300" Chance="4" /> <!-- ガンジオーク -->
+		<Effect NpcId="45099" Time="300" Chance="4" /> <!-- インプエルダー -->
+		<Effect NpcId="45123" Time="300" Chance="4" /> <!-- スケルトンアーチャー -->
+		<Effect NpcId="45127" Time="300" Chance="4" /> <!-- ロバオーク -->
+		<Effect NpcId="45130" Time="300" Chance="4" /> <!-- スケルトンアックス -->
+		<Effect NpcId="45138" Time="300" Chance="4" /> <!-- オークスカウト -->
+		<Effect NpcId="45140" Time="300" Chance="4" /> <!-- ホブゴブリン -->
+		<Effect NpcId="45143" Time="300" Chance="4" /> <!-- ドゥダ-マラオーク -->
+		<Effect NpcId="45144" Time="300" Chance="4" /> <!-- リザードマン -->
+		<Effect NpcId="45147" Time="300" Chance="4" /> <!-- オウルベアー -->
+		<Effect NpcId="45149" Time="300" Chance="4" /> <!-- アトゥバオーク -->
+		<Effect NpcId="45155" Time="300" Chance="4" /> <!-- トロッグ -->
+		<Effect NpcId="45171" Time="300" Chance="4" /> <!-- ネルガオーク -->
+		<Effect NpcId="45173" Time="300" Chance="4" /> <!-- ライカンスロープ -->
+		<Effect NpcId="45192" Time="300" Chance="4" /> <!-- ラットマン -->
+		<Effect NpcId="45213" Time="300" Chance="4" /> <!-- ガースト -->
+	</Item>
+	<!-- 暗殺リスト(グルーディン) -->
+	<Item ItemId="40557" Remove="1">
+		<Effect NpcId="45883" Time="300" X1="32620" X2="32620" Y1="32641" Y2="32641" CurMapId="4" />
+	</Item>
+	<!-- 暗殺リスト(ギラン) -->
+	<Item ItemId="40558" Remove="1">
+		<Effect NpcId="45889" Time="300" X1="33513" X2="33513" Y1="32890" Y2="32890" CurMapId="4" />
+	</Item>
+	<!-- 暗殺リスト(アデン) -->
+	<Item ItemId="40559" Remove="1">
+		<Effect NpcId="45888" Time="300" X1="34215" X2="34215" Y1="33195" Y2="33195" CurMapId="4" />
+	</Item>
+	<!-- 暗殺リスト(ウッドベック) -->
+	<Item ItemId="40560" Remove="1">
+		<Effect NpcId="45886" Time="300" X1="32580" X2="32580" Y1="33260" Y2="33260" CurMapId="4" />
+	</Item>
+	<!-- 暗殺リスト(ケント) -->
+	<Item ItemId="40561" Remove="1">
+		<Effect NpcId="45885" Time="300" X1="33046" X2="33046" Y1="32806" Y2="32806" CurMapId="4" />
+	</Item>
+	<!-- 暗殺リスト(ハイネ) -->
+	<Item ItemId="40562" Remove="1">
+		<Effect NpcId="45887" Time="300" X1="33447" X2="33447" Y1="32476" Y2="32476" CurMapId="4" />
+	</Item>
+	<!-- 暗殺リスト(火田村) -->
+	<Item ItemId="40563" Remove="1">
+		<Effect NpcId="45884" Time="300" X1="32730" X2="32730" Y1="32426" Y2="32426" CurMapId="4" />
+	</Item>
+	<!-- ミステリアスシェル -->
+	<Item ItemId="40566" Remove="1">
+		<Effect NpcId="45300" X1="33971" X2="33975" Y1="32324" Y2="32328" CurMapId="4" ClassInitial="E" /> <!-- 古代人の亡霊 -->
+	</Item>
+	<!-- 薪 -->
+	<Item ItemId="41260" Remove="1">
+		<Effect NpcId="81170" Time="600" /> <!-- 焚き火 -->
+	</Item>
+	<!-- タイガー飼育場 -->
+	<Item ItemId="50569" Remove="1">
+		<Effect NpcId="45313" Time="1200" /> <!-- タイガー -->
+	</Item>
+	<!-- 紀州犬のかご -->
+	<Item ItemId="50570" Remove="1">
+		<Effect NpcId="45711" Time="1200" /> <!-- 紀州犬の子犬 -->
+	</Item>
+	<!-- シルバーフルート -->
+	<Item ItemId="40700">
+		<Effect NpcId="45875" X1="32619" X2="32623" Y1="33120" Y2="33124" CurMapId="440" /> <!-- ラバーボーンヘッド -->
+	</Item>
+	<!-- 魔の角笛 -->
+	<Item ItemId="49167" Remove="1">
+		<!-- 祭司長ギニョール -->
+		<Effect NpcId="91309" X1="32807" X2="32807" Y1="32773" Y2="32773" CurMapId="2000" ClassInitial="P" />
+		<Effect NpcId="91309" X1="32807" X2="32807" Y1="32773" Y2="32773" CurMapId="2001" ClassInitial="K" />
+		<Effect NpcId="91309" X1="32807" X2="32807" Y1="32773" Y2="32773" CurMapId="2002" ClassInitial="E" />
+		<Effect NpcId="91309" X1="32807" X2="32807" Y1="32773" Y2="32773" CurMapId="2003" ClassInitial="W" />
+	</Item>
+	<!-- ソルシャイカの魂の笛 -->
+	<Item ItemId="49189" Remove="1">
+		<Effect NpcId="46163" CurMapId="4" ClassInitial="I" /> <!-- ソルシャイカの魂 -->
+	</Item>
+	<!-- 時のクリスタルボール -->
+	<Item ItemId="49201">
+		<Effect NpcId="91209" CurMapId="4" ClassInitial="I" /> <!-- 時の歪み -->
+	</Item>
+	<!-- 青い炎の欠片 -->
+	<Item ItemId="49208" Remove="1">
+		<Effect NpcId="91203" CurMapId="2004" ClassInitial="I" /> <!-- サビウス -->
+	</Item>
+	<!-- オーク密使の笛 -->
+	<Item ItemId="49222" Remove="1">
+		<Effect NpcId="46161" CurMapId="61" ClassInitial="R" /> <!-- オーク密使リーダー -->
+	</Item>
+	<!-- 紅い炎の欠片 -->
+	<Item ItemId="49227" Remove="1">
+		<Effect NpcId="91204" CurMapId="2004" ClassInitial="R" /> <!-- ルシウス -->
+	</Item>
+	
+</ItemEffectList>

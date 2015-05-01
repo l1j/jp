@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<!--
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+-->
+<properties>
+<comment>Character config</comment>
+
+<entry key="PrinceMaxHP">1400</entry>
+<entry key="PrinceMaxMP">800</entry>
+<entry key="KnightMaxHP">2000</entry>
+<entry key="KnightMaxMP">600</entry>
+<entry key="ElfMaxHP">1400</entry>
+<entry key="ElfMaxMP">900</entry>
+<entry key="WizardMaxHP">1000</entry>
+<entry key="WizardMaxMP">1200</entry>
+<entry key="DarkelfMaxHP">1400</entry>
+<entry key="DarkelfMaxMP">900</entry>
+<entry key="DragonKnightMaxHP">1800</entry>
+<entry key="DragonKnightMaxMP">600</entry>
+<entry key="IllusionistMaxHP">1100</entry>
+<entry key="IllusionistMaxMP">1100</entry>
+
+<!-- 一般魔法の習得設定 -->
+<entry key="PrinceLearnMagicMaxClass">2</entry>
+<entry key="PrinceLearnMagicPerLevel">10</entry>
+<entry key="KnightLearnMagicMaxClass">1</entry>
+<entry key="KnightLearnMagicPerLevel">50</entry>
+<entry key="ElfLearnMagicMaxClass">6</entry>
+<entry key="ElfLearnMagicPerLevel">8</entry>
+<entry key="WizardLearnMagicMaxClass">10</entry>
+<entry key="WizardLearnMagicPerLevel">4</entry>
+<entry key="DarkElfLearnMagicMaxClass">2</entry>
+<entry key="DarkElfLearnMagicPerLevel">12</entry>
+<entry key="DragonKnightLearnMagicMaxClass">0</entry>
+<entry key="DragonKnightLearnMagicPerLevel">0</entry>
+<entry key="IllusionistLearnMagicMaxClass">0</entry>
+<entry key="IllusionistLearnMagicPerLevel">0</entry>
+
+<!-- 全ての精霊魔法を習得可能か(エルフのみ) -->
+<entry key="LearnAllElfSkills">False</entry>
+
+<!-- エリクサーの使用制限 -->
+<entry key="ElixirMaxUse">5</entry>
+<entry key="ElixirMaxStr">35</entry>
+<entry key="ElixirMaxCon">35</entry>
+<entry key="ElixirMaxDex">35</entry>
+<entry key="ElixirMaxInt">35</entry>
+<entry key="ElixirMaxWis">35</entry>
+<entry key="ElixirMaxCha">35</entry>
+
+<!-- LEVEL50以降のEXP倍率を指定 1-2147483647 -->
+<!-- 取得EXPが、1を指定すれば1/1、2を指定すれば1/2、3を指定すれば1/3、･･･となる -->
+<entry key="Lv50Exp">1</entry>
+<entry key="Lv51Exp">1</entry>
+<entry key="Lv52Exp">1</entry>
+<entry key="Lv53Exp">1</entry>
+<entry key="Lv54Exp">1</entry>
+<entry key="Lv55Exp">1</entry>
+<entry key="Lv56Exp">1</entry>
+<entry key="Lv57Exp">1</entry>
+<entry key="Lv58Exp">1</entry>
+<entry key="Lv59Exp">1</entry>
+<entry key="Lv60Exp">1</entry>
+<entry key="Lv61Exp">1</entry>
+<entry key="Lv62Exp">1</entry>
+<entry key="Lv63Exp">1</entry>
+<entry key="Lv64Exp">1</entry>
+<entry key="Lv65Exp">2</entry>
+<entry key="Lv66Exp">2</entry>
+<entry key="Lv67Exp">2</entry>
+<entry key="Lv68Exp">2</entry>
+<entry key="Lv69Exp">2</entry>
+<entry key="Lv70Exp">4</entry>
+<entry key="Lv71Exp">4</entry>
+<entry key="Lv72Exp">4</entry>
+<entry key="Lv73Exp">4</entry>
+<entry key="Lv74Exp">4</entry>
+<entry key="Lv75Exp">8</entry>
+<entry key="Lv76Exp">8</entry>
+<entry key="Lv77Exp">8</entry>
+<entry key="Lv78Exp">8</entry>
+<entry key="Lv79Exp">16</entry>
+<entry key="Lv80Exp">32</entry>
+<entry key="Lv81Exp">64</entry>
+<entry key="Lv82Exp">128</entry>
+<entry key="Lv83Exp">256</entry>
+<entry key="Lv84Exp">512</entry>
+<entry key="Lv85Exp">1024</entry>
+<entry key="Lv86Exp">2048</entry>
+<entry key="Lv87Exp">4096</entry>
+<entry key="Lv88Exp">8192</entry>
+<entry key="Lv89Exp">16384</entry>
+<entry key="Lv90Exp">32768</entry>
+<entry key="Lv91Exp">65536</entry>
+<entry key="Lv92Exp">131072</entry>
+<entry key="Lv93Exp">262144</entry>
+<entry key="Lv94Exp">524288</entry>
+<entry key="Lv95Exp">1048576</entry>
+<entry key="Lv96Exp">2097152</entry>
+<entry key="Lv97Exp">4194304</entry>
+<entry key="Lv98Exp">8388608</entry>
+<entry key="Lv99Exp">16777216</entry>
+
+<!-- アインハザードの祝福(EXPボーナス:%) -->
+<entry key="BlessOfAinExpBonus">77</entry>
+
+<!-- レベルアップケアシステム(EXPボーナス:%) -->
+<entry key="Lv1ExpBonus">0</entry>
+<entry key="Lv2ExpBonus">0</entry>
+<entry key="Lv3ExpBonus">0</entry>
+<entry key="Lv4ExpBonus">0</entry>
+<entry key="Lv5ExpBonus">0</entry>
+<entry key="Lv6ExpBonus">0</entry>
+<entry key="Lv7ExpBonus">0</entry>
+<entry key="Lv8ExpBonus">0</entry>
+<entry key="Lv9ExpBonus">0</entry>
+<entry key="Lv10ExpBonus">0</entry>
+<entry key="Lv11ExpBonus">0</entry>
+<entry key="Lv12ExpBonus">0</entry>
+<entry key="Lv13ExpBonus">0</entry>
+<entry key="Lv14ExpBonus">0</entry>
+<entry key="Lv15ExpBonus">0</entry>
+<entry key="Lv16ExpBonus">0</entry>
+<entry key="Lv17ExpBonus">0</entry>
+<entry key="Lv18ExpBonus">0</entry>
+<entry key="Lv19ExpBonus">0</entry>
+<entry key="Lv20ExpBonus">0</entry>
+<entry key="Lv21ExpBonus">0</entry>
+<entry key="Lv22ExpBonus">0</entry>
+<entry key="Lv23ExpBonus">0</entry>
+<entry key="Lv24ExpBonus">0</entry>
+<entry key="Lv25ExpBonus">0</entry>
+<entry key="Lv26ExpBonus">0</entry>
+<entry key="Lv27ExpBonus">0</entry>
+<entry key="Lv28ExpBonus">0</entry>
+<entry key="Lv29ExpBonus">0</entry>
+<entry key="Lv30ExpBonus">0</entry>
+<entry key="Lv31ExpBonus">0</entry>
+<entry key="Lv32ExpBonus">0</entry>
+<entry key="Lv33ExpBonus">0</entry>
+<entry key="Lv34ExpBonus">0</entry>
+<entry key="Lv35ExpBonus">0</entry>
+<entry key="Lv36ExpBonus">0</entry>
+<entry key="Lv37ExpBonus">0</entry>
+<entry key="Lv38ExpBonus">0</entry>
+<entry key="Lv39ExpBonus">0</entry>
+<entry key="Lv40ExpBonus">0</entry>
+<entry key="Lv41ExpBonus">0</entry>
+<entry key="Lv42ExpBonus">0</entry>
+<entry key="Lv43ExpBonus">0</entry>
+<entry key="Lv44ExpBonus">0</entry>
+<entry key="Lv45ExpBonus">0</entry>
+<entry key="Lv46ExpBonus">0</entry>
+<entry key="Lv47ExpBonus">0</entry>
+<entry key="Lv48ExpBonus">0</entry>
+<entry key="Lv49ExpBonus">15</entry>
+<entry key="Lv50ExpBonus">14</entry>
+<entry key="Lv51ExpBonus">13</entry>
+<entry key="Lv52ExpBonus">12</entry>
+<entry key="Lv53ExpBonus">11</entry>
+<entry key="Lv54ExpBonus">10</entry>
+<entry key="Lv55ExpBonus">9</entry>
+<entry key="Lv56ExpBonus">8</entry>
+<entry key="Lv57ExpBonus">7</entry>
+<entry key="Lv58ExpBonus">6</entry>
+<entry key="Lv59ExpBonus">5</entry>
+<entry key="Lv60ExpBonus">4</entry>
+<entry key="Lv61ExpBonus">3</entry>
+<entry key="Lv62ExpBonus">2</entry>
+<entry key="Lv63ExpBonus">1</entry>
+<entry key="Lv64ExpBonus">1</entry>
+<entry key="Lv65ExpBonus">0</entry>
+<entry key="Lv66ExpBonus">0</entry>
+<entry key="Lv67ExpBonus">0</entry>
+<entry key="Lv68ExpBonus">0</entry>
+<entry key="Lv69ExpBonus">0</entry>
+<entry key="Lv70ExpBonus">0</entry>
+<entry key="Lv71ExpBonus">0</entry>
+<entry key="Lv72ExpBonus">0</entry>
+<entry key="Lv73ExpBonus">0</entry>
+<entry key="Lv74ExpBonus">0</entry>
+<entry key="Lv75ExpBonus">0</entry>
+<entry key="Lv76ExpBonus">0</entry>
+<entry key="Lv77ExpBonus">0</entry>
+<entry key="Lv78ExpBonus">0</entry>
+<entry key="Lv79ExpBonus">0</entry>
+<entry key="Lv80ExpBonus">0</entry>
+<entry key="Lv81ExpBonus">0</entry>
+<entry key="Lv82ExpBonus">0</entry>
+<entry key="Lv83ExpBonus">0</entry>
+<entry key="Lv84ExpBonus">0</entry>
+<entry key="Lv85ExpBonus">0</entry>
+<entry key="Lv86ExpBonus">0</entry>
+<entry key="Lv87ExpBonus">0</entry>
+<entry key="Lv88ExpBonus">0</entry>
+<entry key="Lv89ExpBonus">0</entry>
+<entry key="Lv90ExpBonus">0</entry>
+<entry key="Lv91ExpBonus">0</entry>
+<entry key="Lv92ExpBonus">0</entry>
+<entry key="Lv93ExpBonus">0</entry>
+<entry key="Lv94ExpBonus">0</entry>
+<entry key="Lv95ExpBonus">0</entry>
+<entry key="Lv96ExpBonus">0</entry>
+<entry key="Lv97ExpBonus">0</entry>
+<entry key="Lv98ExpBonus">0</entry>
+<entry key="Lv99ExpBonus">0</entry>
+
+<!-- デスペナルティのレートを%で指定 -->
+<entry key="Lv1DeathPenalty">100</entry>
+<entry key="Lv2DeathPenalty">100</entry>
+<entry key="Lv3DeathPenalty">100</entry>
+<entry key="Lv4DeathPenalty">100</entry>
+<entry key="Lv5DeathPenalty">100</entry>
+<entry key="Lv6DeathPenalty">100</entry>
+<entry key="Lv7DeathPenalty">100</entry>
+<entry key="Lv8DeathPenalty">100</entry>
+<entry key="Lv9DeathPenalty">100</entry>
+<entry key="Lv10DeathPenalty">100</entry>
+<entry key="Lv11DeathPenalty">100</entry>
+<entry key="Lv12DeathPenalty">100</entry>
+<entry key="Lv13DeathPenalty">100</entry>
+<entry key="Lv14DeathPenalty">100</entry>
+<entry key="Lv15DeathPenalty">100</entry>
+<entry key="Lv16DeathPenalty">100</entry>
+<entry key="Lv17DeathPenalty">100</entry>
+<entry key="Lv18DeathPenalty">100</entry>
+<entry key="Lv19DeathPenalty">100</entry>
+<entry key="Lv20DeathPenalty">100</entry>
+<entry key="Lv21DeathPenalty">100</entry>
+<entry key="Lv22DeathPenalty">100</entry>
+<entry key="Lv23DeathPenalty">100</entry>
+<entry key="Lv24DeathPenalty">100</entry>
+<entry key="Lv25DeathPenalty">100</entry>
+<entry key="Lv26DeathPenalty">100</entry>
+<entry key="Lv27DeathPenalty">100</entry>
+<entry key="Lv28DeathPenalty">100</entry>
+<entry key="Lv29DeathPenalty">100</entry>
+<entry key="Lv30DeathPenalty">100</entry>
+<entry key="Lv31DeathPenalty">100</entry>
+<entry key="Lv32DeathPenalty">100</entry>
+<entry key="Lv33DeathPenalty">100</entry>
+<entry key="Lv34DeathPenalty">100</entry>
+<entry key="Lv35DeathPenalty">100</entry>
+<entry key="Lv36DeathPenalty">100</entry>
+<entry key="Lv37DeathPenalty">100</entry>
+<entry key="Lv38DeathPenalty">100</entry>
+<entry key="Lv39DeathPenalty">100</entry>
+<entry key="Lv40DeathPenalty">100</entry>
+<entry key="Lv41DeathPenalty">100</entry>
+<entry key="Lv42DeathPenalty">100</entry>
+<entry key="Lv43DeathPenalty">100</entry>
+<entry key="Lv44DeathPenalty">100</entry>
+<entry key="Lv45DeathPenalty">100</entry>
+<entry key="Lv46DeathPenalty">100</entry>
+<entry key="Lv47DeathPenalty">100</entry>
+<entry key="Lv48DeathPenalty">100</entry>
+<entry key="Lv49DeathPenalty">100</entry>
+<entry key="Lv50DeathPenalty">100</entry>
+<entry key="Lv51DeathPenalty">100</entry>
+<entry key="Lv52DeathPenalty">100</entry>
+<entry key="Lv53DeathPenalty">100</entry>
+<entry key="Lv54DeathPenalty">100</entry>
+<entry key="Lv55DeathPenalty">100</entry>
+<entry key="Lv56DeathPenalty">100</entry>
+<entry key="Lv57DeathPenalty">100</entry>
+<entry key="Lv58DeathPenalty">100</entry>
+<entry key="Lv59DeathPenalty">100</entry>
+<entry key="Lv60DeathPenalty">100</entry>
+<entry key="Lv61DeathPenalty">100</entry>
+<entry key="Lv62DeathPenalty">100</entry>
+<entry key="Lv63DeathPenalty">100</entry>
+<entry key="Lv64DeathPenalty">100</entry>
+<entry key="Lv65DeathPenalty">100</entry>
+<entry key="Lv66DeathPenalty">100</entry>
+<entry key="Lv67DeathPenalty">100</entry>
+<entry key="Lv68DeathPenalty">100</entry>
+<entry key="Lv69DeathPenalty">100</entry>
+<entry key="Lv70DeathPenalty">100</entry>
+<entry key="Lv71DeathPenalty">100</entry>
+<entry key="Lv72DeathPenalty">100</entry>
+<entry key="Lv73DeathPenalty">100</entry>
+<entry key="Lv74DeathPenalty">100</entry>
+<entry key="Lv75DeathPenalty">100</entry>
+<entry key="Lv76DeathPenalty">100</entry>
+<entry key="Lv77DeathPenalty">100</entry>
+<entry key="Lv78DeathPenalty">100</entry>
+<entry key="Lv79DeathPenalty">100</entry>
+<entry key="Lv80DeathPenalty">100</entry>
+<entry key="Lv81DeathPenalty">100</entry>
+<entry key="Lv82DeathPenalty">100</entry>
+<entry key="Lv83DeathPenalty">100</entry>
+<entry key="Lv84DeathPenalty">100</entry>
+<entry key="Lv85DeathPenalty">100</entry>
+<entry key="Lv86DeathPenalty">100</entry>
+<entry key="Lv87DeathPenalty">100</entry>
+<entry key="Lv88DeathPenalty">100</entry>
+<entry key="Lv89DeathPenalty">100</entry>
+<entry key="Lv90DeathPenalty">100</entry>
+<entry key="Lv91DeathPenalty">100</entry>
+<entry key="Lv92DeathPenalty">100</entry>
+<entry key="Lv93DeathPenalty">100</entry>
+<entry key="Lv94DeathPenalty">100</entry>
+<entry key="Lv95DeathPenalty">100</entry>
+<entry key="Lv96DeathPenalty">100</entry>
+<entry key="Lv97DeathPenalty">100</entry>
+<entry key="Lv98DeathPenalty">100</entry>
+<entry key="Lv99DeathPenalty">100</entry>
+
+</properties>

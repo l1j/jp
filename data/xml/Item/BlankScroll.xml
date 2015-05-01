@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ItemEffectList>
+	<!-- ブランク スクロール(Lv1) -->
+	<Item ItemId="40090" ClassInitial="W" Remove="1">
+		<Effect ItemId="40859" SkillId="1" /> <!-- スペル スクロール (ヒール) -->
+		<Effect ItemId="40860" SkillId="2" /> <!-- スペル スクロール (ライト) -->
+		<Effect ItemId="40861" SkillId="3" /> <!-- スペル スクロール (シールド) -->
+		<Effect ItemId="40862" SkillId="4" /> <!-- スペル スクロール (エネルギー ボルト) -->
+		<Effect ItemId="40863" SkillId="5" /> <!-- スペル スクロール (テレポート) -->
+		<Effect ItemId="40864" SkillId="6" /> <!-- スペル スクロール (アイス ダガー) -->
+		<Effect ItemId="40865" SkillId="7" /> <!-- スペル スクロール (ウィンド カッター) -->
+		<Effect ItemId="40866" SkillId="8" /> <!-- スペル スクロール (ホーリー ウェポン) -->
+	</Item>
+	<!-- ブランク スクロール(Lv2) -->
+	<Item ItemId="40091" ClassInitial="W" Remove="1">
+		<Effect ItemId="40859" SkillId="1" /> <!-- スペル スクロール (ヒール) -->
+		<Effect ItemId="40860" SkillId="2" /> <!-- スペル スクロール (ライト) -->
+		<Effect ItemId="40861" SkillId="3" /> <!-- スペル スクロール (シールド) -->
+		<Effect ItemId="40862" SkillId="4" /> <!-- スペル スクロール (エネルギー ボルト) -->
+		<Effect ItemId="40863" SkillId="5" /> <!-- スペル スクロール (テレポート) -->
+		<Effect ItemId="40864" SkillId="6" /> <!-- スペル スクロール (アイス ダガー) -->
+		<Effect ItemId="40865" SkillId="7" /> <!-- スペル スクロール (ウィンド カッター) -->
+		<Effect ItemId="40866" SkillId="8" /> <!-- スペル スクロール (ホーリー ウェポン) -->
+		<Effect ItemId="40867" SkillId="9" /> <!-- スペル スクロール (キュア ポイズン) -->
+		<Effect ItemId="40868" SkillId="10" /> <!-- スペル スクロール (チル タッチ) -->
+		<Effect ItemId="40869" SkillId="11" /> <!-- スペル スクロール (カーズポイズン) -->
+		<Effect ItemId="40870" SkillId="12" /> <!-- スペル スクロール (エンチャント ウェポン) -->
+		<Effect ItemId="40871" SkillId="13" /> <!-- スペル スクロール (ディテクション) -->
+		<Effect ItemId="40872" SkillId="14" /> <!-- スペル スクロール (ディクリース ウェイト) -->
+		<Effect ItemId="40873" SkillId="15" /> <!-- スペル スクロール (ファイアー アロー) -->
+		<Effect ItemId="40874" SkillId="16" /> <!-- スペル スクロール (スタラック) -->
+	</Item>
+	<!-- ブランク スクロール(Lv3) -->
+	<Item ItemId="40092" ClassInitial="W" Remove="1">
+		<Effect ItemId="40859" SkillId="1" /> <!-- スペル スクロール (ヒール) -->
+		<Effect ItemId="40860" SkillId="2" /> <!-- スペル スクロール (ライト) -->
+		<Effect ItemId="40861" SkillId="3" /> <!-- スペル スクロール (シールド) -->
+		<Effect ItemId="40862" SkillId="4" /> <!-- スペル スクロール (エネルギー ボルト) -->
+		<Effect ItemId="40863" SkillId="5" /> <!-- スペル スクロール (テレポート) -->
+		<Effect ItemId="40864" SkillId="6" /> <!-- スペル スクロール (アイス ダガー) -->
+		<Effect ItemId="40865" SkillId="7" /> <!-- スペル スクロール (ウィンド カッター) -->
+		<Effect ItemId="40866" SkillId="8" /> <!-- スペル スクロール (ホーリー ウェポン) -->
+		<Effect ItemId="40867" SkillId="9" /> <!-- スペル スクロール (キュア ポイズン) -->
+		<Effect ItemId="40868" SkillId="10" /> <!-- スペル スクロール (チル タッチ) -->
+		<Effect ItemId="40869" SkillId="11" /> <!-- スペル スクロール (カーズポイズン) -->
+		<Effect ItemId="40870" SkillId="12" /> <!-- スペル スクロール (エンチャント ウェポン) -->
+		<Effect ItemId="40871" SkillId="13" /> <!-- スペル スクロール (ディテクション) -->
+		<Effect ItemId="40872" SkillId="14" /> <!-- スペル スクロール (ディクリース ウェイト) -->
+		<Effect ItemId="40873" SkillId="15" /> <!-- スペ��� スクロール (ファイアー アロー) -->
+		<Effect ItemId="40874" SkillId="16" /> <!-- スペル スクロール (スタラック) -->
+		<Effect ItemId="40875" SkillId="17" /> <!-- スペル スクロール (ライトニング) -->
+		<Effect ItemId="40876" SkillId="18" /> <!-- スペル スクロール (ターン アンデッド) -->
+		<Effect ItemId="40877" SkillId="19" /> <!-- スペル スクロール (エキストラ ヒール) -->
+		<Effect ItemId="40878" SkillId="20" /> <!-- スペル スクロール (カーズ ブラインド) -->
+		<Effect ItemId="40879" SkillId="21" /> <!-- スペル スクロール (ブレスド アーマー) -->
+		<Effect ItemId="40880" SkillId="22" /> <!-- スペル スクロール (フローズン クラウド) -->
+		<Effect ItemId="40881" SkillId="23" /> <!-- スペル スクロール (ウィーク エレメンタル) -->
+	</Item>
+	<!-- ブランク スクロール(Lv4) -->
+	<Item ItemId="40093" ClassInitial="W" Remove="1">
+		<Effect ItemId="40859" SkillId="1" /> <!-- スペル スクロール (ヒール) -->
+		<Effect ItemId="40860" SkillId="2" /> <!-- スペル スクロール (ライト) -->
+		<Effect ItemId="40861" SkillId="3" /> <!-- スペル スクロール (シールド) -->
+		<Effect ItemId="40862" SkillId="4" /> <!-- スペル スクロール (エネルギー ボルト) -->
+		<Effect ItemId="40863" SkillId="5" /> <!-- スペル スクロール (テレポート) -->
+		<Effect ItemId="40864" SkillId="6" /> <!-- スペル スクロール (アイス ダガー) -->
+		<Effect ItemId="40865" SkillId="7" /> <!-- スペル スクロール (ウィンド カッター) -->
+		<Effect ItemId="40866" SkillId="8" /> <!-- スペル スクロール (ホーリー ウェポン) -->
+		<Effect ItemId="40867" SkillId="9" /> <!-- スペル スクロール (キュア ポイズン) -->
+		<Effect ItemId="40868" SkillId="10" /> <!-- スペル スクロール (チル タッチ) -->
+		<Effect ItemId="40869" SkillId="11" /> <!-- スペル スクロール (カーズポイズン) -->
+		<Effect ItemId="40870" SkillId="12" /> <!-- スペル スクロール (エンチャント ウェポン) -->
+		<Effect ItemId="40871" SkillId="13" /> <!-- スペル スクロール (ディテクション) -->
+		<Effect ItemId="40872" SkillId="14" /> <!-- スペル スクロール (ディクリース ウェイト) -->
+		<Effect ItemId="40873" SkillId="15" /> <!-- スペル スクロール (ファイアー アロー) -->
+		<Effect ItemId="40874" SkillId="16" /> <!-- スペル スクロール (スタラック) -->
+		<Effect ItemId="40875" SkillId="17" /> <!-- スペル スクロール (ライトニング) -->
+		<Effect ItemId="40876" SkillId="18" /> <!-- スペル スクロール (ターン アンデッド) -->
+		<Effect ItemId="40877" SkillId="19" /> <!-- スペル スクロール (エキストラ ヒール) -->
+		<Effect ItemId="40878" SkillId="20" /> <!-- スペル スクロール (カーズ ブラインド) -->
+		<Effect ItemId="40879" SkillId="21" /> <!-- スペル スクロール (ブレスド アーマー) -->
+		<Effect ItemId="40880" SkillId="22" /> <!-- スペル スクロール (フローズン クラウド) -->
+		<Effect ItemId="40881" SkillId="23" /> <!-- スペル スクロール (ウィーク エレメンタル) -->
+		<Effect ItemId="40883" SkillId="25" /> <!-- スペル スクロール (ファイアー ボール) -->
+		<Effect ItemId="40884" SkillId="26" /> <!-- スペル スクロール (フィジカルエンチャント：DEX) -->
+		<Effect ItemId="40885" SkillId="27" /> <!-- スペル スクロール (ウェポン ブレイク) -->
+		<Effect ItemId="40886" SkillId="28" /> <!-- スペル スクロール (バンパイアリック タッチ) -->
+		<Effect ItemId="40887" SkillId="29" /> <!-- スペル スクロール (スロー) -->
+		<Effect ItemId="40888" SkillId="30" /> <!-- スペル スクロール (アース ジェイル) -->
+		<Effect ItemId="40889" SkillId="31" /> <!-- スペル スクロール (カウンター マジック) -->
+		<Effect ItemId="40890" SkillId="32" /> <!-- スペル スクロール (メディテーション) -->
+	</Item>
+	<!-- ブランク スクロール(Lv5) -->
+	<Item ItemId="40094" ClassInitial="W" Remove="1">
+		<Effect ItemId="40859" SkillId="1" /> <!-- スペル スクロール (ヒール) -->
+		<Effect ItemId="40860" SkillId="2" /> <!-- スペル スクロール (ライト) -->
+		<Effect ItemId="40861" SkillId="3" /> <!-- スペル スクロール (シールド) -->
+		<Effect ItemId="40862" SkillId="4" /> <!-- スペル スクロール (エネルギー ボルト) -->
+		<Effect ItemId="40863" SkillId="5" /> <!-- スペル スクロール (テレポート) -->
+		<Effect ItemId="40864" SkillId="6" /> <!-- スペル スクロール (アイス ダガー) -->
+		<Effect ItemId="40865" SkillId="7" /> <!-- スペル スクロール (ウィンド カッター) -->
+		<Effect ItemId="40866" SkillId="8" /> <!-- スペル スクロール (ホーリー ウェポン) -->
+		<Effect ItemId="40867" SkillId="9" /> <!-- スペル スクロール (キュア ポイズン) -->
+		<Effect ItemId="40868" SkillId="10" /> <!-- スペル スクロール (チル タッチ) -->
+		<Effect ItemId="40869" SkillId="11" /> <!-- スペル スクロール (カーズポイズン) -->
+		<Effect ItemId="40870" SkillId="12" /> <!-- スペル スクロール (エンチャント ウェポン) -->
+		<Effect ItemId="40871" SkillId="13" /> <!-- スペル スクロール (ディテクション) -->
+		<Effect ItemId="40872" SkillId="14" /> <!-- スペル スクロール (ディクリース ウェイト) -->
+		<Effect ItemId="40873" SkillId="15" /> <!-- スペル スクロール (ファイアー アロー) -->
+		<Effect ItemId="40874" SkillId="16" /> <!-- スペル スクロール (スタラック) -->
+		<Effect ItemId="40875" SkillId="17" /> <!-- スペル スクロール (ライトニング) -->
+		<Effect ItemId="40876" SkillId="18" /> <!-- スペル スクロール (ターン アンデッド) -->
+		<Effect ItemId="40877" SkillId="19" /> <!-- スペル スクロール (エキストラ ヒール) -->
+		<Effect ItemId="40878" SkillId="20" /> <!-- スペル スクロール (カーズ ブラインド) -->
+		<Effect ItemId="40879" SkillId="21" /> <!-- スペル スクロール (ブレスド アーマー) -->
+		<Effect ItemId="40880" SkillId="22" /> <!-- スペル スクロール (フローズン クラウド) -->
+		<Effect ItemId="40881" SkillId="23" /> <!-- スペル スクロール (ウィーク エレメンタル) -->
+		<Effect ItemId="40883" SkillId="25" /> <!-- スペル スクロール (ファイアー ボール) -->
+		<Effect ItemId="40884" SkillId="26" /> <!-- スペル スクロール (フィジカルエンチャント：DEX) -->
+		<Effect ItemId="40885" SkillId="27" /> <!-- スペル スクロール (ウェポン ブレイク) -->
+		<Effect ItemId="40886" SkillId="28" /> <!-- スペル スクロール (バンパイアリック タッチ) -->
+		<Effect ItemId="40887" SkillId="29" /> <!-- スペル スクロール (スロー) -->
+		<Effect ItemId="40888" SkillId="30" /> <!-- スペル スクロール (アース ジェイル) -->
+		<Effect ItemId="40889" SkillId="31" /> <!-- スペル スクロール (カウンター マジック) -->
+		<Effect ItemId="40890" SkillId="32" /> <!-- スペル スクロール (メディテーション) -->
+		<Effect ItemId="40891" SkillId="33" /> <!-- スペル スクロール (カーズ パラライズ) -->
+		<Effect ItemId="40892" SkillId="34" /> <!-- スペル スクロール (コール ライトニング) -->
+		<Effect ItemId="40893" SkillId="35" /> <!-- スペル スクロール (グレーター ヒール) -->
+		<Effect ItemId="40894" SkillId="36" /> <!-- スペル スクロール (テイミング モンスター) -->
+		<Effect ItemId="40895" SkillId="37" /> <!-- スペル スクロール (リムーブ カーズ) -->
+		<Effect ItemId="40896" SkillId="38" /> <!-- スペル スクロール (コーン オブ コールド) -->
+		<Effect ItemId="40897" SkillId="39" /> <!-- スペル スクロール (マナ ドレイン) -->
+		<Effect ItemId="40898" SkillId="40" /> <!-- スペル スクロール (ダークネス) -->
+	</Item>
+</ItemEffectList>

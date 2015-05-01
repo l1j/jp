@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ItemEffectList>
+	<!-- スピリットポーション -->
+	<Item ItemId="40042" Remove="1">
+		<Effect Min="50" Max="50" />
+	</Item>
+	<!-- お餅 -->
+	<Item ItemId="40066" Remove="1">
+		<Effect Min="7" Max="12" />
+	</Item>
+	<!-- よもぎ餅 -->
+	<Item ItemId="40067" Remove="1">
+		<Effect Min="15" Max="30" />
+	</Item>
+	<!-- 勇気のコイン -->
+	<Item ItemId="40735" Remove="1">
+		<Effect Min="60" Max="60" />
+	</Item>
+	<!-- クジャクの霊薬 -->
+	<Item ItemId="41404" Remove="1">
+		<Effect Min="80" Max="100" />
+	</Item>
+	<!-- 銀のチョンズ -->
+	<Item ItemId="41411" Remove="1">
+		<Effect Min="5" Max="15" />
+	</Item>
+	<!-- 金のチョンズ -->
+	<Item ItemId="41412" Remove="1">
+		<Effect Min="5" Max="20" />
+	</Item>
+	<!-- 月餅 -->
+	<Item ItemId="41413" Remove="1">
+		<Effect Min="7" Max="12" />
+	</Item>
+	<!-- 福餅 -->
+	<Item ItemId="41414" Remove="1">
+		<Effect Min="15" Max="30" />
+	</Item>
+</ItemEffectList>

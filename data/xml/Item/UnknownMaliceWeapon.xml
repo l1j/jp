@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ItemEffectList>
+	<!-- マリスエレメントキーリンク -->
+	<Item ItemId="49304" Remove="1">
+		<Effect ItemId="276" />
+	</Item>
+	<!-- マリスエレメントチェーンソード -->
+	<Item ItemId="49305" Remove="1">
+		<Effect ItemId="277" />
+	</Item>
+	<!-- マリスエレメントクロウ -->
+	<Item ItemId="49306" Remove="1">
+		<Effect ItemId="278" />
+	</Item>
+	<!-- マリスエレメントスタッフ -->
+	<Item ItemId="49307" Remove="1">
+		<Effect ItemId="279" />
+	</Item>
+	<!-- マリスエレメントボウ -->
+	<Item ItemId="49308" Remove="1">
+		<Effect ItemId="280" />
+	</Item>
+	<!-- マリスエレメントソード -->
+	<Item ItemId="49309" Remove="1">
+		<Effect ItemId="281" />
+	</Item>
+</ItemEffectList>

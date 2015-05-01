@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ItemEffectList>
+  <!-- マジックヘルム -->
+  <Item ItemId="20011">
+    <Effect Mr="1" />
+  </Item>
+  <!-- マジックヘルム（祝福） -->
+  <Item ItemId="120011">
+    <Effect Mr="1" />
+  </Item>
+  <!-- マジックチェーンメイル -->
+  <Item ItemId="20110">
+    <Effect Mr="1" />
+  </Item>
+  <!-- バフォメットアーマー -->
+  <Item ItemId="20117">
+    <Effect Mr="1" />
+  </Item>
+  <!-- キャラクター名の魔法抵抗のTシャツ -->
+  <Item ItemId="21108">
+    <Effect Mr="1" />
+  </Item>
+  <!-- タラスブーツ -->
+  <Item ItemId="21194">
+    <Effect Mr="1" />
+  </Item>
+  <!-- マジッククローク -->
+  <Item ItemId="20056">
+    <Effect Mr="2" />
+  </Item>
+  <!-- マジッククローク（祝福） -->
+  <Item ItemId="120056">
+    <Effect Mr="2" />
+  </Item>
+  <!-- マジッククローク（呪い） -->
+  <Item ItemId="220056">
+    <Effect Mr="2" />
+  </Item>
+  <!-- フィアバンパイアマント -->
+  <Item ItemId="20465">
+    <Effect Mr="3" />
+  </Item>
+  <!-- フィアバンパイアマント (祝福) -->
+  <Item ItemId="120465">
+    <Effect Mr="3" />
+  </Item>
+  <!-- ホノオノ外套 -->
+  <Item ItemId="21235">
+    <Effect Mr="3" />
+  </Item>
+  <!-- コオリノ外套 -->
+  <Item ItemId="21236">
+    <Effect Mr="3" />
+  </Item>
+  <!-- 幸運のマント -->
+  <Item ItemId="21299">
+    <Effect Mr="2" />
+  </Item>
+  <!-- ニューデパーチュアガーダー -->
+  <Item ItemId="21301">
+    <Effect Mr="2" />
+  </Item>
+</ItemEffectList>

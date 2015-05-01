@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ItemEffectList>
+	<!-- 祈りのポーション -->
+	<Item ItemId="50616" Remove="1">
+		<Effect Time="1500" Exp="20" GfxId="7892" />
+	</Item>
+	<!-- 祈りのポーションII -->
+	<Item ItemId="50617" Remove="1">
+		<Effect Time="1500" Exp="30" GfxId="8049" />
+	</Item>
+	<!-- 剣士のポーション -->
+	<Item ItemId="50618" Remove="1">
+		<Effect Time="1500" GfxId="7478" Hp="100" Hpr="8" />
+	</Item>
+	<!-- 術士のポーション -->
+	<Item ItemId="50619" Remove="1">
+		<Effect Time="1500" GfxId="7479" Mp="60" Mpr="4"  />
+	</Item>
+	<!-- 治癒のポーション -->
+	<Item ItemId="50620" Remove="1">
+		<Effect Time="1500" GfxId="7245" Hpr="10" />
+	</Item>
+	<!-- 瞑想のポーション -->
+	<Item ItemId="50621" Remove="1">
+		<Effect Time="1500" GfxId="7246" Mpr="5" />
+	</Item>
+	<!-- 生命のポーション -->
+	<Item ItemId="50622" Remove="1">
+		<Effect Time="1500" GfxId="7247" Hp="120" />
+	</Item>
+	<!-- 魔法のポーション -->
+	<Item ItemId="50623" Remove="1">
+		<Effect Time="1500" GfxId="7248" Mp="80" />
+	</Item>
+	<!-- 魔法抵抗のポーション -->
+	<Item ItemId="50624" Remove="1">
+		<Effect Time="1500" GfxId="7249" Mr="10" />
+	</Item>
+	<!-- 腕力のポーション -->
+	<Item ItemId="50625" Remove="1">
+		<Effect Time="1500" GfxId="7250" Str="2" />
+	</Item>
+	<!-- 機敏のポーション -->
+	<Item ItemId="50626" Remove="1">
+		<Effect Time="1500" GfxId="7251" Dex="2" />
+	</Item>
+	<!-- 体力のポーション -->
+	<Item ItemId="50627" Remove="1">
+		<Effect Time="1500" GfxId="7252" Con="2" />
+	</Item>
+	<!-- 知力のポーション -->
+	<Item ItemId="50628" Remove="1">
+		<Effect Time="1500" GfxId="7253" Int="2" />
+	</Item>
+	<!-- 精神のポーション -->
+	<Item ItemId="50629" Remove="1">
+		<Effect Time="1500" GfxId="7254" Wis="2" />
+	</Item>
+	<!-- 憤怒のポーション -->
+	<Item ItemId="50630" Remove="1">
+		<Effect Time="1500" GfxId="7255" Hit="2" Dmg="2" BowHit="2" BowDmg="2"  />
+	</Item>
+	<!-- 集中のポーション -->
+	<Item ItemId="50631" Remove="1">
+		<Effect Time="1500" GfxId="7256" Sp="3" />
+	</Item>
+</ItemEffectList>

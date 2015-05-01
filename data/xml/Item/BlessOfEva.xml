@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ItemEffectList>
+	<!-- エヴァの祝福 -->
+	<Item ItemId="40032" Remove="1">
+		<Effect Time="1800" GfxId="190" />
+	</Item>
+	<!-- マーメイドの鱗 -->
+	<Item ItemId="40041" Remove="1">
+		<Effect Time="300" GfxId="190" />
+	</Item>
+	<!-- 水の精粋 -->
+	<Item ItemId="41344" Remove="1">
+		<Effect Time="2100" GfxId="190" />
+	</Item>
+	<!-- 村人の呼吸ポーション -->
+	<Item ItemId="41478" Remove="1">
+		<Effect Time="7200" GfxId="190" />
+	</Item>
+</ItemEffectList>

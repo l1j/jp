@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ItemEffectList>
+	<!-- チーズケーキ -->
+	<Item ItemId="49139" Remove="1">
+		<Effect Time="900" GfxId="8031" GfxId2="8" />
+	</Item>
+	<!-- ドラゴンブラッド -->
+	<Item ItemId="50001" Remove="1">
+		<Effect Time="600" GfxId="8031" GfxId2="8" />
+	</Item>
+</ItemEffectList>

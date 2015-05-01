@@ -1,0 +1,932 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NpcActionList>
+	<!--渓谷の印 / ティーオ-->
+	<Action Name="request amulet of valley" NpcId="70518">
+		<MakeItem AmountInputable="false">
+			<Material Amount="1" ItemId="40653"/>
+			<Item Amount="1" ItemId="20243"/>
+		</MakeItem>
+	</Action>
+	<!--電卓 / ブレーズ-->
+	<Action Name="1" NpcId="70605">
+		<MakeItem AmountInputable="false">
+			<Material Amount="1" ItemId="40526"/>
+			<Material Amount="5" ItemId="40779"/>
+			<Material Amount="1000" ItemId="40308"/>
+			<Item Amount="1" ItemId="40391"/>
+		</MakeItem>
+	</Action>
+	<!--研磨材 / ティミー-->
+	<Action Name="1" NpcId="71006">
+		<MakeItem AmountInputable="false">
+			<Material Amount="1" ItemId="41209"/>
+			<Item Amount="1" ItemId="41210"/>
+			<Succeed>
+				<ShowHtml HtmlId="jpe0055"/>
+			</Succeed>
+		</MakeItem>
+	</Action>
+	<!--ハーブ / 鍛冶屋ロン-->
+	<Action Name="request ei004" NpcId="71003">
+		<MakeItem AmountInputable="false">
+			<Material Amount="1" ItemId="41210"/>
+			<Item Amount="1" ItemId="41211"/>
+		</MakeItem>
+	</Action>
+	<!--特製キャンディー/ 薬剤師イクシー-->
+	<Action Name="request ei005" NpcId="71001">
+		<MakeItem AmountInputable="false">
+			<Material Amount="1" ItemId="41211"/>
+			<Item Amount="1" ItemId="41212"/>
+		</MakeItem>
+	</Action> 
+	<!--シアンポーション / チコリー-->
+	<Action Name="1" NpcId="71009">
+		<MakeItem AmountInputable="false">
+			<Material Amount="3" ItemId="41222"/>
+			<Item Amount="1" ItemId="40017"/>
+			<Succeed>
+				<ShowHtml HtmlId="jpe0074"/>
+			</Succeed>
+		</MakeItem>
+	</Action>
+	<!--バナナジュース / ブリアナ-->
+	<Action Name="1" NpcId="71011">
+		<MakeItem AmountInputable="false">
+			<Material Amount="3" ItemId="40060"/>
+			<Material Amount="3" ItemId="40061"/>
+			<Material Amount="3" ItemId="40062"/>
+			<Item Amount="1" ItemId="40026"/>
+			<Succeed>
+				<ShowHtml HtmlId="jpe0065"/>
+			</Succeed>
+		</MakeItem>
+	</Action>
+	<!--君主の袋 / 冒険者エータ-->
+	<Action Name="request ei028" NpcId="71032">
+		<MakeItem AmountInputable="false">
+			<Material Amount="1" ItemId="41214"/>
+			<Material Amount="5" ItemId="41215"/>
+			<Material Amount="5" ItemId="41216"/>
+			<Item Amount="1" ItemId="41217"/>
+		</MakeItem>
+	</Action>
+	<!--ナイトの袋 / 冒険者エータ-->
+	<Action Name="request ei029" NpcId="71032">
+		<MakeItem AmountInputable="false">
+			<Material Amount="1" ItemId="41214"/>
+			<Material Amount="5" ItemId="41215"/>
+			<Material Amount="5" ItemId="41216"/>
+			<Item Amount="1" ItemId="41218"/>
+		</MakeItem>
+	</Action>
+	<!--エルフのの袋 / 冒険者エータ-->
+	<Action Name="request ei030" NpcId="71032">
+		<MakeItem AmountInputable="false">
+			<Material Amount="1" ItemId="41214"/>
+			<Material Amount="5" ItemId="41215"/>
+			<Material Amount="5" ItemId="41216"/>
+			<Item Amount="1" ItemId="41219"/>
+		</MakeItem>
+	</Action>
+	<!--ウィザードの袋 / 冒険者エータ-->
+	<Action Name="request ei031" NpcId="71032">
+		<MakeItem AmountInputable="false">
+			<Material Amount="1" ItemId="41214"/>
+			<Material Amount="5" ItemId="41215"/>
+			<Material Amount="5" ItemId="41216"/>
+			<Item Amount="1" ItemId="41220"/>
+		</MakeItem>
+	</Action>
+	<!--ダークエルフの袋 / 冒険者エータ-->
+	<Action Name="request ei032" NpcId="71032">
+		<MakeItem AmountInputable="false">
+			<Material Amount="1" ItemId="41214"/>
+			<Material Amount="5" ItemId="41215"/>
+			<Material Amount="5" ItemId="41216"/>
+			<Item Amount="1" ItemId="41221"/>
+		</MakeItem>
+	</Action>
+	<!--渓谷の印 / ルバー-->
+	<Action Name="request amulet of valley" NpcId="70506">
+		<MakeItem AmountInputable="false">
+			<Material Amount="1" ItemId="40653"/>
+			<Item Amount="1" ItemId="20243"/>
+		</MakeItem>
+	</Action>
+	<!--島の印 / ルバー-->
+	<Action Name="request amulet of island" NpcId="70506">
+		<MakeItem AmountInputable="false">
+			<Material Amount="1" ItemId="40613"/>
+			<Item Amount="1" ItemId="20259"/>
+		</MakeItem>
+	</Action>
+	<!--ラビのお守り / ラビ-->
+	<Action Name="request ei034" NpcId="71034">
+		<MakeItem AmountInputable="false">
+			<Material Amount="1" ItemId="41227"/>
+			<Item Amount="1" ItemId="41228"/>
+		</MakeItem>
+	</Action>
+	<!--象牙の塔のリング / ハーミット-->
+	<Action Name="request ring of oren tower" NpcId="71033">
+		<MakeItem AmountInputable="false">
+			<Material Amount="1" ItemId="41228"/>
+			<Item Amount="1" ItemId="20282"/>
+		</MakeItem>
+	</Action>
+	<!--ジーナンの手紙 / 骨細工師ジーナン-->
+	<Action Name="0" NpcId="71022">
+		<MakeItem AmountInputable="false">
+			<Material Amount="5" ItemId="41229"/>
+			<Item Amount="1" ItemId="41230"/>
+			<Succeed>
+				<ShowHtml HtmlId="jpe0154"/>
+			</Succeed>
+		</MakeItem>
+	</Action>
+	<!--マッティーの手紙 / 骨細工師マッティー-->
+	<Action Name="request ei021" NpcId="71021">
+		<MakeItem AmountInputable="false">
+			<Material Amount="1" ItemId="41230"/>
+			<Item Amount="1" ItemId="41231"/>
+		</MakeItem>
+	</Action>
+	<!--ジョンの届け物 / ジョン-->
+	<Action Name="0" NpcId="71020">
+		<MakeItem AmountInputable="false">
+			<Material Amount="1" ItemId="41231"/>
+			<Item Amount="1" ItemId="41232"/>
+		</MakeItem>
+	</Action>
+	<!--材料表 / 骨細工師ケーイ-->
+	<Action Name="0" NpcId="71023">
+		<MakeItem AmountInputable="false">
+			<Material Amount="1" ItemId="41233"/>
+			<Material Amount="1" ItemId="41234"/>
+			<Item Amount="1" ItemId="41235"/>
+		<Succeed>
+			<ShowHtml HtmlId="jpe0146"/>
+		</Succeed>
+		</MakeItem>
+	</Action>
+	<!--ケーイの届け物 / 骨細工師ケーイ-->
+	<Action Name="1" NpcId="71023">
+		<MakeItem AmountInputable="false">
+			<Material Amount="1" ItemId="41235"/>
+			<Material Amount="3" ItemId="41236"/>
+			<Material Amount="3" ItemId="41237"/>
+			<Item Amount="1" ItemId="41238"/>
+		<Succeed>
+			<ShowHtml HtmlId="jpe0147"/>
+		</Succeed>
+		</MakeItem>
+	</Action>	
+	<!--骨細工師の袋 / 弟子ヴィート-->
+	<Action Name="0" NpcId="71019">
+		<MakeItem AmountInputable="false">
+			<Material Amount="1" ItemId="41239"/>
+			<Item Amount="1" ItemId="41241"/>
+		<Succeed>
+			<ShowHtml HtmlId="jpe0116"/>
+		</Succeed>
+		</MakeItem>
+	</Action>
+	<!--ボーンアーマー / フェーダ-->
+	<Action Name="0" NpcId="71018">
+	<MakeItem AmountInputable="false">
+		<Material Amount="1" ItemId="41240"/>
+		<Item Amount="1" ItemId="20124"/>
+		<Succeed>
+			<ShowHtml HtmlId="jpe0135"/>
+		</Succeed>
+		</MakeItem>
+	</Action>
+	<!--パゴの薬 / パゴ-->
+	<Action Name="request ei014" NpcId="70005">
+	<MakeItem AmountInputable="false">
+		<Material Amount="1" ItemId="41225"/>
+		<Item Amount="1" ItemId="41226"/>
+		</MakeItem>
+	</Action>
+	<!--1000アデナ / ケスキン-->
+	<Action Name="1" NpcId="71025">
+	<MakeItem AmountInputable="false">
+		<Material Amount="1" ItemId="41226"/>
+		<Material Amount="1" ItemId="40653"/>
+		<Item Amount="1000" ItemId="40308"/>
+		<Succeed>
+			<ShowHtml HtmlId="jpe0085"/>
+		</Succeed>
+		</MakeItem>
+	</Action>
+	<!--1000アデナ / ケスキン-->
+	<Action Name="2" NpcId="71025">
+	<MakeItem AmountInputable="false">
+		<Material Amount="1" ItemId="41226"/>
+		<Material Amount="1" ItemId="40613"/>
+		<Item Amount="1000" ItemId="40308"/>
+		<Succeed>
+			<ShowHtml HtmlId="jpe0085"/>
+		</Succeed>
+		</MakeItem>
+	</Action>
+	<!--鉱物の袋 / 坑夫オーム-->
+	<Action Name="request mineral bag">
+		<MakeItem>
+			<Item Amount="1" ItemId="41002"/>
+			<Material Amount="1" ItemId="40614"/>
+		</MakeItem>
+	</Action>
+	<!--ツルハシ / ダルフガーディン-->
+	<Action Name="request hoe" NpcId="71166">
+		<MakeItem>
+			<Item Amount="1" ItemId="40527"/>
+			<Material Amount="5" ItemId="40899"/>
+			<Material Amount="300" ItemId="40308"/>
+		</MakeItem>
+	</Action>
+	<!--オームの袋 / 坑夫オーム-->
+	<Action Name="request oum giftbag" NpcId="71146">
+		<MakeItem>
+			<Item Amount="1" ItemId="40687"/>
+			<Material Amount="1" ItemId="40527"/>
+			<Succeed>
+				<ShowHtml HtmlId="midoum3"/>
+			</Succeed>
+		</MakeItem>
+	</Action>
+	<!--修理されたイアリング / 釣りおばさん-->
+	<Action Name="request not_broken earring" NpcId="80081">
+		<MakeItem>
+			<Item Amount="1" ItemId="21049"/>
+			<Material Amount="1" ItemId="41305"/>
+			<Material Amount="1" ItemId="41303"/>
+			<Material Amount="1000" ItemId="40308"/>
+		</MakeItem>
+	</Action>
+	<!--修理されたリング / 釣りおばさん-->
+	<Action Name="request not_broken ring left" NpcId="80081">
+		<MakeItem>
+			<Item Amount="1" ItemId="21048"/>
+			<Material Amount="1" ItemId="41306"/>
+			<Material Amount="1" ItemId="41302"/>
+			<Material Amount="1000" ItemId="40308"/>
+		</MakeItem>
+	</Action>
+	<!--修理されたネックレス / 釣りおばさん-->
+	<Action Name="request not_broken amulet" NpcId="80081">
+		<MakeItem>
+			<Item Amount="1" ItemId="21050"/>
+			<Material Amount="1" ItemId="41307"/>
+			<Material Amount="1" ItemId="41301"/>
+			<Material Amount="1000" ItemId="40308"/>
+		</MakeItem>
+	</Action>
+	<!--防具強化スクロール / 釣りおばさん-->
+	<Action Name="request scroll of enchant armor" NpcId="80081">
+		<MakeItem>
+			<Item Amount="1" ItemId="40074"/>
+			<Material Amount="15" ItemId="41294"/>
+		</MakeItem>
+	</Action>
+	<!--防具魔法スクロール / 旅人案内人-->
+	<Action Name="8" NpcId="80180">
+		<MakeItem AmountInputable="false">
+			<Item Amount="1" ItemId="50541"/>
+			<Material Amount="1000" ItemId="40308"/>
+			<Succeed>
+				<ShowHtml HtmlId="lowlv18"/>
+			</Succeed>
+			<Fail>
+				<ShowHtml HtmlId="lowlv20"/>
+			</Fail>
+		</MakeItem>
+	</Action>
+	<Action Name="9" NpcId="80180">
+		<MakeItem AmountInputable="false">
+			<Item Amount="2" ItemId="50541"/>
+			<Material Amount="2000" ItemId="40308"/>
+			<Succeed>
+				<ShowHtml HtmlId="lowlv18"/>
+			</Succeed>
+			<Fail>
+				<ShowHtml HtmlId="lowlv20"/>
+			</Fail>
+		</MakeItem>
+	</Action>
+	<Action Name=":" NpcId="80180">
+		<MakeItem AmountInputable="false">
+			<Item Amount="3" ItemId="50541"/>
+			<Material Amount="3000" ItemId="40308"/>
+			<Succeed>
+				<ShowHtml HtmlId="lowlv18"/>
+			</Succeed>
+			<Fail>
+				<ShowHtml HtmlId="lowlv20"/>
+			</Fail>
+		</MakeItem>
+	</Action>
+	<Action Name=";" NpcId="80180">
+		<MakeItem AmountInputable="false">
+			<Item Amount="4" ItemId="50541"/>
+			<Material Amount="4000" ItemId="40308"/>
+			<Succeed>
+				<ShowHtml HtmlId="lowlv18"/>
+			</Succeed>
+			<Fail>
+				<ShowHtml HtmlId="lowlv20"/>
+			</Fail>
+		</MakeItem>
+	</Action>
+	<Action Name="=" NpcId="80180">
+		<MakeItem AmountInputable="false">
+			<Item Amount="6" ItemId="50541"/>
+			<Material Amount="6000" ItemId="40308"/>
+			<Succeed>
+				<ShowHtml HtmlId="lowlv18"/>
+			</Succeed>
+			<Fail>
+				<ShowHtml HtmlId="lowlv20"/>
+			</Fail>
+		</MakeItem>
+	</Action>
+	<Action Name="?" NpcId="80180">
+		<MakeItem AmountInputable="false">
+			<Item Amount="8" ItemId="50541"/>
+			<Material Amount="8000" ItemId="40308"/>
+			<Succeed>
+				<ShowHtml HtmlId="lowlv18"/>
+			</Succeed>
+			<Fail>
+				<ShowHtml HtmlId="lowlv20"/>
+			</Fail>
+		</MakeItem>
+	</Action>
+	<Action Name="@" NpcId="80180">
+		<MakeItem AmountInputable="false">
+			<Item Amount="9" ItemId="50541"/>
+			<Material Amount="9000" ItemId="40308"/>
+			<Succeed>
+				<ShowHtml HtmlId="lowlv18"/>
+			</Succeed>
+			<Fail>
+				<ShowHtml HtmlId="lowlv20"/>
+			</Fail>
+		</MakeItem>
+	</Action>
+	<Action Name="A" NpcId="80180">
+		<MakeItem AmountInputable="false">
+			<Item Amount="10" ItemId="50541"/>
+			<Material Amount="10000" ItemId="40308"/>
+			<Succeed>
+				<ShowHtml HtmlId="lowlv18"/>
+			</Succeed>
+			<Fail>
+				<ShowHtml HtmlId="lowlv20"/>
+			</Fail>
+		</MakeItem>
+	</Action>
+	<Action Name="B" NpcId="80180">
+		<MakeItem AmountInputable="false">
+			<Item Amount="11" ItemId="50541"/>
+			<Material Amount="11000" ItemId="40308"/>
+			<Succeed>
+				<ShowHtml HtmlId="lowlv18"/>
+			</Succeed>
+			<Fail>
+				<ShowHtml HtmlId="lowlv20"/>
+			</Fail>
+		</MakeItem>
+	</Action>
+	<Action Name="C" NpcId="80180">
+		<MakeItem AmountInputable="false">
+			<Item Amount="12" ItemId="50541"/>
+			<Material Amount="12000" ItemId="40308"/>
+			<Succeed>
+				<ShowHtml HtmlId="lowlv18"/>
+			</Succeed>
+			<Fail>
+				<ShowHtml HtmlId="lowlv20"/>
+			</Fail>
+		</MakeItem>
+	</Action>
+	<Action Name="D" NpcId="80180">
+		<MakeItem AmountInputable="false">
+			<Item Amount="13" ItemId="50541"/>
+			<Material Amount="13000" ItemId="40308"/>
+			<Succeed>
+				<ShowHtml HtmlId="lowlv18"/>
+			</Succeed>
+			<Fail>
+				<ShowHtml HtmlId="lowlv20"/>
+			</Fail>
+		</MakeItem>
+	</Action>
+	<Action Name="E" NpcId="80180">
+		<MakeItem AmountInputable="false">
+			<Item Amount="14" ItemId="50541"/>
+			<Material Amount="14000" ItemId="40308"/>
+			<Succeed>
+				<ShowHtml HtmlId="lowlv18"/>
+			</Succeed>
+			<Fail>
+				<ShowHtml HtmlId="lowlv20"/>
+			</Fail>
+		</MakeItem>
+	</Action>
+	<Action Name="F" NpcId="80180">
+		<MakeItem AmountInputable="false">
+			<Item Amount="15" ItemId="50541"/>
+			<Material Amount="15000" ItemId="40308"/>
+			<Succeed>
+				<ShowHtml HtmlId="lowlv18"/>
+			</Succeed>
+			<Fail>
+				<ShowHtml HtmlId="lowlv20"/>
+			</Fail>
+		</MakeItem>
+	</Action>
+	<Action Name="G" NpcId="80180">
+		<MakeItem AmountInputable="false">
+			<Item Amount="16" ItemId="50541"/>
+			<Material Amount="16000" ItemId="40308"/>
+			<Succeed>
+				<ShowHtml HtmlId="lowlv18"/>
+			</Succeed>
+			<Fail>
+				<ShowHtml HtmlId="lowlv20"/>
+			</Fail>
+		</MakeItem>
+	</Action>
+	<Action Name="H" NpcId="80180">
+		<MakeItem AmountInputable="false">
+			<Item Amount="17" ItemId="50541"/>
+			<Material Amount="17000" ItemId="40308"/>
+			<Succeed>
+				<ShowHtml HtmlId="lowlv18"/>
+			</Succeed>
+			<Fail>
+				<ShowHtml HtmlId="lowlv20"/>
+			</Fail>
+		</MakeItem>
+	</Action>
+	<Action Name="I" NpcId="80180">
+		<MakeItem AmountInputable="false">
+			<Item Amount="18" ItemId="50541"/>
+			<Material Amount="18000" ItemId="40308"/>
+			<Succeed>
+				<ShowHtml HtmlId="lowlv18"/>
+			</Succeed>
+			<Fail>
+				<ShowHtml HtmlId="lowlv20"/>
+			</Fail>
+		</MakeItem>
+	</Action>
+	<Action Name="J" NpcId="80180">
+		<MakeItem AmountInputable="false">
+			<Item Amount="19" ItemId="50541"/>
+			<Material Amount="19000" ItemId="40308"/>
+			<Succeed>
+				<ShowHtml HtmlId="lowlv18"/>
+			</Succeed>
+			<Fail>
+				<ShowHtml HtmlId="lowlv20"/>
+			</Fail>
+		</MakeItem>
+	</Action>
+	<Action Name="K" NpcId="80180">
+		<MakeItem AmountInputable="false">
+			<Item Amount="20" ItemId="50541"/>
+			<Material Amount="20000" ItemId="40308"/>
+			<Succeed>
+				<ShowHtml HtmlId="lowlv18"/>
+			</Succeed>
+			<Fail>
+				<ShowHtml HtmlId="lowlv20"/>
+			</Fail>
+		</MakeItem>
+	</Action>
+	<!--武器魔法スクロール / 旅人案内人-->
+	<Action Name="L" NpcId="80180">
+		<MakeItem AmountInputable="false">
+			<Item Amount="1" ItemId="50542"/>
+			<Material Amount="1500" ItemId="40308"/>
+			<Succeed>
+				<ShowHtml HtmlId="lowlv19"/>
+			</Succeed>
+			<Fail>
+				<ShowHtml HtmlId="lowlv20"/>
+			</Fail>
+		</MakeItem>
+	</Action>
+  <Action Name="M" NpcId="80180">
+		<MakeItem AmountInputable="false">
+			<Item Amount="2" ItemId="50542"/>
+			<Material Amount="3000" ItemId="40308"/>
+			<Succeed>
+				<ShowHtml HtmlId="lowlv19"/>
+			</Succeed>
+			<Fail>
+				<ShowHtml HtmlId="lowlv20"/>
+			</Fail>
+		</MakeItem>
+	</Action>
+  <Action Name="N" NpcId="80180">
+		<MakeItem AmountInputable="false">
+			<Item Amount="3" ItemId="50542"/>
+			<Material Amount="4500" ItemId="40308"/>
+			<Succeed>
+				<ShowHtml HtmlId="lowlv19"/>
+			</Succeed>
+			<Fail>
+				<ShowHtml HtmlId="lowlv20"/>
+			</Fail>
+		</MakeItem>
+	</Action>
+  <Action Name="O" NpcId="80180">
+		<MakeItem AmountInputable="false">
+			<Item Amount="4" ItemId="50542"/>
+			<Material Amount="6000" ItemId="40308"/>
+			<Succeed>
+				<ShowHtml HtmlId="lowlv19"/>
+			</Succeed>
+			<Fail>
+				<ShowHtml HtmlId="lowlv20"/>
+			</Fail>
+		</MakeItem>
+	</Action>
+  <Action Name="P" NpcId="80180">
+		<MakeItem AmountInputable="false">
+			<Item Amount="5" ItemId="50542"/>
+			<Material Amount="7500" ItemId="40308"/>
+			<Succeed>
+				<ShowHtml HtmlId="lowlv19"/>
+			</Succeed>
+			<Fail>
+				<ShowHtml HtmlId="lowlv20"/>
+			</Fail>
+		</MakeItem>
+	</Action>
+  <Action Name="Q" NpcId="80180">
+		<MakeItem AmountInputable="false">
+			<Item Amount="6" ItemId="50542"/>
+			<Material Amount="9000" ItemId="40308"/>
+			<Succeed>
+				<ShowHtml HtmlId="lowlv19"/>
+			</Succeed>
+			<Fail>
+				<ShowHtml HtmlId="lowlv20"/>
+			</Fail>
+		</MakeItem>
+	</Action>
+  <Action Name="R" NpcId="80180">
+		<MakeItem AmountInputable="false">
+			<Item Amount="7" ItemId="50542"/>
+			<Material Amount="10500" ItemId="40308"/>
+			<Succeed>
+				<ShowHtml HtmlId="lowlv19"/>
+			</Succeed>
+			<Fail>
+				<ShowHtml HtmlId="lowlv20"/>
+			</Fail>
+		</MakeItem>
+	</Action>
+  <Action Name="S" NpcId="80180">
+		<MakeItem AmountInputable="false">
+			<Item Amount="8" ItemId="50542"/>
+			<Material Amount="12000" ItemId="40308"/>
+			<Succeed>
+				<ShowHtml HtmlId="lowlv19"/>
+			</Succeed>
+			<Fail>
+				<ShowHtml HtmlId="lowlv20"/>
+			</Fail>
+		</MakeItem>
+	</Action>
+  <Action Name="T" NpcId="80180">
+		<MakeItem AmountInputable="false">
+			<Item Amount="9" ItemId="50542"/>
+			<Material Amount="13500" ItemId="40308"/>
+			<Succeed>
+				<ShowHtml HtmlId="lowlv19"/>
+			</Succeed>
+			<Fail>
+				<ShowHtml HtmlId="lowlv20"/>
+			</Fail>
+		</MakeItem>
+	</Action>
+  <Action Name="U" NpcId="80180">
+		<MakeItem AmountInputable="false">
+			<Item Amount="10" ItemId="50542"/>
+			<Material Amount="15000" ItemId="40308"/>
+			<Succeed>
+				<ShowHtml HtmlId="lowlv19"/>
+			</Succeed>
+			<Fail>
+				<ShowHtml HtmlId="lowlv20"/>
+			</Fail>
+		</MakeItem>
+	</Action>
+  <Action Name="V" NpcId="80180">
+		<MakeItem AmountInputable="false">
+			<Item Amount="11" ItemId="50542"/>
+			<Material Amount="16500" ItemId="40308"/>
+			<Succeed>
+				<ShowHtml HtmlId="lowlv19"/>
+			</Succeed>
+			<Fail>
+				<ShowHtml HtmlId="lowlv20"/>
+			</Fail>
+		</MakeItem>
+	</Action>
+  <Action Name="W" NpcId="80180">
+		<MakeItem AmountInputable="false">
+			<Item Amount="12" ItemId="50542"/>
+			<Material Amount="18000" ItemId="40308"/>
+			<Succeed>
+				<ShowHtml HtmlId="lowlv19"/>
+			</Succeed>
+			<Fail>
+				<ShowHtml HtmlId="lowlv20"/>
+			</Fail>
+		</MakeItem>
+	</Action>
+  <Action Name="X" NpcId="80180">
+		<MakeItem AmountInputable="false">
+			<Item Amount="13" ItemId="50542"/>
+			<Material Amount="19500" ItemId="40308"/>
+			<Succeed>
+				<ShowHtml HtmlId="lowlv19"/>
+			</Succeed>
+			<Fail>
+				<ShowHtml HtmlId="lowlv20"/>
+			</Fail>
+		</MakeItem>
+	</Action>
+  <Action Name="Y" NpcId="80180">
+		<MakeItem AmountInputable="false">
+			<Item Amount="14" ItemId="50542"/>
+			<Material Amount="21000" ItemId="40308"/>
+			<Succeed>
+				<ShowHtml HtmlId="lowlv19"/>
+			</Succeed>
+			<Fail>
+				<ShowHtml HtmlId="lowlv20"/>
+			</Fail>
+		</MakeItem>
+	</Action>
+  <Action Name="Z" NpcId="80180">
+		<MakeItem AmountInputable="false">
+			<Item Amount="15" ItemId="50542"/>
+			<Material Amount="22500" ItemId="40308"/>
+			<Succeed>
+				<ShowHtml HtmlId="lowlv19"/>
+			</Succeed>
+			<Fail>
+				<ShowHtml HtmlId="lowlv20"/>
+			</Fail>
+		</MakeItem>
+	</Action>
+  <Action Name="[" NpcId="80180">
+		<MakeItem AmountInputable="false">
+			<Item Amount="16" ItemId="50542"/>
+			<Material Amount="24000" ItemId="40308"/>
+			<Succeed>
+				<ShowHtml HtmlId="lowlv19"/>
+			</Succeed>
+			<Fail>
+				<ShowHtml HtmlId="lowlv20"/>
+			</Fail>
+		</MakeItem>
+	</Action>
+  <Action Name="\" NpcId="80180">
+		<MakeItem AmountInputable="false">
+			<Item Amount="17" ItemId="50542"/>
+			<Material Amount="25500" ItemId="40308"/>
+			<Succeed>
+				<ShowHtml HtmlId="lowlv19"/>
+			</Succeed>
+			<Fail>
+				<ShowHtml HtmlId="lowlv20"/>
+			</Fail>
+		</MakeItem>
+	</Action>
+  <Action Name="]" NpcId="80180">
+		<MakeItem AmountInputable="false">
+			<Item Amount="18" ItemId="50542"/>
+			<Material Amount="27000" ItemId="40308"/>
+			<Succeed>
+				<ShowHtml HtmlId="lowlv19"/>
+			</Succeed>
+			<Fail>
+				<ShowHtml HtmlId="lowlv20"/>
+			</Fail>
+		</MakeItem>
+	</Action>
+  <Action Name="^" NpcId="80180">
+		<MakeItem AmountInputable="false">
+			<Item Amount="19" ItemId="50542"/>
+			<Material Amount="28500" ItemId="40308"/>
+			<Succeed>
+				<ShowHtml HtmlId="lowlv19"/>
+			</Succeed>
+			<Fail>
+				<ShowHtml HtmlId="lowlv20"/>
+			</Fail>
+		</MakeItem>
+	</Action>
+  <Action Name="_" NpcId="80180">
+		<MakeItem AmountInputable="false">
+			<Item Amount="20" ItemId="50542"/>
+			<Material Amount="30000" ItemId="40308"/>
+			<Succeed>
+				<ShowHtml HtmlId="lowlv19"/>
+			</Succeed>
+			<Fail>
+				<ShowHtml HtmlId="lowlv20"/>
+			</Fail>
+		</MakeItem>
+	</Action>
+	<!--象牙の塔の妙薬 / 旅人案内人-->
+	<Action Name="5" NpcId="80180">
+		<MakeItem AmountInputable="false">
+			<Item Amount="1" ItemId="50543"/>
+			<Material Amount="250" ItemId="40308"/>
+			<Succeed>
+				<ShowHtml HtmlId="lowlv21"/>
+			</Succeed>
+			<Fail>
+				<ShowHtml HtmlId="lowlv20"/>
+			</Fail>
+		</MakeItem>
+	</Action>
+	<!--新生のベルト(水) / 特典アイテム管理人-->
+	<Action Name="a" NpcId="81200">
+		<MakeItem>
+			<Item Amount="1" ItemId="21070"/>
+			<Material Amount="1" ItemId="21069"/>
+		</MakeItem>
+	</Action>
+	<!--新生のベルト(火) / 特典アイテム管理人-->
+	<Action Name="b" NpcId="81200">
+		<MakeItem>
+			<Item Amount="1" ItemId="21072"/>
+			<Material Amount="1" ItemId="21069"/>
+		</MakeItem>
+	</Action>
+	<!--新生のベルト(風) / 特典アイテム管理人-->
+	<Action Name="c" NpcId="81200">
+		<MakeItem>
+			<Item Amount="1" ItemId="21071"/>
+			<Material Amount="1" ItemId="21069"/>
+		</MakeItem>
+	</Action>
+	<!--新生のベルト(地) / 特典アイテム管理人-->
+	<Action Name="d" NpcId="81200">
+		<MakeItem>
+			<Item Amount="1" ItemId="21073"/>
+			<Material Amount="1" ItemId="21069"/>
+		</MakeItem>
+	</Action>
+	<!--親睦のイアリング(AC1-HP20) / 特典アイテム管理人-->
+	<Action Name="e" NpcId="81200">
+		<MakeItem>
+			<Item Amount="1" ItemId="21075"/>
+			<Material Amount="1" ItemId="21074"/>
+		</MakeItem>
+	</Action>
+	<!--親睦のイアリング(AC1-MP10) / 特典アイテム管理人-->
+	<Action Name="f" NpcId="81200">
+		<MakeItem>
+			<Item Amount="1" ItemId="21076"/>
+			<Material Amount="1" ItemId="21074"/>
+		</MakeItem>
+	</Action>
+	<!--親睦のイアリング(AC1-HP10-MP5) / 特典アイテム管理人-->
+	<Action Name="g" NpcId="81200">
+		<MakeItem>
+			<Item Amount="1" ItemId="21077"/>
+			<Material Amount="1" ItemId="21074"/>
+		</MakeItem>
+	</Action>
+	<!--親睦のイアリング(MR2-HP20) / 特典アイテム管理人-->
+	<Action Name="h" NpcId="81200">
+		<MakeItem>
+			<Item Amount="1" ItemId="21078"/>
+			<Material Amount="1" ItemId="21074"/>
+		</MakeItem>
+	</Action>
+	<!--親睦のイアリング(MR2-MP10) / 特典アイテム管理人-->
+	<Action Name="i" NpcId="81200">
+		<MakeItem>
+			<Item Amount="1" ItemId="21079"/>
+			<Material Amount="1" ItemId="21074"/>
+		</MakeItem>
+	</Action>
+	<!--親睦のイアリング(MR2-HP10-MP5) / 特典アイテム管理人-->
+	<Action Name="j" NpcId="81200">
+		<MakeItem>
+			<Item Amount="1" ItemId="21080"/>
+			<Material Amount="1" ItemId="21074"/>
+		</MakeItem>
+	</Action>
+	<!--真冥王の防具秘法書 / 副官マールベス-->
+	<Action Name="request dantes manual" NpcId="71169">
+		<MakeItem>
+			<Item Amount="1" ItemId="40966"/>
+			<Material Amount="1" ItemId="41035"/>
+		</MakeItem>
+	</Action>
+	<!-- ドルーガバッグ－助言 -->
+	<Action Name="1" NpcId="91050">
+		<MakeItem AmountInputable="false">
+			<Item Amount="0" ItemId="40308"/>
+			<Material Amount="100" ItemId="40308"/>
+			<Succeed>
+				<ShowHtml HtmlId="veil9"/>
+			</Succeed>
+			<Fail>
+				<ShowHtml HtmlId="veil11"/>
+			</Fail>
+		</MakeItem>
+	</Action>
+	<!-- ドルーガバッグ－袋購入 -->
+	<Action Name="0" NpcId="91050">
+		<MakeItem AmountInputable="false">
+			<Item Amount="1" ItemId="50500"/>
+			<Material Amount="100000" ItemId="40308"/>
+			<Succeed>
+				<ShowHtml HtmlId="veil7"/>
+			</Succeed>
+			<Fail>
+				<ShowHtml HtmlId="veil4"/>
+			</Fail>
+		</MakeItem>
+	</Action>
+	<!-- 地竜の魔眼 / アイテム制作師 シュエルメ -->
+	<Action Name="a" NpcId="91061">
+		<MakeItem>
+			<Item Amount="1" ItemId="50508"/>
+			<Material Amount="100000" ItemId="40308"/>
+			<Material Amount="1" ItemId="50504"/>
+		</MakeItem>
+	</Action>
+	<!-- 水竜の魔眼 / アイテム制作師 シュエルメ -->
+	<Action Name="b" NpcId="91061">
+		<MakeItem>
+			<Item Amount="1" ItemId="50509"/>
+			<Material Amount="100000" ItemId="40308"/>
+			<Material Amount="1" ItemId="50505"/>
+		</MakeItem>
+	</Action>
+	<!-- 風竜の魔眼 / アイテム制作師 シュエルメ -->
+	<Action Name="d" NpcId="91061">
+		<MakeItem>
+			<Item Amount="1" ItemId="50510"/>
+			<Material Amount="100000" ItemId="40308"/>
+			<Material Amount="1" ItemId="50506"/>
+		</MakeItem>
+	</Action>
+	<!-- 火竜の魔眼 / アイテム制作師 シュエルメ -->
+	<Action Name="c" NpcId="91061">
+		<MakeItem>
+			<Item Amount="1" ItemId="50511"/>
+			<Material Amount="100000" ItemId="40308"/>
+			<Material Amount="1" ItemId="50507"/>
+		</MakeItem>
+	</Action>
+	<!-- 地竜の魔眼 / アイテム制作師 シュエルメ -->
+	<Action Name="h" NpcId="91061">
+		<MakeItem>
+			<Item Amount="1" ItemId="50508"/>
+			<Material Amount="100000" ItemId="40308"/>
+			<Material Amount="32" ItemId="50556"/>
+		</MakeItem>
+	</Action>
+	<!-- 水竜の魔眼 / アイテム制作師 シュエルメ -->
+	<Action Name="i" NpcId="91061">
+		<MakeItem>
+			<Item Amount="1" ItemId="50509"/>
+			<Material Amount="100000" ItemId="40308"/>
+			<Material Amount="32" ItemId="50557"/>
+		</MakeItem>
+	</Action>
+	<!-- 風竜の魔眼 / アイテム制作師 シュエルメ -->
+	<Action Name="j" NpcId="91061">
+		<MakeItem>
+			<Item Amount="1" ItemId="50510"/>
+			<Material Amount="100000" ItemId="40308"/>
+			<Material Amount="32" ItemId="50558"/>
+		</MakeItem>
+	</Action>
+	<!-- 火竜の魔眼 / アイテム制作師 シュエルメ -->
+	<Action Name="k" NpcId="91061">
+		<MakeItem>
+			<Item Amount="1" ItemId="50511"/>
+			<Material Amount="100000" ItemId="40308"/>
+			<Material Amount="32" ItemId="50559"/>
+		</MakeItem>
+	</Action>
+	
+</NpcActionList>

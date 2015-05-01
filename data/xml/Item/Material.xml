@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ItemEffectList>
+	<!-- 封印された傲慢の塔1階テレポートアミュレット -->
+	<Item ItemId="41435" Remove="1">
+		<Effect ItemId="41436" />
+	</Item>
+	<!-- 封印された傲慢の塔11階テレポートアミュレット -->
+	<Item ItemId="40280" Remove="1">
+		<Effect ItemId="40289" />
+	</Item>
+	<!-- 封印された傲慢の塔21階テレポートアミュレット -->
+	<Item ItemId="40281" Remove="1">
+		<Effect ItemId="40290" />
+	</Item>
+	<!-- 封印された傲慢の塔31階テレポートアミュレット -->
+	<Item ItemId="40282" Remove="1">
+		<Effect ItemId="40291" />
+	</Item>
+	<!-- 封印された傲慢の塔41階テレポートアミュレット -->
+	<Item ItemId="40283" Remove="1">
+		<Effect ItemId="40292" />
+	</Item>
+	<!-- 封印された傲慢の塔51階テレポートアミュレット -->
+	<Item ItemId="40284" Remove="1">
+		<Effect ItemId="40293" />
+	</Item>
+	<!-- 封印された傲慢の塔61階テレポートアミュレット -->
+	<Item ItemId="40285" Remove="1">
+		<Effect ItemId="40294" />
+	</Item>
+	<!-- 封印された傲慢の塔71階テレポートアミュレット -->
+	<Item ItemId="40286" Remove="1">
+		<Effect ItemId="40295" />
+	</Item>
+	<!-- 封印された傲慢の塔81階テレポートアミュレット -->
+	<Item ItemId="40287" Remove="1">
+		<Effect ItemId="40296" />
+	</Item>
+	<!-- 封印された傲慢の塔91階テレポートアミュレット -->
+	<Item ItemId="40288" Remove="1">
+		<Effect ItemId="40297" />
+	</Item>
+	<!-- カヘルの契約書 -->
+	<Item ItemId="41121" Remove="1" QuestId="37" QuestStep="255">
+		<Effect ItemId="41122" />
+	</Item>
+	<!-- 血痕の契約書 -->
+	<Item ItemId="41130" Remove="1" QuestId="36" QuestStep="255">
+		<Effect ItemId="41131" />
+	</Item>
+	<!-- 下級オシリスの宝箱の欠片：上 -->
+	<Item ItemId="49093" Remove="1">
+		<Effect ItemId="49095" NeedItemId="49094" />
+	</Item>
+	<!-- 下級オシリスの宝箱の欠片：下 -->
+	<Item ItemId="49094" Remove="1">
+		<Effect ItemId="49095" NeedItemId="49093" />
+	</Item>
+	<!-- 上級オシリスの宝箱の欠片：上 -->
+	<Item ItemId="49097" Remove="1">
+		<Effect ItemId="49099" NeedItemId="49098" />
+	</Item>
+	<!-- 上級オシリスの宝箱の欠片：下 -->
+	<Item ItemId="49098" Remove="1">
+		<Effect ItemId="49099" NeedItemId="49097" />
+	</Item>
+	<!-- ソルシャイカのソウルクリスタル -->
+	<Item ItemId="49188" Remove="1">
+		<Effect ItemId="49189" NeedItemId="49186" />
+	</Item>
+	<!-- 1番目の思念の欠片 -->
+	<Item ItemId="49197" Remove="1">
+		<Effect ItemId="49200" NeedItemId="49198" />
+	</Item>
+	<!-- 未完成のクリスタルボール -->
+	<Item ItemId="49200" Remove="1">
+		<Effect ItemId="49201" NeedItemId="49199" />
+	</Item>
+	<!-- 下級ククルカンの宝箱の欠片：上 -->
+	<Item ItemId="49316" Remove="1">
+		<Effect ItemId="49313" NeedItemId="49317" />
+	</Item>
+	<!-- 下級ククルカンの宝箱の欠片：下 -->
+	<Item ItemId="49317" Remove="1">
+		<Effect ItemId="49313" NeedItemId="49316" />
+	</Item>
+	<!-- 上級ククルカンの宝箱の欠片：上 -->
+	<Item ItemId="49314" Remove="1">
+		<Effect ItemId="49312" NeedItemId="49315" />
+	</Item>
+	<!-- 上級ククルカンの宝箱の欠片：下 -->
+	<Item ItemId="49315" Remove="1">
+		<Effect ItemId="49312" NeedItemId="49314" />
+	</Item>
+	<!-- 配送員ミミックの笛：タイガー飼育場 -->
+	<Item ItemId="50567" Remove="1">
+		<Effect ItemId="50569" GfxId="8473" />
+	</Item>
+	<!-- 配送員ミミックの笛：紀州犬のかご -->
+	<Item ItemId="50568" Remove="1">
+		<Effect ItemId="50570" GfxId="8473" />
+	</Item>
+	<!-- 配送員ミミックの笛：ジュース100本 -->
+	<Item ItemId="50587" Remove="1">
+		<Effect ItemId="50593" GfxId="8473" />
+	</Item>
+	<!-- 配送員ミミックの笛：ジュース200本 -->
+	<Item ItemId="50588" Remove="1">
+		<Effect ItemId="50594" GfxId="8473" />
+	</Item>
+	<!-- 配送員ミミックの笛：ジュース300本 -->
+	<Item ItemId="50589" Remove="1">
+		<Effect ItemId="50595" GfxId="8473" />
+	</Item>
+	<!-- 配送員ミミックの笛：エキス100本 -->
+	<Item ItemId="50590" Remove="1">
+		<Effect ItemId="50596" GfxId="8473" />
+	</Item>
+	<!-- 配送員ミミックの笛：エキス200本 -->
+	<Item ItemId="50591" Remove="1">
+		<Effect ItemId="50597" GfxId="8473" />
+	</Item>
+	<!-- 配送員ミミックの笛：エキス300本 -->
+	<Item ItemId="50592" Remove="1">
+		<Effect ItemId="50598" GfxId="8473" />
+	</Item>
+</ItemEffectList>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ItemEffectList>
+	<!-- エリクサー：腕力 -->
+	<Item ItemId="40033" Remove="1">
+		<Effect Str="1" />
+	</Item>
+	<!-- エリクサー：体力 -->
+	<Item ItemId="40034" Remove="1">
+		<Effect Con="1" />
+	</Item>
+	<!-- エリクサー：機敏 -->
+	<Item ItemId="40035" Remove="1">
+		<Effect Dex="1" />
+	</Item>
+	<!-- エリクサー：知力 -->
+	<Item ItemId="40036" Remove="1">
+		<Effect Int="1" />
+	</Item>
+	<!-- エリクサー：魔力 -->
+	<Item ItemId="40037" Remove="1">
+		<Effect Wis="1" />
+	</Item>
+	<!-- エリクサー：魅力 -->
+	<Item ItemId="40038" Remove="1">
+		<Effect Cha="1" />
+	</Item>
+</ItemEffectList>

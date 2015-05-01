@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<!--
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+-->
+<properties>
+<comment>Simplified Chinese locale</comment>
+<entry key="ActID">ActID</entry>
+<entry key="Amount">Amount</entry>
+<entry key="AxisX">X</entry>
+<entry key="AxisY">Y</entry>
+<entry key="CharName">CharName</entry>
+<entry key="CommandName">CmdName</entry>
+<entry key="Enchant">Enchant</entry>
+<entry key="GfxID">GfxID</entry>
+<entry key="Identify">Identify</entry>
+<entry key="Interval">Interval(s)</entry>
+<entry key="ItemID">ItemID</entry>
+<entry key="ItemName">ItemName</entry>
+<entry key="ItemSetName">ItemSetName</entry>
+<entry key="Level">Level</entry>
+<entry key="MaxLevel">MaxLv</entry>
+<entry key="MinLevel">MinLv</entry>
+<entry key="MapID">MapID</entry>
+<entry key="Minutes">Minutes</entry>
+<entry key="NpcID">NpcID</entry>
+<entry key="NpcName">NpcName</entry>
+<entry key="Param">Param</entry>
+<entry key="Range">Range</entry>
+<entry key="RoomName">RoomName</entry>
+<entry key="Seconds">Seconds</entry>
+<entry key="SkillID">SkillID</entry>
+<entry key="SpawnID">SpawnID</entry>
+<entry key="SprID">SprID</entry>
+<entry key="Status">Staus</entry>
+<entry key="Value">Value</entry>
+<entry key="Prince">Prince</entry>
+<entry key="Knight">Knight</entry>
+<entry key="Wizard">Wizard</entry>
+<entry key="Elf">Elf</entry>
+<entry key="DarkElf">Dark Elf</entry>
+<entry key="DragonKnight">Dragon Knight</entry>
+<entry key="Illusionist">Illusionist</entry>
+<entry key="Possible">Possible</entry>
+<entry key="Impossible">Impossible</entry>
+<entry key="Male">Male</entry>
+<entry key="Female">Female</entry>
+
+<!-- jp/l1j/server/GameServer.java -->
+<entry key="MemoryUsage">内存使用量: %sMB</entry>
+<entry key="WaittingForClient">正在等待用户连接...</entry>
+<entry key="TryingToConnection">正在尝试连线: %s</entry>
+<entry key="BannedIP">被封锁的IP: %s</entry>
+<entry key="GenerateServerSocket">正在建立伺服端通讯</entry>
+<entry key="ServerSettings">■■■■ 伺服端设置 ■■■■</entry>
+<entry key="Exp">经验值: %s倍</entry>
+<entry key="Lawful">正义值: %s倍</entry>
+<entry key="Karma">友好度: %s倍</entry>
+<entry key="ItemDrop">物品掉落率: %s倍</entry>
+<entry key="AdenaDrop">金钱掉落率: %s倍</entry>
+<entry key="EnchantWeapon">附魔武器成功率: %s％</entry>
+<entry key="EnchantArmor">附魔铠甲成功率: %s％</entry>
+<entry key="EnchantAttribute">附魔属性成功率: %s％</entry>
+<entry key="EnchantAccessory">附魔附件成功率: %s％</entry>
+<entry key="EnchantDoll">附魔魔法娃娃成功率: %s％</entry>
+<entry key="WeightReduction">重量减少率: %s倍</entry>
+<entry key="GlobalChat">全域聊天等级: Lv%s</entry>
+<entry key="PvP">PvP: 是</entry>
+<entry key="NonPvP">PvP: 無(Non-PvP)</entry>
+<entry key="MaxUsers">用户端上限: %d人</entry>
+<entry key="LoadingComplete">加载完成</entry>
+<entry key="ShutdownTheServer">关闭服务器。</entry>
+<entry key="PleaseLogout">请在安全区登出。</entry>
+<entry key="ShutdownAfterFewMinutes">伺服端将在%d分后关闭。</entry>
+<entry key="ShutdownAfterFewSeconds">服务器将在%d秒后关闭。请尽快登出。</entry>
+<entry key="ShutdownAbort">关机中止。伺服端持续运行。</entry>
+
+<!-- jp/l1j/server/ClientThread.java -->
+<entry key="ConnectedToTheServer">%s连接到服务器。</entry>
+<entry key="TerminatedTheConnection">终止连接与%s</entry>
+<entry key="KilledTheConnection">因为不能在一定间内回应，强制中断连线%s</entry>
+
+<!-- jp/l1j/server/command/GMCommands.java -->
+<entry key="CanNotUseTheCommand">Can not use .%s</entry>
+<entry key="UsedTheCommand">%s has used .%s %s</entry>
+<entry key="DoesNotExistCommand">Does not exist .%s</entry>
+<entry key="ExecuteTheCommand">Execute .%s</entry>
+<entry key="ReExecuteTheCommand">ReExecute .%s</entry>
+<entry key="ReExecuteTheCommandError">.r command error.</entry>
+
+<!-- jp/l1j/server/command/GMCommandsConfig.java -->
+<entry key="LoadFailed">%s load failed.</entry>
+
+<!-- jp/l1j/server/command/L1Commands.java -->
+<entry key="LoadFromTheTableFailed">Failed to read the command fromat the %s table.</entry>
+
+<!-- jp/l1j/server/command/executor/* -->
+<entry key="CommandFormat1">Please enter in the format of .%s %s</entry>
+<entry key="CommandFormat2">Please enter in the format of .%s %s %s</entry>
+<entry key="CommandFormat3">Please enter in the format of .%s %s %s %s</entry>
+<entry key="CommandFormat4">Please enter in the format of .%s %s %s %s %s</entry>
+<entry key="CommandFormat5">Please enter in the format of .%s %s %s %s %s %s</entry>
+<entry key="CommandFormatOn">Please enter the .%s on|off. Is now ON.</entry>
+<entry key="CommandFormatOff">Please enter the .%s on|off. Is now OFF.</entry>
+<entry key="CommandError">.%s command error.</entry>
+
+<!-- jp/l1j/server/command/executor/L1AccountBanKick.java -->
+<entry key="AccountBan">BAN the %s.</entry>
+<entry key="DoesNotExistChar">%s does not exist in the game world.</entry>
+
+<!-- jp/l1j/server/command/executor/L1AddInstanceMap.java -->
+<entry key="GeneratedTheInstanceMap">Generated the instance map: %d(%d)</entry>
+
+<!-- jp/l1j/server/command/executor/L1Adena.java -->
+<entry key="GeneratedTheAdena">Generated the %d adena.</entry>
+
+<!-- jp/l1j/server/command/executor/L1AttackLog.java -->
+<entry key="ChangedToDisplayTheDamage">Change to display the damage to the target.</entry>
+<entry key="ChangedToHideTheDamage">Change to hide the damage to the target.</entry>
+
+<!-- jp/l1j/server/command/executor/L1BanIp.java -->
+<entry key="ConnectedPlayer">Conmected player: %s(%s)</entry>
+<entry key="AddedToTheBanList">Added to the BAN list: %s</entry>
+<entry key="RemovedFromTheBanList">Removed from the BAN list: %s</entry>
+<entry key="ExistInTheBanList">Exist in the BAN list: %s</entry>
+<entry key="DoesNotExistInTheBanList">Does not exist in the BAN list: %s</entry>
+
+<!-- jp/l1j/server/command/executor/L1Buff.java -->
+<entry key="IsNotBuffSkill">%d is not Buff skill.</entry>
+
+<!-- jp/l1j/server/command/executor/L1CangeWeather.java -->
+<entry key="WeatherOptions">0|1|2|3|16|17|18|19</entry>
+
+<!-- jp/l1j/server/command/executor/L1Chat.java -->
+<entry key="EnabledTheGlobalChat">Enabled the global chat.</entry>
+<entry key="DisabledTheGlobalChat">Disabled the global chat.</entry>
+<entry key="GlobalChatIsPossible">Grobal chat is possible. Please enter your .chat off to disable it.</entry>
+<entry key="GlobalChatIsImpossible">Grobal chat is impossible. Please enter your .chat on to disable it.</entry>
+
+<!-- jp/l1j/server/command/executor/L1CreateItem.java -->
+<entry key="DoesNotExistItem">Does not exist item.</entry>
+
+<!-- jp/l1j/server/command/executor/L1CreateItemSet.java -->
+<entry key="DoesNotExistItemSet">Does not exist item-set.</entry>
+
+<!-- jp/l1j/server/command/executor/L1DeleteGroundItem.java -->
+<entry key="RemovedTheItemsOnTheWorldMap">Removed the items on the world map by GM.</entry>
+
+<!-- jp/l1j/server/command/executor/L1Describe.java -->
+<entry key="DescDmg">Dmg: %d / </entry>
+<entry key="DescHit">Hit: %d / </entry>
+<entry key="DescBowDmg">BowDmg: %d / </entry>
+<entry key="DescBowHit">BowHit: %d / </entry>
+<entry key="DescMR">MR: %d / </entry>
+<entry key="DescHPR">HPR: %d / </entry>
+<entry key="DescMPR">MPR: %d / </entry>
+<entry key="DescResistFreeze">Resist freeze: %d / </entry>
+<entry key="DescResistStun">Resist stun: %d / </entry>
+<entry key="DescResistStone">Resist stone: %d / </entry>
+<entry key="DescResistSleep">Resist sleep: %d / </entry>
+<entry key="DescResistHold">Resist hold: %d / </entry>
+<entry key="DescResistBlind">Resist blind: %d / </entry>
+<entry key="DescKarma">Karma: %d / </entry>
+<entry key="DescInventorySize">Inventory size: %d / </entry>
+<entry key="DescExpBonus">EXP bonus: %d％ / </entry>
+
+<!-- jp/l1j/server/command/executor/L1DropLog.java -->
+<entry key="ChangedToDisplayTheDrops">Changed to display the item drops.</entry>
+<entry key="ChangedToHideTheDrops">Changed to hide the item drops.</entry>
+
+<!-- jp/l1j/server/command/executor/L1Favorite.java -->
+<entry key="CommandIsEmpty">Command is empty.</entry>
+<entry key="CanNotBeRegisterd">%s command can not be registerd.</entry>
+<entry key="RegisterdCommand">Registerd a %s command.</entry>
+<entry key="CommandThatAreRegisterd">Command that are registerd: %s</entry>
+<entry key="DoesNotExistCommandThatAreRegisterd">Does not exist command that are registerd.</entry>
+
+<!-- jp/l1j/server/command/executor/L1GMRoome.java -->
+<entry key="DoesNotExistTheRoom">Does not exist the romm: %s</entry>
+
+<!-- jp/l1j/server/command/executor/L1InsertSpawn.java -->
+<entry key="DoesNotExistNPC">Does not exist NPC.</entry>
+<entry key="IsNotMobs">%d is not mobs.</entry>
+<entry key="AddedToTheSpawnList">Added to the spawn list: %s(%d)</entry>
+
+<!-- jp/l1j/server/command/executor/L1Invisible.java -->
+<entry key="BecameInvisible">Became invisible.</entry>
+
+<!-- jp/l1j/server/command/executor/L1Kick.java -->
+<entry key="AccountKick">Kick the %s.</entry>
+
+<!-- jp/l1j/server/command/executor/L1LevelPresetn.java -->
+<entry key="GaveTheItem1">Gave the %s(%d) (%s: %d, %s: %d)</entry>
+
+<!-- jp/l1j/server/command/executor/L1Loc.java -->
+<entry key="Location">Loc (%d, %d, %d) %d</entry>
+
+<!-- jp/l1j/server/command/executor/L1Move.java -->
+<entry key="MovedToLoc">Moved to Loc (%d, %d, %d) %d</entry>
+
+<!-- jp/l1j/server/command/executor/L1PartyRecall.java -->
+<entry key="RecalledByGM">Recalled by GM.</entry>
+<entry key="IsNotPartyMember">Is not a party member.</entry>
+
+<!-- jp/l1j/server/command/executor/L1PcBuff.java -->
+<entry key="BuffSkillsByGM">Received the Buff skills by GM.</entry>
+
+<!-- jp/l1j/server/command/executor/L1PotLog.java -->
+<entry key="ChangedToDisplayUseOfThePotions">Changed to display use of the potions.</entry>
+<entry key="ChangedToHideUseOfThePotions">Changed to hide use of the potions.</entry>
+
+<!-- jp/l1j/server/command/executor/L1LevelPresent.java -->
+<entry key="GaveTheItem2">Gave the %s(%d)</entry>
+
+<!-- jp/l1j/server/command/executor/L1Recall.java -->
+<entry key="Recalled">Recalled the %s</entry>
+
+<!-- jp/l1j/server/command/executor/L1Reload.java -->
+<entry key="ReloadedTheDisplayObjects">Reloaded the display objects.</entry>
+
+<!-- jp/l1j/server/command/executor/L1ReloadTrap.java -->
+<entry key="ReloadedTheTraps">Reloaded the traps.</entry>
+
+<!-- jp/l1j/server/command/executor/L1RemoveInstanceMap.java -->
+<entry key="RemovedTheInstanceMap">Removed the instance map: %d</entry>
+<entry key="DoesNotExistInstanceMap">Does not exist instance map: %d</entry>
+
+<!-- jp/l1j/server/command/executor/L1Ress.java -->
+<entry key="ResuscitatedByGM">Resuscitated by GM.</entry>
+<entry key="RecoveredByGM">Recovered by GM.</entry>
+
+<!-- jp/l1j/server/command/executor/L1ShutdownRequest.java -->
+<entry key="AcceptedShutdownRequest">Accepted the your shutdown request.</entry>
+<entry key="ShutdownRequestMax">Shutdown request was reached a certain number. Start the shutdown.</entry>
+
+<!-- jp/l1j/server/command/executor/L1SKick.java -->
+<entry key="DisconnectedTheConnection">By %s command was disconnected the connection of %s(%s)</entry>
+
+<!-- jp/l1j/server/command/executor/L1SpawnCmd.java -->
+<entry key="SummonMonster1">Summoned the %s(%d) (%d)(Range:%d)</entry>
+
+<!-- jp/l1j/server/command/executor/L1Status.java -->
+<entry key="PromotedToGM">Promoted to GM. Please restart.</entry>
+<entry key="IsUnknownParam">%s is unknown parameter.</entry>
+<entry key="ChangedTheStatus">Changed the status of %s(%s) to %d</entry>
+
+<!-- jp/l1j/server/command/executor/L1SpawnCmd.java -->
+<entry key="SummonMonster2">Summoned the %s(%d) (%d)</entry>
+
+<!-- jp/l1j/server/command/executor/L1ToPC.java -->
+<entry key="MovedToTheChar">Moved to location of %s.</entry>
+
+<!-- jp/l1j/server/command/executor/L1Visible.java -->
+<entry key="BecameVisible">Became visible.</entry>
+
+<!-- jp/l1j/server/controller/LoginController.java -->
+<entry key="IsNotAuthenticated">It is an account that has not been authenticated.</entry>
+
+<!-- jp/l1j/server/controller/HomeTownTimeController.java -->
+<entry key="HomeTownSystemDailyProcess">Home Town System: Daily proccessing</entry>
+<entry key="HomeTownSystemMonthlyProcess">Home Town System: Monthly proccessing</entry>
+
+<!-- jp/l1j/server/controller/WeatherTimeController.java -->
+<entry key="WeatherSystemClear">Weather System: Clear</entry>
+<entry key="WeatherSystemRain">Weather System: Rain</entry>
+<entry key="WeatherSystemSnow">Weather System: Snow</entry>
+
+<!-- jp/l1j/server/datatables/ItemTable.java -->
+<entry key="LoadItemFailed">%s(%s) load failed</entry>
+
+<!-- jp/l1j/server/model/AcceleratorChecker.java -->
+<entry key="AccelerratorDisconnectTheConnection">Overspeed detected. Disconnect the connection after %d seconds.</entry>
+<entry key="AccelerratorStopTheAction">Overspeed detected. Stop the action after %d seconds.</entry>
+<entry key="AccelerratorMoveToTheIsolationMap">Overspeed detected. Move to the isolation map after %d seconds.</entry>
+<entry key="AccelerratorOverspeedDetected">Overspeed detected.</entry>
+
+<!-- jp/l1j/server/model/L1Attack.java -->
+<entry key="AttackGaveTextColor">\F2</entry>
+<entry key="AttackReceivedTextColor">\F3</entry>
+<entry key="AttackFormat">{0} to {1} {2} {3}</entry>
+<entry key="AttackTo">to</entry>
+<entry key="AttackDmg">%d damage</entry>
+<entry key="AttackMiss">miss</entry>
+
+<!-- jp/l1j/server/model/L1BugBearRace.java -->
+<entry key="RaceRound">%d th</entry>
+
+<!-- jp/l1j/server/model/L1Clan.java -->
+<entry key="ClanLeader">[Leader]</entry>
+<entry key="ClanSubLeader">[SubLeader]</entry>
+<entry key="ClanGuardian">[Guardian]</entry>
+<entry key="ClanElite">[Elite]</entry>
+<entry key="ClanRegular">[Regular]</entry>
+
+<!-- jp/l1j/server/model/L1DeleteItemOnGround.java -->
+<entry key="RemoveItemsAfterFewSeconds">Items on the world map will be removed after %d seconds.</entry>
+<entry key="RemovedItemsOnWorldMap">Items on the world map has been removed.</entry>
+
+<!-- jp/l1j/server/model/L1Magic.java -->
+<entry key="SkillGaveTextColor">\F2</entry>
+<entry key="SkillReceivedTextColor">\F3</entry>
+<entry key="SkillSuccess">successful</entry>
+<entry key="SkillFailed">failed</entry>
+<entry key="SkillDmg">%d skill damage</entry>
+
+<!-- jp/l1j/server/model/L1DeathMatch.java -->
+<entry key="DeathMatchLessThanMinPlayers">Because less than minimum participants number (%d players), End the deathmatch. Returned the 1,000 adena.</entry>
+
+<!-- jp/l1j/server/model/L1PolyRace.java -->
+<entry key="PolyRaceLessThanMinPlayers">Because less than minimum participants number (%d players), End the race. Returned the 1,000 adena.</entry>
+<entry key="PolyRaceReachedToMaxPlayers">Reached the maximum number of participants.
+</entry>
+
+<!-- jp/l1j/server/model/L1SpellBook.java -->
+<entry key="SpellBookName">魔法书(%s)</entry>
+<entry key="SpiritCrystalName">精灵水晶(%s)</entry>
+<entry key="DarkSpiritCrystalName">黑暗精灵水晶(%s)</entry>
+<entry key="TechnicalDocumentName">技术书(%s)</entry>
+<entry key="DragonTabletName">龙骑士书板(%s)</entry>
+<entry key="MemoryCrystalName">记忆水晶(%s)</entry>
+
+<!-- jp/l1j/server/model/instance/L1HousekeeperInstance.java -->
+<entry key="TaxHasAllreadyPaid">The next minute tax has already paid.</entry>
+
+<!-- jp/l1j/server/model/instance/L1PcInstance.java -->
+<entry key="FailedToObtainTheRevivalPotion">Failed to obtain a revival potion.</entry>
+
+<!-- jp/l1j/server/model/item/executor/* -->
+<entry key="DoesNotExistItemList">%s does not exist in the item list.</entry>
+<entry key="DoesNotExistSkillList">%s does not exist in the skill list.</entry>
+<entry key="DoesNotExistPolyList">%s does not exist in the poly list.</entry>
+<entry key="DoesNotExistMapList">%s does not exist in the map list.</entry>
+<entry key="DoesNotExistNpcList">%s does not exist in the npc list.</entry>
+<entry key="ProbabilitiesError">%s total probabilities is not 100%%.</entry>
+<entry key="OverEnchantSuccessful">%s has succeeded in making the %s</entry>
+
+<!-- jp/l1j/server/packets/client/C_AuthLogin.java -->
+<entry key="DenyToMultipleLogins">Deny to multiple logins. account=%s host=%s</entry>
+<entry key="DenyToConnectFromSpecificIP">Deny to connect from specific IP range. account=%s host=%</entry>
+<entry key="DenyToLoginBanAccount">Deny to login BAN account. account=%s host=%</entry>
+<entry key="DenyToLoginBecauseReachedMaxConnections">Deny to login, because reached the maximum connections.</entry>
+
+<!-- jp/l1j/server/packets/client/C_LoginToServer.java -->
+<entry key="MultipleLoginsDetected">Multiple logins detected. Disconnect the connection of %s</entry>
+<entry key="LoginRequestIsInvalid">Login request is invalid. char=%s account=%s host=%s</entry>
+<entry key="BeyondTheToleranceOfTheLevelDown">Beyond the tolerance of the level-down. char=%s account=%s host=%s</entry>
+<entry key="LoggedCharacter">Logged character: char=%s account=%s host=%s</entry>
+
+<!-- jp/l1j/server/packets/client/C_PickUpItem.java -->
+<entry key="CanNotPickUpAdena">Can not pick up to exceed 2,000,000,000 adena.</entry>
+
+<!-- jp/l1j/server/packets/client/C_Rank.java -->
+<entry key="ClanList">Clan list</entry>
+<entry key="JoinToClan">Join to clan</entry>
+<entry key="LeaveTheClan">Leave the clan</entry>
+
+<!-- jp/l1j/server/packets/client/C_Shop.java -->
+<entry key="TradingIsImpossible">%s trading is impossible.</entry>
+<entry key="CanNotToStack">%s is can not to stack. Trading is impossible.</entry>
+
+<!-- jp/l1j/server/packets/client/C_UseItem.java -->
+<entry key="CanBeUsedBelowTheMaxLevel">This item can be used below the level %d.</entry>
+
+</properties>

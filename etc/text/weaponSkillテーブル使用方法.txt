@@ -1,0 +1,23 @@
+新しくなったweapon_skillテーブルについて説明します。
+weapon_id ・・・・・・ 武器のID
+note　・・・・・・・・ メモ
+probability ・・・・・ 発動基本確率
+prob_enchant　・・・・ 所持している武器の強化数×設定値が発動確率に上乗せ。
+　　　　　　　　　　　 (設定値が2の場合、強化数×２＋発動基本確率＝発動率　となる)
+fix_damage、random_damage については同じ。
+但し、MR及び属性MR処理がなされる。
+
+skill_id ・・・・・ 必ず設定します。設定しないと発動しない。skillsテーブルのスキルID
+arrow_type　・・・ 今までと同じ。
+isMr　・・・・・・ (現時点では未実装) MRに依存するか。
+isAttrMr　・・・・・・ (現時点では未実装) 属性MRに依存するか。
+
+isMr及びisAttrMrに関しては、L1Magicのリファクタリングが必要と見たため、一度ここで区切ります。
+
+skillsテーブルの、attr、target、area、castgfx、castgfx2　を利用します。
+また、fix_damage が０の時は、skillsテーブルのdamage_value、damage_dice、damage_dace_count
+を利用し、本来魔法ダメージを与える処理と同じ処理を実行します。
+
+カウンターミラーで跳ね返ります（本鯖で跳ね返るのかは不明）
+
+ご不明な点はフォーラムまでお問い合わせください。

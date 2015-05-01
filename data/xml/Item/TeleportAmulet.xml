@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ItemEffectList>
+	<!-- 傲慢の塔1階テレポートアミュレット -->
+	<Item ItemId="41436" X1="33921" X2="33934" Y1="33337" Y2="33352" CurMapId="4">
+		<Effect X="32781" Y="32816" MapId="101" Head="5" />
+	</Item>
+	<!-- 傲慢の塔11階テレポートアミュレット -->
+	<Item ItemId="40289" X1="33921" X2="33934" Y1="33337" Y2="33352" CurMapId="4">
+		<Effect X="32631" Y="32935" MapId="111" Head="5" />
+	</Item>
+	<!-- 傲慢の塔21階テレポートアミュレット -->
+	<Item ItemId="40290" X1="33921" X2="33934" Y1="33337" Y2="33352" CurMapId="4">
+		<Effect X="32631" Y="32935" MapId="121" Head="5" />
+	</Item>
+	<!-- 傲慢の塔31階テレポートアミュレット -->
+	<Item ItemId="40291" X1="33921" X2="33934" Y1="33337" Y2="33352" CurMapId="4">
+		<Effect X="32631" Y="32935" MapId="131" Head="5" />
+	</Item>
+	<!-- 傲慢の塔41階テレポートアミュレット -->
+	<Item ItemId="40292" X1="33921" X2="33934" Y1="33337" Y2="33352" CurMapId="4">
+		<Effect X="32631" Y="32935" MapId="141" Head="5" />
+	</Item>
+	<!-- 傲慢の塔51階テレポートアミュレット -->
+	<Item ItemId="40293" X1="33921" X2="33934" Y1="33337" Y2="33352" CurMapId="4">
+		<Effect X="32669" Y="32814" MapId="151" Head="5" />
+	</Item>
+	<!-- 傲慢の塔61階テレポートアミュレット -->
+	<Item ItemId="40294" X1="33921" X2="33934" Y1="33337" Y2="33352" CurMapId="4">
+		<Effect X="32669" Y="32814" MapId="161" Head="5" />
+	</Item>
+	<!-- 傲慢の塔71階テレポートアミュレット -->
+	<Item ItemId="40295" X1="33921" X2="33934" Y1="33337" Y2="33352" CurMapId="4">
+		<Effect X="32669" Y="32814" MapId="171" Head="5" />
+	</Item>
+	<!-- 傲慢の塔81階テレポートアミュレット -->
+	<Item ItemId="40296" X1="33921" X2="33934" Y1="33337" Y2="33352" CurMapId="4">
+		<Effect X="32669" Y="32814" MapId="181" Head="5" />
+	</Item>
+	<!-- 傲慢の塔91階テレポートアミュレット -->
+	<Item ItemId="40297" X1="33921" X2="33934" Y1="33337" Y2="33352" CurMapId="4">
+		<Effect X="32669" Y="32814" MapId="191" Head="5" />
+	</Item>
+	<!-- 傲慢の塔6階テレポートアミュレット -->
+	<Item ItemId="41437" X1="33921" X2="33934" Y1="33337" Y2="33352" CurMapId="4">
+		<Effect X="33805" Y="32864" MapId="106" Head="5" />
+	</Item>
+	<!-- 傲慢の塔16階テレポートアミュレット -->
+	<Item ItemId="41438" X1="33921" X2="33934" Y1="33337" Y2="33352" CurMapId="4">
+		<Effect X="32781" Y="32864" MapId="116" Head="5" />
+	</Item>
+	<!-- 傲慢の塔26階テレポートアミュレット -->
+	<Item ItemId="41439" X1="33921" X2="33934" Y1="33337" Y2="33352" CurMapId="4">
+		<Effect X="32781" Y="32864" MapId="126" Head="5" />
+	</Item>
+	<!-- 傲慢の塔36階テレポートアミュレット -->
+	<Item ItemId="41440" X1="33921" X2="33934" Y1="33337" Y2="33352" CurMapId="4">
+		<Effect X="32781" Y="32864" MapId="136" Head="5" />
+	</Item>
+	<!-- 傲慢の塔46階テレポートアミュレット -->
+	<Item ItemId="41441" X1="33921" X2="33934" Y1="33337" Y2="33352" CurMapId="4">
+		<Effect X="32781" Y="32864" MapId="146" Head="5" />
+	</Item>
+	<!-- 傲慢の塔56階テレポートアミュレット -->
+	<Item ItemId="41442" X1="33921" X2="33934" Y1="33337" Y2="33352" CurMapId="4">
+		<Effect X="32783" Y="32799" MapId="156" Head="5" />
+	</Item>
+	<!-- 傲慢の塔66階テレポートアミュレット -->
+	<Item ItemId="41443" X1="33921" X2="33934" Y1="33337" Y2="33352" CurMapId="4">
+		<Effect X="32783" Y="32799" MapId="166" Head="5" />
+	</Item>
+	<!-- 傲慢の塔76階テレポートアミュレット -->
+	<Item ItemId="41444" X1="33921" X2="33934" Y1="33337" Y2="33352" CurMapId="4">
+		<Effect X="32783" Y="32799" MapId="176" Head="5" />
+	</Item>
+	<!-- 傲慢の塔86階テレポートアミュレット -->
+	<Item ItemId="41445" X1="33921" X2="33934" Y1="33337" Y2="33352" CurMapId="4">
+		<Effect X="32783" Y="32799" MapId="186" Head="5" />
+	</Item>
+	<!-- 傲慢の塔96階テレポートアミュレット -->
+	<Item ItemId="41446" X1="33921" X2="33934" Y1="33337" Y2="33352" CurMapId="4">
+		<Effect X="32783" Y="32799" MapId="196" Head="5" />
+	</Item>
+	<!-- ソウルクリスタル -->
+	<Item ItemId="40417" X1="32665" X2="32674" Y1="32976" Y2="32985" CurMapId="440">
+		<Effect X="32922" Y="32812" MapId="430" Head="5" />
+	</Item>
+	<!-- 秘密の部屋のキー -->
+	<Item ItemId="40555" X1="32806" X2="32814" Y1="32798" Y2="32807" CurMapId="13">
+		<Effect X="32815" Y="32810" MapId="13" Head="5" />
+	</Item>
+	<!-- アサシンの印 -->
+	<Item ItemId="40572">
+		<Effect X="32781" Y="32728" MapId="21" Head="5" X1="32778" X2="32778" Y1="32738" Y2="32738" CurMapId="21"/>
+		<Effect X="32778" Y="32738" MapId="21" Head="5" X1="32781" X2="32781" Y1="32728" Y2="32728" CurMapId="21"/>
+	</Item>
+	<!--  完成された宝の地図 -->
+	<Item ItemId="40692" X1="32856" X2="32858" Y1="32857" Y2="32858" CurMapId="443">
+		<Effect X="32764" Y="32837" MapId="443" Head="6" />
+	</Item>
+	<!-- 影の神殿2階の鍵 -->
+	<Item ItemId="40615" X1="32701" X2="32705" Y1="32894" Y2="32898" CurMapId="522">
+		<Effect X="32700" Y="32896" MapId="523" Head="5" />
+	</Item>
+	<!-- 影の神殿3階の鍵 -->
+	<Item ItemId="40616" X1="32698" X2="32702" Y1="32894" Y2="32898" CurMapId="523">
+		<Effect X="32691" Y="32894" MapId="524" Head="5" />
+	</Item>
+	<!-- 影の神殿3階の鍵 -->
+	<Item ItemId="40782" X1="32698" X2="32702" Y1="32894" Y2="32898" CurMapId="523">
+		<Effect X="32691" Y="32894" MapId="524" Head="5" />
+	</Item>
+	<!-- 影の神殿3階の鍵 -->
+	<Item ItemId="40783" X1="32698" X2="32702" Y1="32894" Y2="32898" CurMapId="523">
+		<Effect X="32691" Y="32894" MapId="524" Head="5" />
+	</Item>
+	<!-- 散りゆく魂 -->
+	<Item ItemId="41208" X1="32844" X2="32845" Y1="32693" Y2="32694" CurMapId="550">
+		<Effect X="32833" Y="33089" MapId="550" Head="5" />
+	</Item>
+	<!-- 聖所2階のキー -->
+	<Item ItemId="49165" QuestId="4" QuestStep="1">
+		<Effect X="32860" Y="32739" MapId="2000" Head="5" CurMapId="2000" ClassInitial="P" />
+		<Effect X="32860" Y="32739" MapId="2001" Head="5" CurMapId="2001" ClassInitial="K" />
+		<Effect X="32860" Y="32739" MapId="2002" Head="5" CurMapId="2002" ClassInitial="E" />
+		<Effect X="32860" Y="32739" MapId="2003" Head="5" CurMapId="2003" ClassInitial="W" />
+	</Item>
+	<!-- 聖所3階のキー -->
+	<Item ItemId="49166" QuestId="4" QuestStep="1">
+		<Effect X="32735" Y="32748" MapId="2000" Head="5" CurMapId="2000" ClassInitial="P" />
+		<Effect X="32735" Y="32748" MapId="2001" Head="5" CurMapId="2001" ClassInitial="K" />
+		<Effect X="32735" Y="32748" MapId="2002" Head="5" CurMapId="2002" ClassInitial="E" />
+		<Effect X="32735" Y="32748" MapId="2003" Head="5" CurMapId="2003" ClassInitial="W" />
+	</Item>
+	<!-- 消滅の意志 -->
+	<Item ItemId="49239" QuestId="4" QuestStep="1">
+		<Effect X="32793" Y="32757" MapId="2000" Head="5" CurMapId="2000" ClassInitial="P" />
+		<Effect X="32793" Y="32757" MapId="2001" Head="5" CurMapId="2001" ClassInitial="K" />
+		<Effect X="32793" Y="32757" MapId="2002" Head="5" CurMapId="2002" ClassInitial="E" />
+		<Effect X="32793" Y="32757" MapId="2003" Head="5" CurMapId="2003" ClassInitial="W" />
+	</Item>
+	<!-- シルレインのお守り -->
+	<Item ItemId="49178" MapId="2004" QuestId="4" QuestStep="2" ClassInitial="I">
+		<Effect X="32817" Y="32832" MapId="1001" Head="5" />
+	</Item>
+	<!-- プロケルのお守り -->
+	<Item ItemId="49216" MapId="2004" QuestId="4" QuestStep="2" ClassInitial="R">
+		<Effect X="32817" Y="32832" MapId="1001" Head="5" />
+	</Item>
+	<!-- 時の歪みの思念の欠片 -->
+	<Item ItemId="49202" MapId="2004" QuestId="4" QuestStep="2">
+		<Effect X="32723" Y="32834" MapId="2004" Head="5" />
+	</Item>
+</ItemEffectList>

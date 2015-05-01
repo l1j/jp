@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ItemEffectList>
+	<!-- 蒸発保護スクロール -->
+	<Item ItemId="50632" Remove="1">
+		<Effect ItemId="276" DownLevel="1" /> <!-- マリス エレメント キーリンク -->
+		<Effect ItemId="277" DownLevel="1" /> <!-- マリス エレメント チェーンソード -->
+		<Effect ItemId="278" DownLevel="1" /> <!-- マリス エレメント クロウ -->
+		<Effect ItemId="279" DownLevel="1" /> <!-- マリス エレメント スタッフ -->
+		<Effect ItemId="280" DownLevel="1" /> <!-- マリス エレメント ボウ -->
+		<Effect ItemId="281" DownLevel="1" /> <!-- マリス エレメント ソード -->
+	</Item>
+</ItemEffectList>

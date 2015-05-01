@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ItemEffectList>
+	<!-- ウィズダムポーション -->
+	<Item ItemId="40016" ClassInitial="W" Remove="1">
+		<Effect Time="300" />
+	</Item>
+	<!-- 村人のウィズダム ポーション -->
+	<Item ItemId="41482" ClassInitial="W" Remove="1">
+		<Effect Time="1000" />
+	</Item>
+	<!-- 祝福されたウィズダムポーション -->
+	<Item ItemId="140016" ClassInitial="W" Remove="1">
+		<Effect Time="360" />
+	</Item>
+</ItemEffectList>

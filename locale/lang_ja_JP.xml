@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<!--
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+-->
+<properties>
+<comment>Japanese locale</comment>
+<entry key="ActID">アクションID</entry>
+<entry key="Amount">個数</entry>
+<entry key="AxisX">座標X</entry>
+<entry key="AxisY">座標Y</entry>
+<entry key="CharName">キャラクター名</entry>
+<entry key="CommandName">コマンド名</entry>
+<entry key="Enchant">強化数</entry>
+<entry key="GfxID">GfxID</entry>
+<entry key="Identify">鑑定</entry>
+<entry key="Interval">間隔(秒)</entry>
+<entry key="ItemID">アイテムID</entry>
+<entry key="ItemName">アイテム名</entry>
+<entry key="ItemSetName">アイテムセット名</entry>
+<entry key="Level">レベル</entry>
+<entry key="MaxLevel">最大レベル</entry>
+<entry key="MinLevel">最小レベル</entry>
+<entry key="MapID">マップID</entry>
+<entry key="Minutes">時間(分)</entry>
+<entry key="NpcID">NpcID</entry>
+<entry key="NpcName">Npc名</entry>
+<entry key="Param">引数</entry>
+<entry key="Range">範囲</entry>
+<entry key="RoomName">ルーム名</entry>
+<entry key="Seconds">時間(秒)</entry>
+<entry key="SkillID">スキルID</entry>
+<entry key="SpawnID">SpawnID</entry>
+<entry key="SprID">SprID</entry>
+<entry key="Status">ステータス</entry>
+<entry key="Value">値</entry>
+<entry key="Prince">君主</entry>
+<entry key="Knight">ナイト</entry>
+<entry key="Wizard">ウィザード</entry>
+<entry key="Elf">エルフ</entry>
+<entry key="DarkElf">ダークエルフ</entry>
+<entry key="DragonKnight">ドラゴンナイト</entry>
+<entry key="Illusionist">イリュージョニスト</entry>
+<entry key="Possible">可能</entry>
+<entry key="Impossible">不可</entry>
+<entry key="Male">男</entry>
+<entry key="Female">女</entry>
+
+<!-- jp/l1j/server/GameServer.java -->
+<entry key="MemoryUsage">メモリ使用量: %sMB</entry>
+<entry key="WaittingForClient">接続待機中...</entry>
+<entry key="TryingToConnection">接続試行中: %s</entry>
+<entry key="BannedIP">禁止IP: %s</entry>
+<entry key="GenerateServerSocket">サーバーソケットを生成</entry>
+<entry key="ServerSettings">■■■■ サーバー設定 ■■■■</entry>
+<entry key="Exp">経験値: %s倍</entry>
+<entry key="Lawful">ロウフル: %s倍</entry>
+<entry key="Karma">カルマ: %s倍</entry>
+<entry key="ItemDrop">アイテムドロップ率: %s倍</entry>
+<entry key="AdenaDrop">アデナドロップ率: %s倍</entry>
+<entry key="EnchantWeapon">武器強化成功率: %s％</entry>
+<entry key="EnchantArmor">防具強化成功率: %s％</entry>
+<entry key="EnchantAttribute">属性強化成功率: %s％</entry>
+<entry key="EnchantAccessory">装飾品強化成功率: %s％</entry>
+<entry key="EnchantDoll">マジックドール強化成功率: %s％</entry>
+<entry key="WeightReduction">重量軽減率: %s倍</entry>
+<entry key="GlobalChat">全体チャット可能レベル: Lv%s</entry>
+<entry key="PvP">PvP: 可能</entry>
+<entry key="NonPvP">PvP: 不可(Non-PvP)</entry>
+<entry key="MaxUsers">最大ユーザー: %d名</entry>
+<entry key="LoadingComplete">ローディング完了</entry>
+<entry key="ShutdownTheServer">サーバーをシャットダウンします。</entry>
+<entry key="PleaseLogout">安全な場所でログアウトしてください。</entry>
+<entry key="ShutdownAfterFewMinutes">サーバーが%d分後にシャットダウンします。</entry>
+<entry key="ShutdownAfterFewSeconds">サーバーが%d秒後��シャットダウンします。速やかにログアウトしてください。</entry>
+<entry key="ShutdownAbort">シャットダウンが中断されました。サーバーは正常に稼働中です。</entry>
+
+<!-- jp/l1j/server/ClientThread.java -->
+<entry key="ConnectedToTheServer">%sがサーバーに接続しました。</entry>
+<entry key="TerminatedTheConnection">%sとの接続を終了しました。</entry>
+<entry key="KilledTheConnection">一定時間応答がないので、%sとの接続を強制終了しました。</entry>
+
+<!-- jp/l1j/server/command/GMCommands.java -->
+<entry key="CanNotUseTheCommand">.%s を使用することはできません。</entry>
+<entry key="UsedTheCommand">%s が .%s %s を使用しました。</entry>
+<entry key="DoesNotExistCommand">.%s は存在しません。</entry>
+<entry key="ExecuteTheCommand">.%s を実行します。</entry>
+<entry key="ReExecuteTheCommand">.%s を再実行します。</entry>
+<entry key="ReExecuteTheCommandError">.r コマンドエラー</entry>
+
+<!-- jp/l1j/server/command/GMCommandsConfig.java -->
+<entry key="LoadFailed">%s の読み込みに失敗しました。</entry>
+
+<!-- jp/l1j/server/command/L1Commands.java -->
+<entry key="LoadFromTheTableFailed">%s テーブルからのコマンドの読み込みに失敗しました。</entry>
+
+<!-- jp/l1j/server/command/executor/* -->
+<entry key="CommandFormat1">.%s %s の形式で入力してください。</entry>
+<entry key="CommandFormat2">.%s %s %s の形式で入力してください。</entry>
+<entry key="CommandFormat3">.%s %s %s %s の形式で入力してください。</entry>
+<entry key="CommandFormat4">.%s %s %s %s %s の形式で入力してください。</entry>
+<entry key="CommandFormat5">.%s %s %s %s %s %s の形式で入力してください。</entry>
+<entry key="CommandFormatOn">.%s on|off と入力してください。現在はONです。</entry>
+<entry key="CommandFormatOff">.%s on|off と入力してください。現在はOFFです。</entry>
+<entry key="CommandError">.%s コマンドエラー</entry>
+
+<!-- jp/l1j/server/command/executor/L1AccountBanKick.java -->
+<entry key="AccountBan">%s をBANしました。</entry>
+<entry key="DoesNotExistChar">%s はゲームワールド内に存在しません。</entry>
+
+<!-- jp/l1j/server/command/executor/L1AddInstanceMap.java -->
+<entry key="GeneratedTheInstanceMap">インスタンスマップ: %d を生成しました。(%d)</entry>
+
+<!-- jp/l1j/server/command/executor/L1Adena.java -->
+<entry key="GeneratedTheAdena">%d アデナを生成しました。</entry>
+
+<!-- jp/l1j/server/command/executor/L1AttackLog.java -->
+<entry key="ChangedToDisplayTheDamage">ターゲットへのダメージを表示に変更しました。</entry>
+<entry key="ChangedToHideTheDamage">ターゲットへのダメージを非表示に変更しました。</entry>
+
+<!-- jp/l1j/server/command/executor/L1BanIp.java -->
+<entry key="ConnectedPlayer">%s で接続中のプレイヤー: %s</entry>
+<entry key="AddedToTheBanList">%s をBANリストに登録しました。</entry>
+<entry key="RemovedFromTheBanList">%s をBANリストから削除しました。</entry>
+<entry key="ExistInTheBanList">%s はBANリストに存在します。</entry>
+<entry key="DoesNotExistInTheBanList">%s はBANリストに存在しません。</entry>
+
+<!-- jp/l1j/server/command/executor/L1Buff.java -->
+<entry key="IsNotBuffSkill">%d はBUFFスキルではありません。</entry>
+
+<!-- jp/l1j/server/command/executor/L1CangeWeather.java -->
+<entry key="WeatherOptions">0|1|2|3|16|17|18|19</entry>
+
+<!-- jp/l1j/server/command/executor/L1Chat.java -->
+<entry key="EnabledTheGlobalChat">グローバルチャットを可能にしました。</entry>
+<entry key="DisabledTheGlobalChat">グローバルチャットを不可にしました。</entry>
+<entry key="GlobalChatIsPossible">グローバルチャットは可能です。無効にするには .chat off を入力してください。</entry>
+<entry key="GlobalChatIsImpossible">グローバルチャットは不可です。有効にするには .chat on を入力してください。</entry>
+
+<!-- jp/l1j/server/command/executor/L1CreateItem.java -->
+<entry key="DoesNotExistItem">アイテムが存在しません。</entry>
+
+<!-- jp/l1j/server/command/executor/L1CreateItemSet.java -->
+<entry key="DoesNotExistItemSet">アイテムセットが存在しません。</entry>
+
+<!-- jp/l1j/server/command/executor/L1DeleteGroundItem.java -->
+<entry key="RemovedTheItemsOnTheWorldMap">GMがワールドマップ上のアイテムを削除しました。</entry>
+
+<!-- jp/l1j/server/command/executor/L1Describe.java -->
+<entry key="DescDmg">Dmg: %d / </entry>
+<entry key="DescHit">Hit: %d / </entry>
+<entry key="DescBowDmg">BowDmg: %d / </entry>
+<entry key="DescBowHit">BowHit: %d / </entry>
+<entry key="DescMR">MR: %d / </entry>
+<entry key="DescHPR">HPR: %d / </entry>
+<entry key="DescMPR">MPR: %d / </entry>
+<entry key="DescResistFreeze">凍結耐性: %d / </entry>
+<entry key="DescResistStun">スタン耐性: %d / </entry>
+<entry key="DescResistStone">石化耐性: %d / </entry>
+<entry key="DescResistSleep">睡眠耐性: %d / </entry>
+<entry key="DescResistHold">ホールド耐性: %d / </entry>
+<entry key="DescResistBlind">暗闇耐性: %d / </entry>
+<entry key="DescKarma">カルマ: %d / </entry>
+<entry key="DescInventorySize">所持アイテム数: %d / </entry>
+<entry key="DescExpBonus">EXPボーナス: %d％ / </entry>
+
+<!-- jp/l1j/server/command/executor/L1DropLog.java -->
+<entry key="ChangedToDisplayTheDrops">アイテムドロップを表示に変更しました。</entry>
+<entry key="ChangedToHideTheDrops">アイテムドロップを非表示に変更しました。</entry>
+
+<!-- jp/l1j/server/command/executor/L1Favorite.java -->
+<entry key="CommandIsEmpty">コマンドが空です。</entry>
+<entry key="CanNotBeRegisterd">%s コマンドは登録できません。</entry>
+<entry key="RegisterdCommand">%s コマンドを登録しました。</entry>
+<entry key="CommandThatAreRegisterd">登録されているコマンド: %s</entry>
+<entry key="DoesNotExistCommandThatAreRegisterd">登録されているコマンドは存在しません。</entry>
+
+<!-- jp/l1j/server/command/executor/L1GMRoome.java -->
+<entry key="DoesNotExistTheRoom">ルーム: %s は存在しません。</entry>
+
+<!-- jp/l1j/server/command/executor/L1InsertSpawn.java -->
+<entry key="DoesNotExistNPC">NPCは存在しません。</entry>
+<entry key="IsNotMobs">%d はMobではありません。</entry>
+<entry key="AddedToTheSpawnList">%s(%d) をSpawnリストに登録しました。</entry>
+
+<!-- jp/l1j/server/command/executor/L1Invisible.java -->
+<entry key="BecameInvisible">姿が見えなくなりました。</entry>
+
+<!-- jp/l1j/server/command/executor/L1Kick.java -->
+<entry key="AccountKick">%s をキックしました。</entry>
+
+<!-- jp/l1j/server/command/executor/L1LevelPresetn.java -->
+<entry key="GaveTheItem1">%s を %d 個与えました。(%s: %d, %s: %d)</entry>
+
+<!-- jp/l1j/server/command/executor/L1Loc.java -->
+<entry key="Location">座標 (%d, %d, %d) %d</entry>
+
+<!-- jp/l1j/server/command/executor/L1Move.java -->
+<entry key="MovedToLoc">座標 (%d, %d, %d) %d に移動しました。</entry>
+
+<!-- jp/l1j/server/command/executor/L1PartyRecall.java -->
+<entry key="RecalledByGM">GMに召還されました。</entry>
+<entry key="IsNotPartyMember">パーティメンバーではありません。</entry>
+
+<!-- jp/l1j/server/command/executor/L1PcBuff.java -->
+<entry key="BuffSkillsByGM">GMからBuffスキルを受けました。</entry>
+
+<!-- jp/l1j/server/command/executor/L1PotLog.java -->
+<entry key="ChangedToDisplayUseOfThePotions">ポーションの使用を表示に変更しました。</entry>
+<entry key="ChangedToHideUseOfThePotions">ポーションの使用を非表示に変更しました。</entry>
+
+<!-- jp/l1j/server/command/executor/L1LevelPresent.java -->
+<entry key="GaveTheItem2">%s を %d 個与えました。</entry>
+
+<!-- jp/l1j/server/command/executor/L1Recall.java -->
+<entry key="Recalled">%s を召還しました。</entry>
+
+<!-- jp/l1j/server/command/executor/L1Reload.java -->
+<entry key="ReloadedTheDisplayObjects">表示オブジェクトをリロードしました。</entry>
+
+<!-- jp/l1j/server/command/executor/L1ReloadTrap.java -->
+<entry key="ReloadedTheTraps">トラップをリロードしました。</entry>
+
+<!-- jp/l1j/server/command/executor/L1RemoveInstanceMap.java -->
+<entry key="RemovedTheInstanceMap">インスタンスマップ: %d を削除しました。</entry>
+<entry key="DoesNotExistInstanceMap">インスタンスマップ: %d は存在しません。</entry>
+
+<!-- jp/l1j/server/command/executor/L1Ress.java -->
+<entry key="ResuscitatedByGM">GMによって蘇生されました。</entry>
+<entry key="RecoveredByGM">GMによって回復されました。</entry>
+
+<!-- jp/l1j/server/command/executor/L1ShutdownRequest.java -->
+<entry key="AcceptedShutdownRequest">シャットダウン要求を受け付けました。</entry>
+<entry key="ShutdownRequestMax">シャットダウン要求が一定数に達しました。シャットダウンを開始します。</entry>
+
+<!-- jp/l1j/server/command/executor/L1SKick.java -->
+<entry key="DisconnectedTheConnection">%s コマンドにより %s(%s) の接続を切断しました。</entry>
+
+<!-- jp/l1j/server/command/executor/L1SpawnCmd.java -->
+<entry key="SummonMonster1">%s(%d) (%d) を召還しました。 (範囲:%d)</entry>
+
+<!-- jp/l1j/server/command/executor/L1Status.java -->
+<entry key="PromotedToGM">GMに昇格しました。リスタートしてください。</entry>
+<entry key="IsUnknownParam">%s は不明なパラメータです。</entry>
+<entry key="ChangedTheStatus">%s の %s を %d に変更しました。</entry>
+
+<!-- jp/l1j/server/command/executor/L1SpawnCmd.java -->
+<entry key="SummonMonster2">%s(%d) (%d) を召還しました。</entry>
+
+<!-- jp/l1j/server/command/executor/L1ToPC.java -->
+<entry key="MovedToTheChar">%s の場所に移動しました。</entry>
+
+<!-- jp/l1j/server/command/executor/L1Visible.java -->
+<entry key="BecameVisible">姿が見えるようになりました。</entry>
+
+<!-- jp/l1j/server/controller/LoginController.java -->
+<entry key="IsNotAuthenticated">認証されていないアカウントです。</entry>
+
+<!-- jp/l1j/server/controller/HomeTownTimeController.java -->
+<entry key="HomeTownSystemDailyProcess">ホームタウンシステム: 日時処理</entry>
+<entry key="HomeTownSystemMonthlyProcess">ホームタウンシステム: 月次処理</entry>
+
+<!-- jp/l1j/server/controller/WeatherTimeController.java -->
+<entry key="WeatherSystemClear">天候システム: 晴れ</entry>
+<entry key="WeatherSystemRain">天候システム: 雨</entry>
+<entry key="WeatherSystemSnow">天候システム: 雪</entry>
+
+<!-- jp/l1j/server/datatables/ItemTable.java -->
+<entry key="LoadItemFailed">%s(%s) の読み込みに失敗しました。</entry>
+
+<!-- jp/l1j/server/model/AcceleratorChecker.java -->
+<entry key="AccelerratorDisconnectTheConnection">速度超過が検出されました。%d秒後に接続を切断します。</entry>
+<entry key="AccelerratorStopTheAction">速度超過が検出されました。%d秒後に行動を停止します。</entry>
+<entry key="AccelerratorMoveToTheIsolationMap">速度超過が検出されました。%d秒後に隔離マップに移動します。。</entry>
+<entry key="AccelerratorOverspeedDetected">速度超過が検出されました。</entry>
+
+<!-- jp/l1j/server/model/L1Attack.java -->
+<entry key="AttackGaveTextColor">\F2</entry>
+<entry key="AttackReceivedTextColor">\F3</entry>
+<entry key="AttackFormat">{0}が{1}に{2} {3}</entry>
+<entry key="AttackTo">に</entry>
+<entry key="AttackDmg">%dダメージ</entry>
+<entry key="AttackMiss">攻撃ミス</entry>
+
+<!-- jp/l1j/server/model/L1BugBearRace.java -->
+<entry key="RaceRound">第%d</entry>
+
+<!-- jp/l1j/server/model/L1Clan.java -->
+<entry key="ClanLeader">[君主]</entry>
+<entry key="ClanSubLeader">[副君主]</entry>
+<entry key="ClanGuardian">[ガーディアン]</entry>
+<entry key="ClanElite">[一般]</entry>
+<entry key="ClanRegular">[修練]</entry>
+
+<!-- jp/l1j/server/model/L1DeleteItemOnGround.java -->
+<entry key="RemoveItemsAfterFewSeconds">ワールドマップ上のアイテムが、%d秒後に削除されます。.</entry>
+<entry key="RemovedItemsOnWorldMap">ワールドマップ上のアイテムが削除されました。</entry>
+
+<!-- jp/l1j/server/model/L1Magic.java -->
+<entry key="SkillGaveTextColor">\F2</entry>
+<entry key="SkillReceivedTextColor">\F3</entry>
+<entry key="SkillSuccess">成功</entry>
+<entry key="SkillFailed">失敗</entry>
+<entry key="SkillDmg">%dスキルダメージ</entry>
+
+<!-- jp/l1j/server/model/L1DeathMatch.java -->
+<entry key="DeathMatchLessThanMinPlayers">最小参加人数の%d名に満たなかったため、デスマッチを強制終了します。 1,000アデナをお返ししました。</entry>
+
+<!-- jp/l1j/server/model/L1PolyRace.java -->
+<entry key="PolyRaceLessThanMinPlayers">最小参加人数の%d名に満たなかったため、レースを強制終了します。 1,000アデナをお返ししました。</entry>
+<entry key="PolyRaceReachedToMaxPlayers">Reached the max participants.</entry>
+
+<!-- jp/l1j/server/model/L1SpellBook.java -->
+<entry key="SpellBookName">魔法書(%s)</entry>
+<entry key="SpiritCrystalName">精霊の水晶(%s)</entry>
+<entry key="DarkSpiritCrystalName">闇精霊の水晶(%s)</entry>
+<entry key="TechnicalDocumentName">技術書(%s)</entry>
+<entry key="DragonTabletName">ドラゴンナイトの書板(%s)</entry>
+<entry key="MemoryCrystalName">記憶の水晶(%s)</entry>
+
+<!-- jp/l1j/server/model/instance/L1HousekeeperInstance.java -->
+<entry key="TaxHasAllreadyPaid">次回分の税金は既に支払われています。</entry>
+
+<!-- jp/l1j/server/model/instance/L1PcInstance.java -->
+<entry key="FailedToObtainTheRevivalPotion">復活ポーションを取得するのに失敗しました。</entry>
+
+<!-- jp/l1j/server/model/item/executor/* -->
+<entry key="DoesNotExistItemList">%s はアイテムリストに存在しません。</entry>
+<entry key="DoesNotExistSkillList">%s はスキルリストに存在しません。</entry>
+<entry key="DoesNotExistPolyList">%s は変身リストに存在しません。</entry>
+<entry key="DoesNotExistMapList">%s はマップリストに存在しません。</entry>
+<entry key="DoesNotExistNpcList">%s はNPCリストに存在しません。</entry>
+<entry key="ProbabilitiesError">%s の合計確率は100％ではありません。</entry>
+<entry key="OverEnchantSuccessful">%sが%sの製作に成功しました。</entry>
+
+<!-- jp/l1j/server/packets/client/C_AuthLogin.java -->
+<entry key="DenyToMultipleLogins">多重ログインを拒否しました。account=%s host=%s</entry>
+<entry key="DenyToConnectFromSpecificIP">特定のIP範囲の接続を拒否しました。account=%s host=%</entry>
+<entry key="DenyToLoginBanAccount">BANアカウントのログインを拒否しました。account=%s host=%</entry>
+<entry key="DenyToLoginBecauseReachedMaxConnections">最大接続人数に達しているためログインを拒否しました。host=%s</entry>
+
+<!-- jp/l1j/server/packets/client/C_LoginToServer.java -->
+<entry key="MultipleLoginsDetected">多重ログインを検出しました。%s の接続を切断します。</entry>
+<entry key="LoginRequestIsInvalid">ログインリクエストが無効です。char=%s account=%s host=%s</entry>
+<entry key="BeyondTheToleranceOfTheLevelDown">レベルダウンの許容範囲を超えています。char=%s account=%s host=%s</entry>
+<entry key="LoggedCharacter">ログインキャラクター: char=%s account=%s host=%s</entry>
+
+<!-- jp/l1j/server/packets/client/C_PickUpItem.java -->
+<entry key="CanNotPickUpAdena">2,000,000,000アデナを超えるので拾えません。</entry>
+
+<!-- jp/l1j/server/packets/client/C_Rank.java -->
+<entry key="ClanList">血盟リスト</entry>
+<entry key="JoinToClan">血盟加入</entry>
+<entry key="LeaveTheClan">血盟脱退</entry>
+
+<!-- jp/l1j/server/packets/client/C_Shop.java -->
+<entry key="TradingIsImpossible">%sは取引不可能です。</entry>
+<entry key="CanNotToStack">%sはスタックすることができません。取引不可能です。</entry>
+
+<!-- jp/l1j/server/packets/client/C_UseItem.java -->
+<entry key="CanBeUsedBelowTheMaxLevel">このアイテムは%dレベル以下のみ使用できます。</entry>
+
+</properties>

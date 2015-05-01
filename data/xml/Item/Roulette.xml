@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ItemEffectList>
+	<!-- 2面コイン -->
+	<Item ItemId="40325" Remove="1">
+		<Effect Random="2" GfxId="3237" />
+	</Item>
+	<!-- 3方向ルーレット -->
+	<Item ItemId="40326" Remove="1">
+		<Effect Random="3" GfxId="3229" />
+	</Item>
+	<!-- 4方向ルーレット -->
+	<Item ItemId="40327" Remove="1">
+		<Effect Random="4" GfxId="3241" />
+	</Item>
+	<!-- 6面ダイス -->
+	<Item ItemId="40328" Remove="1">
+		<Effect Random="6" GfxId="3204" />
+	</Item>
+</ItemEffectList>

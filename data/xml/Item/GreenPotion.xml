@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ItemEffectList>
+	<!-- グリーンポーション -->
+	<Item ItemId="40013" Remove="1">
+		<Effect Time="300" GfxId="191" />
+	</Item>
+	<!-- 強化グリーンポーション -->
+	<Item ItemId="40018" Remove="1">
+		<Effect Time="1800" GfxId="191" />
+	</Item>
+	<!-- 象牙の塔のヘイストポーション -->
+	<Item ItemId="40030" Remove="1">
+		<Effect Time="300" GfxId="191" />
+	</Item>
+	<!-- ワイン -->
+	<Item ItemId="40039" Remove="1">
+		<Effect Time="600" GfxId="191" />
+	</Item>
+	<!-- ウイスキー -->
+	<Item ItemId="40040" Remove="1">
+		<Effect Time="900" GfxId="191" />
+	</Item>
+	<!-- おむすび -->
+	<Item ItemId="41261" Remove="1">
+		<Effect Time="30" GfxId="191" />
+	</Item>
+	<!-- 焼き鳥 -->
+	<Item ItemId="41262" Remove="1">
+		<Effect Time="30" GfxId="191" />
+	</Item>
+	<!-- ピザのピース -->
+	<Item ItemId="41268" Remove="1">
+		<Effect Time="30" GfxId="191" />
+	</Item>
+	<!-- 焼きもろこし -->
+	<Item ItemId="41269" Remove="1">
+		<Effect Time="30" GfxId="191" />
+	</Item>
+	<!-- ポップコーン -->
+	<Item ItemId="41271" Remove="1">
+		<Effect Time="30" GfxId="191" />
+	</Item>
+	<!-- おでん -->
+	<Item ItemId="41272" Remove="1">
+		<Effect Time="30" GfxId="191" />
+	</Item>
+	<!-- ワッフル -->
+	<Item ItemId="41273" Remove="1">
+		<Effect Time="30" GfxId="191" />
+	</Item>
+	<!-- 祝福されたワイン -->
+	<Item ItemId="41338" Remove="1">
+		<Effect Time="1800" GfxId="191" />
+	</Item>
+	<!-- メデューサの血 -->
+	<Item ItemId="41342" Remove="1">
+		<Effect Time="1800" GfxId="191" />
+	</Item>
+	<!-- 村人のヘイスト ポーション -->
+	<Item ItemId="41477" Remove="1">
+		<Effect Time="1200" GfxId="191" />
+	</Item>
+	<!-- 祝福されたグリーンポーション -->
+	<Item ItemId="140013" Remove="1">
+		<Effect Time="350" GfxId="191" />
+	</Item>
+	<!-- 祝福された強化グリーンポーション -->
+	<Item ItemId="140018" Remove="1">
+		<Effect Time="2100" GfxId="191" />
+	</Item>
+</ItemEffectList>

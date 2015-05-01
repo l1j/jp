@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ItemEffectList>
+	<!-- 地竜の魔眼 -->
+	<Item ItemId="50508">
+		<Effect SkillId="4060" Time="600" GfxId="7671" />
+	</Item>
+	<!-- 水竜の魔眼 -->
+	<Item ItemId="50509">
+		<Effect SkillId="4061" Time="600" GfxId="7672" />
+	</Item>
+	<!-- 風竜の魔眼 -->
+	<Item ItemId="50510">
+		<Effect SkillId="4062" Time="600" GfxId="7673" />
+	</Item>
+	<!-- 火竜の魔眼 -->
+	<Item ItemId="50511">
+		<Effect SkillId="4063" Time="600" GfxId="7674" />
+	</Item>
+	<!-- 誕生の魔眼 -->
+	<Item ItemId="50512">
+		<Effect SkillId="4064" Time="600" GfxId="7675" />
+	</Item>
+	<!-- 形象の魔眼 -->
+	<Item ItemId="50513">
+		<Effect SkillId="4065" Time="600" GfxId="7676" />
+	</Item>
+	<!-- 生命の魔眼 -->
+	<Item ItemId="50514">
+		<Effect SkillId="4066" Time="600" GfxId="7678" />
+	</Item>
+</ItemEffectList>

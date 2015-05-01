@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ItemEffectList>
+	<!-- ストーム ウォーク -->
+	<Item ItemId="42501" Consume="1">
+		<Effect SkillId="0" />
+	</Item>
+	<!-- ヒール -->
+	<Item ItemId="47001" Consume="1">
+		<Effect SkillId="1" />
+	</Item>
+	<!-- ライト -->
+	<Item ItemId="47002" Consume="1">
+		<Effect SkillId="2" />
+	</Item>
+	<!-- シールド -->
+	<Item ItemId="47003" Consume="1">
+		<Effect SkillId="3" />
+	</Item>
+	<!-- エネルギー ボルト -->
+	<Item ItemId="47004" Consume="1">
+		<Effect SkillId="4" />
+	</Item>
+	<!-- テレポート -->
+	<Item ItemId="47005" Consume="1">
+		<Effect SkillId="5" />
+	</Item>
+	<!-- アイス ダガー -->
+	<Item ItemId="47006" Consume="1">
+		<Effect SkillId="6" />
+	</Item>
+	<!-- ウィンド カッター -->
+	<Item ItemId="47007" Consume="1">
+		<Effect SkillId="7" />
+	</Item>
+	<!-- ホーリー ウェポン -->
+	<Item ItemId="47008" Consume="1">
+		<Effect SkillId="8" />
+	</Item>
+	<!-- キュア ポイズン -->
+	<Item ItemId="47009" Consume="1">
+		<Effect SkillId="9" />
+	</Item>
+	<!-- チル タッチ -->
+	<Item ItemId="47010" Consume="1">
+		<Effect SkillId="10" />
+	</Item>
+	<!-- カーズポイズン -->
+	<Item ItemId="47011" Consume="1">
+		<Effect SkillId="11" />
+	</Item>
+	<!-- エンチャント ウェポン -->
+	<Item ItemId="47012" Consume="1">
+		<Effect SkillId="12" />
+	</Item>
+	<!-- ディテクション -->
+	<Item ItemId="47013" Consume="1">
+		<Effect SkillId="13" />
+	</Item>
+	<!-- ディクリース ウェイト -->
+	<Item ItemId="47014" Consume="1">
+		<Effect SkillId="14" />
+	</Item>
+	<!-- ファイアー アロー -->
+	<Item ItemId="47015" Consume="1">
+		<Effect SkillId="15" />
+	</Item>
+	<!-- スタラック -->
+	<Item ItemId="47016" Consume="1">
+		<Effect SkillId="16" />
+	</Item>
+	<!-- ライトニング -->
+	<Item ItemId="47017" Consume="1">
+		<Effect SkillId="17" />
+	</Item>
+	<!-- ターン アンデッド -->
+	<Item ItemId="47018" Consume="1">
+		<Effect SkillId="18" />
+	</Item>
+	<!-- エキストラ ヒール -->
+	<Item ItemId="47019" Consume="1">
+		<Effect SkillId="19" />
+	</Item>
+	<!-- カーズ ブラインド -->
+	<Item ItemId="47020" Consume="1">
+		<Effect SkillId="20" />
+	</Item>
+	<!-- ブレスド アーマー -->
+	<Item ItemId="47021" Consume="1">
+		<Effect SkillId="21" />
+	</Item>
+	<!-- フローズン クラウド -->
+	<Item ItemId="47022" Consume="1">
+		<Effect SkillId="22" />
+	</Item>
+	<!-- ウィーク エレメンタル -->
+	<Item ItemId="47023" Consume="1">
+		<Effect SkillId="23" />
+	</Item>
+	<!-- ファイアー ボール -->
+	<Item ItemId="47025" Consume="1">
+		<Effect SkillId="25" />
+	</Item>
+	<!-- フィジカルエンチャント：DEX -->
+	<Item ItemId="47026" Consume="1">
+		<Effect SkillId="26" />
+	</Item>
+	<!-- ウェポン ブレイク -->
+	<Item ItemId="47027" Consume="1">
+		<Effect SkillId="27" />
+	</Item>
+	<!-- バンパイアリック タッチ -->
+	<Item ItemId="47028" Consume="1">
+		<Effect SkillId="28" />
+	</Item>
+	<!-- スロー -->
+	<Item ItemId="47029" Consume="1">
+		<Effect SkillId="29" />
+	</Item>
+	<!-- アース ジェイル -->
+	<Item ItemId="47030" Consume="1">
+		<Effect SkillId="30" />
+	</Item>
+	<!-- カウンター マジック -->
+	<Item ItemId="47031" Consume="1">
+		<Effect SkillId="31" />
+	</Item>
+	<!-- メディテーション -->
+	<Item ItemId="47032" Consume="1">
+		<Effect SkillId="32" />
+	</Item>
+	<!-- カーズ パラライズ -->
+	<Item ItemId="47033" Consume="1">
+		<Effect SkillId="33" />
+	</Item>
+	<!-- コール ライトニング -->
+	<Item ItemId="47034" Consume="1">
+		<Effect SkillId="34" />
+	</Item>
+	<!-- グレーター ヒール -->
+	<Item ItemId="47035" Consume="1">
+		<Effect SkillId="35" />
+	</Item>
+	<!-- テイミング モンスター -->
+	<Item ItemId="47036" Consume="1">
+		<Effect SkillId="36" />
+	</Item>
+	<!-- リムーブ カーズ -->
+	<Item ItemId="47037" Consume="1">
+		<Effect SkillId="37" />
+	</Item>
+	<!-- コーン オブ コールド -->
+	<Item ItemId="47038" Consume="1">
+		<Effect SkillId="38" />
+	</Item>
+	<!-- マナ ドレイン -->
+	<Item ItemId="47039" Consume="1">
+		<Effect SkillId="39" />
+	</Item>
+	<!-- ダークネス -->
+	<Item ItemId="47040" Consume="1">
+		<Effect SkillId="40" />
+	</Item>
+	<!-- クリエイト ゾンビ -->
+	<Item ItemId="47041" Consume="1">
+		<Effect SkillId="41" />
+	</Item>
+	<!-- フィジカル エンチャント：STR -->
+	<Item ItemId="47042" Consume="1">
+		<Effect SkillId="42" />
+	</Item>
+	<!-- ヘイスト -->
+	<Item ItemId="47043" Consume="1">
+		<Effect SkillId="43" />
+	</Item>
+	<!-- キャンセレーション -->
+	<Item ItemId="47044" Consume="1">
+		<Effect SkillId="44" />
+	</Item>
+	<!-- イラプション -->
+	<Item ItemId="47045" Consume="1">
+		<Effect SkillId="45" />
+	</Item>
+	<!-- サン バースト -->
+	<Item ItemId="47046" Consume="1">
+		<Effect SkillId="46" />
+	</Item>
+	<!-- ウィークネス -->
+	<Item ItemId="47047" Consume="1">
+		<Effect SkillId="47" />
+	</Item>
+	<!-- ブレス ウェポン -->
+	<Item ItemId="47048" Consume="1">
+		<Effect SkillId="48" />
+	</Item>
+	<!-- ヒール オール -->
+	<Item ItemId="47049" Consume="1">
+		<Effect SkillId="49" />
+	</Item>
+	<!-- アイス ランス -->
+	<Item ItemId="47050" Consume="1">
+		<Effect SkillId="50" />
+	</Item>
+	<!-- サモン モンスター -->
+	<Item ItemId="47051" Consume="1">
+		<Effect SkillId="51" />
+	</Item>
+	<!-- ホーリー ウォーク -->
+	<Item ItemId="47052" Consume="1">
+		<Effect SkillId="52" />
+	</Item>
+	<!-- トルネード -->
+	<Item ItemId="47053" Consume="1">
+		<Effect SkillId="53" />
+	</Item>
+	<!-- グレーター ヘイスト -->
+	<Item ItemId="47054" Consume="1">
+		<Effect SkillId="54" />
+	</Item>
+	<!-- バーサーカー -->
+	<Item ItemId="47055" Consume="1">
+		<Effect SkillId="55" />
+	</Item>
+	<!-- ディジーズ -->
+	<Item ItemId="47056" Consume="1">
+		<Effect SkillId="56" />
+	</Item>
+	<!-- フル ヒール -->
+	<Item ItemId="47057" Consume="1">
+		<Effect SkillId="57" />
+	</Item>
+	<!-- ファイアー ウォール -->
+	<Item ItemId="47058" Consume="1">
+		<Effect SkillId="58" />
+	</Item>
+	<!-- ブリザード -->
+	<Item ItemId="47059" Consume="1">
+		<Effect SkillId="59" />
+	</Item>
+	<!-- インビジビリティー -->
+	<Item ItemId="47060" Consume="1">
+		<Effect SkillId="60" />
+	</Item>
+	<!-- リザレクション -->
+	<Item ItemId="47061" Consume="1">
+		<Effect SkillId="61" />
+	</Item>
+	<!-- アース クエイク -->
+	<Item ItemId="47062" Consume="1">
+		<Effect SkillId="62" />
+	</Item>
+	<!-- ライフ ストリーム -->
+	<Item ItemId="47063" Consume="1">
+		<Effect SkillId="63" />
+	</Item>
+	<!-- サイレンス -->
+	<Item ItemId="47064" Consume="1">
+		<Effect SkillId="64" />
+	</Item>
+	<!-- ライトニング ストーム -->
+	<Item ItemId="47065" Consume="1">
+		<Effect SkillId="65" />
+	</Item>
+	<!-- フォグ オブ スリーピング -->
+	<Item ItemId="47066" Consume="1">
+		<Effect SkillId="66" />
+	</Item>
+	<!-- シェイプ チェンジ -->
+	<Item ItemId="47067" Consume="1">
+		<Effect SkillId="67" />
+	</Item>
+	<!-- イミューン トゥ ハーム -->
+	<Item ItemId="47068" Consume="1">
+		<Effect SkillId="68" />
+	</Item>
+	<!-- マス テレポート -->
+	<Item ItemId="47069" Consume="1">
+		<Effect SkillId="69" />
+	</Item>
+	<!-- ファイアー ストーム -->
+	<Item ItemId="47070" Consume="1">
+		<Effect SkillId="70" />
+	</Item>
+	<!-- ディケイポーション -->
+	<Item ItemId="47071" Consume="1">
+		<Effect SkillId="71" />
+	</Item>
+	<!-- カウンター ディテクション -->
+	<Item ItemId="47072" Consume="1">
+		<Effect SkillId="72" />
+	</Item>
+	<!-- クリエイト マジカル ウェポン -->
+	<Item ItemId="47073" Consume="1">
+		<Effect SkillId="73" />
+	</Item>
+	<!-- メテオ ストライク -->
+	<Item ItemId="47074" Consume="1">
+		<Effect SkillId="74" />
+	</Item>
+	<!-- グレーター リザレクション -->
+	<Item ItemId="47075" Consume="1">
+		<Effect SkillId="75" />
+	</Item>
+	<!-- マス スロー -->
+	<Item ItemId="47076" Consume="1">
+		<Effect SkillId="76" />
+	</Item>
+	<!-- ディスインテグレート -->
+	<Item ItemId="47077" Consume="1">
+		<Effect SkillId="77" />
+	</Item>
+	<!-- アブソルート バリア -->
+	<Item ItemId="47078" Consume="1">
+		<Effect SkillId="78" />
+	</Item>
+	<!-- アドバンスド スピリッツ -->
+	<Item ItemId="47079" Consume="1">
+		<Effect SkillId="79" />
+	</Item>
+	<!-- フリージング ブリザード -->
+	<Item ItemId="47080" Consume="1">
+		<Effect SkillId="80" />
+	</Item>
+</ItemEffectList>

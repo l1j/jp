@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ItemEffectList>
+	<!-- 隠された渓谷帰還スクロール -->
+	<Item ItemId="40101">
+		<Effect HtmlId="ei037" />
+	</Item>
+	<!-- 地図：歌う島 -->
+	<Item ItemId="40383">
+		<Effect HtmlId="ei035" />
+	</Item>
+	<!-- 地図：隠された渓谷 -->
+	<Item ItemId="40384">
+		<Effect HtmlId="ei036" />
+	</Item>
+	<!-- ディエゴの古い日記 -->
+	<Item ItemId="40630">
+		<Effect HtmlId="diegodiary" />
+	</Item>
+	<!-- トーキングスクロール -->
+	<Item ItemId="40641">
+		<Effect HtmlId="tscrolla" QuestId="39" QuestStep="0" />
+		<Effect HtmlId="tscrollb" QuestId="39" QuestStep="1" />
+		<Effect HtmlId="tscrollc" QuestId="39" QuestStep="2" />
+		<Effect HtmlId="tscrolld" QuestId="39" QuestStep="3" />
+		<Effect HtmlId="tscrolle" QuestId="39" QuestStep="4" />
+		<Effect HtmlId="tscrollf" QuestId="39" QuestStep="5" />
+		<Effect HtmlId="tscrollg" QuestId="39" QuestStep="6" />
+		<Effect HtmlId="tscrollh" QuestId="39" QuestStep="7" />
+		<Effect HtmlId="tscrolli" QuestId="39" QuestStep="8" />
+		<Effect HtmlId="tscrollj" QuestId="39" QuestStep="9" />
+		<Effect HtmlId="tscrollk" QuestId="39" QuestStep="10" />
+		<Effect HtmlId="tscrolll" QuestId="39" QuestStep="11" />
+		<Effect HtmlId="tscrollm" QuestId="39" QuestStep="12" />
+		<Effect HtmlId="tscrolln" QuestId="39" QuestStep="13" />
+		<Effect HtmlId="tscrollo" QuestId="39" QuestStep="255" />
+		<Effect HtmlId="tscrollp" />
+	</Item>
+	<!-- 息子の手紙 -->
+	<Item ItemId="40663">
+		<Effect HtmlId="sonsletter" />
+	</Item>
+	<!-- 小さな宝の地図 -->
+	<Item ItemId="40701">
+		<Effect HtmlId="firsttmap" QuestId="23" QuestStep="1" />
+		<Effect HtmlId="secondtmapa" QuestId="23" QuestStep="2" />
+		<Effect HtmlId="secondtmapb" QuestId="23" QuestStep="3" />
+		<Effect HtmlId="secondtmapc" QuestId="23" QuestStep="4" />
+		<Effect HtmlId="thirdtmapd" QuestId="23" QuestStep="5" />
+		<Effect HtmlId="thirdtmape" QuestId="23" QuestStep="6" />
+		<Effect HtmlId="thirdtmapf" QuestId="23" QuestStep="7" />
+		<Effect HtmlId="thirdtmapg" QuestId="23" QuestStep="8" />
+		<Effect HtmlId="thirdtmaph" QuestId="23" QuestStep="9" />
+		<Effect HtmlId="thirdtmapi" QuestId="23" QuestStep="10" />
+	</Item>
+	<!-- イリスの命令書：霊魂の安息 -->
+	<Item ItemId="41007">
+		<Effect HtmlId="erisscroll" />
+	</Item>
+	<!-- イリスの命令書：同盟の意志 -->
+	<Item ItemId="41009">
+		<Effect HtmlId="erisscroll2" />
+	</Item>
+	<!-- ラスタバド歴史書１章 -->
+	<Item ItemId="41019">
+		<Effect HtmlId="lashistory1" />
+	</Item>
+	<!-- ラスタバド歴史書２章 -->
+	<Item ItemId="41020">
+		<Effect HtmlId="lashistory2" />
+	</Item>
+	<!-- ラスタバド歴史書３章 -->
+	<Item ItemId="41021">
+		<Effect HtmlId="lashistory3" />
+	</Item>
+	<!-- ラスタバド歴史書４章 -->
+	<Item ItemId="41022">
+		<Effect HtmlId="lashistory4" />
+	</Item>
+	<!-- ラスタバド歴史書５章 -->
+	<Item ItemId="41023">
+		<Effect HtmlId="lashistory5" />
+	</Item>
+	<!-- ラスタバド歴史書６章 -->
+	<Item ItemId="41024">
+		<Effect HtmlId="lashistory6" />
+	</Item>
+	<!-- ラスタバド歴史書７章 -->
+	<Item ItemId="41025">
+		<Effect HtmlId="lashistory7" />
+	</Item>
+	<!-- ラスタバド歴史書８章 -->
+	<Item ItemId="41026">
+		<Effect HtmlId="lashistory8" />
+	</Item>
+	<!-- ノナメの推薦書 -->
+	<Item ItemId="41060">
+		<Effect HtmlId="nonames" />
+	</Item>
+	<!-- 調査団の証書：エルフ地域ドゥダ-マラカメ -->
+	<Item ItemId="41061">
+		<Effect HtmlId="kames" />
+	</Item>
+	<!-- 調査団の証書：人間地域ネルガバクモ -->
+	<Item ItemId="41062">
+		<Effect HtmlId="bakumos" />
+	</Item>
+	<!-- 調査団の証書：精霊地域ドゥダ-マラブカ -->
+	<Item ItemId="41063">
+		<Effect HtmlId="bukas" />
+	</Item>
+	<!-- 調査団の証書：オーク地域ネルガフウモ -->
+	<Item ItemId="41064">
+		<Effect HtmlId="huwoomos" />
+	</Item>
+	<!-- 調査団の証書：調査団長アトゥバノア -->
+	<Item ItemId="41065">
+		<Effect HtmlId="noas" />
+	</Item>
+	<!-- ドロモンドの招待状 -->
+	<Item ItemId="41146">
+		<Effect HtmlId="ei001" />
+	</Item>
+	<!-- ポピレアの依頼書 -->
+	<Item ItemId="41209">
+		<Effect HtmlId="ei002" />
+	</Item>
+	<!-- 研磨材 -->
+	<Item ItemId="41210">
+		<Effect HtmlId="ei003" />
+	</Item>
+	<!-- ハーブ -->
+	<Item ItemId="41211">
+		<Effect HtmlId="ei004" />
+	</Item>
+	<!-- 特製キャンディー -->
+	<Item ItemId="41212">
+		<Effect HtmlId="ei005" />
+	</Item>
+	<!-- ティミーのバスケット -->
+	<Item ItemId="41213">
+		<Effect HtmlId="ei006" />
+	</Item>
+	<!-- 運の証 -->
+	<Item ItemId="41214">
+		<Effect HtmlId="ei012" />
+	</Item>
+	<!-- 知の証 -->
+	<Item ItemId="41215">
+		<Effect HtmlId="ei010" />
+	</Item>
+	<!-- 力の証 -->
+	<Item ItemId="41216">
+		<Effect HtmlId="ei011" />
+	</Item>
+	<!-- マシュル -->
+	<Item ItemId="41222">
+		<Effect HtmlId="ei008" />
+	</Item>
+	<!-- 武具の破片 -->
+	<Item ItemId="41223">
+		<Effect HtmlId="ei007" />
+	</Item>
+	<!-- バッジ -->
+	<Item ItemId="41224">
+		<Effect HtmlId="ei009" />
+	</Item>
+	<!-- ケスキンの発注書 -->
+	<Item ItemId="41225">
+		<Effect HtmlId="ei013" />
+	</Item>
+	<!-- パゴの薬 -->
+	<Item ItemId="41226">
+		<Effect HtmlId="ei014" />
+	</Item>
+	<!-- アレックスの紹介状 -->
+	<Item ItemId="41227">
+		<Effect HtmlId="ei033" />
+	</Item>
+	<!-- ラビのお守り -->
+	<Item ItemId="41228">
+		<Effect HtmlId="ei034" />
+	</Item>
+	<!-- スケルトンの頭 -->
+	<Item ItemId="41229">
+		<Effect HtmlId="ei025" />
+	</Item>
+	<!-- ジーナンへの手紙 -->
+	<Item ItemId="41230">
+		<Effect HtmlId="ei020" />
+	</Item>
+	<!-- マッティへの手紙 -->
+	<Item ItemId="41231">
+		<Effect HtmlId="ei021" />
+	</Item>
+	<!-- ケーイへの手紙 -->
+	<Item ItemId="41233">
+		<Effect HtmlId="ei019" />
+	</Item>
+	<!-- 骨の入った袋 -->
+	<Item ItemId="41234">
+		<Effect HtmlId="ei023" />
+	</Item>
+	<!-- 材料表 -->
+	<Item ItemId="41235">
+		<Effect HtmlId="ei024" />
+	</Item>
+	<!-- ボーンアーチャーの骨 -->
+	<Item ItemId="41236">
+		<Effect HtmlId="ei026" />
+	</Item>
+	<!-- スケルトンスパイクの骨 -->
+	<Item ItemId="41237">
+		<Effect HtmlId="ei027" />
+	</Item>
+	<!-- ヴートへの手紙 -->
+	<Item ItemId="41239">
+		<Effect HtmlId="ei018" />
+	</Item>
+	<!-- フェーダへの手紙 -->
+	<Item ItemId="41240">
+		<Effect HtmlId="ei022" />
+	</Item>
+	<!-- ラルソンの推薦状 -->
+	<Item ItemId="41317">
+		<Effect HtmlId="rarson" />
+	</Item>
+	<!-- クエンのメモ -->
+	<Item ItemId="41318">
+		<Effect HtmlId="kuen" />
+	</Item>
+	<!-- 剥製の製作依頼書 -->
+	<Item ItemId="41329">
+		<Effect HtmlId="anirequest" />
+	</Item>
+	<!-- 傭兵団長 ティオンの紹介状 -->
+	<Item ItemId="41340">
+		<Effect HtmlId="tion" />
+	</Item>
+	<!-- ロビンフッドのメモ1 -->
+	<Item ItemId="41346">
+		<Effect HtmlId="robinscroll" />
+	</Item>
+	<!-- ロビンフッドのメモ2 -->
+	<Item ItemId="41347">
+		<Effect HtmlId="robinscroll2" />
+	</Item>
+	<!-- ロビンフッドの紹介状 -->
+	<Item ItemId="41348">
+		<Effect HtmlId="robinhood" />
+	</Item>
+	<!-- パルームの資源リスト -->
+	<Item ItemId="41356">
+		<Effect HtmlId="rparum3" />
+	</Item>
+	<!-- シルレインの1番目の手紙 -->
+	<Item ItemId="49172">
+		<Effect HtmlId="silrein1lt" />
+	</Item>
+	<!-- シルレインの2番目の手紙 -->
+	<Item ItemId="49173">
+		<Effect HtmlId="silrein2lt" />
+	</Item>
+	<!-- シルレインの3番目の手紙 -->
+	<Item ItemId="49174">
+		<Effect HtmlId="silrein3lt" />
+	</Item>
+	<!-- シルレインの4番目の手紙 -->
+	<Item ItemId="49175">
+		<Effect HtmlId="silrein4lt" />
+	</Item>
+	<!-- シルレインの5番目の手紙 -->
+	<Item ItemId="49176">
+		<Effect HtmlId="silrein5lt" />
+	</Item>
+	<!-- シルレインの6番目の手紙 -->
+	<Item ItemId="49177">
+		<Effect HtmlId="silrein6lt" />
+	</Item>
+	<!-- サビウスの思念の欠片 -->
+	<Item ItemId="49206">
+		<Effect HtmlId="bluesoul_p" />
+	</Item>
+	<!-- プロケルの1番目の指令書 -->
+	<Item ItemId="49210">
+		<Effect HtmlId="first_p" />
+	</Item>
+	<!-- プロケルの2番目の指令書 -->
+	<Item ItemId="49211">
+		<Effect HtmlId="second_p" />
+	</Item>
+	<!-- プロケルの3番目の指令書 -->
+	<Item ItemId="49212">
+		<Effect HtmlId="third_p" />
+	</Item>
+	<!-- プロケルの4番目の指令書 -->
+	<Item ItemId="49287">
+		<Effect HtmlId="fourth_p" />
+	</Item>
+	<!-- プロケルの5番目の指令書 -->
+	<Item ItemId="49288">
+		<Effect HtmlId="fifth_p" />
+	</Item>
+	<!-- ルシウスの思念の欠片 -->
+	<Item ItemId="49231">
+		<Effect HtmlId="redsoul_p" />
+	</Item>
+</ItemEffectList>

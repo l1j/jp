@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="L1J" default="all" basedir=".">
+    <description>
+		This program is free software: you can redistribute it and/or modify
+		it under the terms of the GNU General Public License as published by
+		the Free Software Foundation, either version 3 of the License, or
+		(at your option) any later version.
+
+		This program is distributed in the hope that it will be useful,
+		but WITHOUT ANY WARRANTY; without even the implied warranty of
+		MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+		GNU General Public License for more details.
+
+		You should have received a copy of the GNU General Public License
+		along with this program.  If not, see http://www.gnu.org/licenses/
+    </description>
+
+    <!-- Set Property -->
+    <property name="src.dir" value="src" />
+    <property name="lib.dir" value="lib" />
+    <property name="build.dir" value="build" />
+	<property name="main.class" value="jp.l1j.Server" />
+    <property name="jarfile" value="l1jserver.jar" />
+
+	<path id="libs">
+		<fileset dir="${lib.dir}" includes="*.jar"/>
+	</path>
+    <pathconvert property="classpath" refid="libs" targetos="unix" pathsep=" ">
+    	<map from="${basedir}\${lib.dir}\" to="./${lib.dir}/"/>
+        <map from="\" to="/"/>
+	</pathconvert>
+
+    <!-- Set DefaultTarget -->
+    <target name="all" depends="clean,compile,jar,clean2" />
+
+    <!-- clean Target -->
+    <target name="clean">
+        <delete dir="${build.dir}" />
+    </target>
+
+    <!-- Compile Target -->
+    <target name="compile">
+        <mkdir dir="${build.dir}" />
+        <javac includeantruntime="true" srcdir="${src.dir}"
+        	destdir="${build.dir}"
+            optimize="on"
+        	debug="on"
+            encoding="UTF-8">
+        	<classpath refid="libs" />
+			<compilerarg value="-Xlint:unchecked" />
+        </javac>
+    </target>
+
+    <!-- jar Target -->
+	<target name="jar">
+		<jar jarfile="${jarfile}" basedir="${build.dir}">
+			<manifest>
+				<attribute name="Main-Class" value="${main.class}" />
+				<attribute name="Class-Path" value="${classpath}" />
+			</manifest>
+		</jar>
+	</target>
+
+    <!-- clean Target -->
+    <target name="clean2">
+        <delete dir="${build.dir}" />
+    </target>
+
+</project>

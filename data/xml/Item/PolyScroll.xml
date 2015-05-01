@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ItemEffectList>
+	<!-- 変身スクロール -->
+	<Item ItemId="40088" Remove="1">
+		<Effect Time="1800" />
+	</Item>
+	<!-- 象牙の塔の変身スクロール -->
+	<Item ItemId="40096" Remove="1">
+		<Effect Time="1800" />
+	</Item>
+	<!-- 村人の変身ポーション -->
+	<Item ItemId="41483" Remove="1">
+		<Effect Time="7200" />
+	</Item>
+	<!-- 祝福された変身スクロール -->
+	<Item ItemId="140088" Remove="1">
+		<Effect Time="2100" />
+	</Item>
+</ItemEffectList>

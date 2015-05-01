@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ItemEffectList>
+	<!-- 激励のポーション -->
+	<Item ItemId="40922" Remove="1">
+		<Effect Time="300" GfxId="191" Str="6" />
+	</Item>
+	<!-- 才能のポーション -->
+	<Item ItemId="40923" Remove="1">
+		<Effect Time="300" GfxId="191" Dex="6" />
+	</Item>
+	<!-- フローラポーション -->
+	<Item ItemId="40924" Remove="1">
+		<Effect Time="300" GfxId="191" Str="6" Dex="6" />
+	</Item>
+	<!-- ドラゴンの石 -->
+	<Item ItemId="50555" Remove="1">
+		<Effect Time="1800" GfxId="751" Sp="3" Hit="3" Dmg="3" BowHit="3" BowDmg="3" MapId="1005" />
+		<Effect Time="1800" GfxId="751" Sp="3" Hit="3" Dmg="3" BowHit="3" BowDmg="3" MapId="1006" />
+		<Effect Time="1800" GfxId="751" Sp="3" Hit="3" Dmg="3" BowHit="3" BowDmg="3" MapId="1007" />
+		<Effect Time="1800" GfxId="751" Sp="3" Hit="3" Dmg="3" BowHit="3" BowDmg="3" MapId="1008" />
+		<Effect Time="1800" GfxId="751" Sp="3" Hit="3" Dmg="3" BowHit="3" BowDmg="3" MapId="1009" />
+		<Effect Time="1800" GfxId="751" Sp="3" Hit="3" Dmg="3" BowHit="3" BowDmg="3" MapId="1010" />
+		<Effect Time="1800" GfxId="751" Sp="3" Hit="3" Dmg="3" BowHit="3" BowDmg="3" MapId="1011" />
+		<Effect Time="1800" GfxId="751" Sp="3" Hit="3" Dmg="3" BowHit="3" BowDmg="3" MapId="1012" />
+		<Effect Time="1800" GfxId="751" Sp="3" Hit="3" Dmg="3" BowHit="3" BowDmg="3" MapId="1013" />
+		<Effect Time="1800" GfxId="751" Sp="3" Hit="3" Dmg="3" BowHit="3" BowDmg="3" MapId="1014" />
+		<Effect Time="1800" GfxId="751" Sp="3" Hit="3" Dmg="3" BowHit="3" BowDmg="3" MapId="1015" />
+		<Effect Time="1800" GfxId="751" Sp="3" Hit="3" Dmg="3" BowHit="3" BowDmg="3" MapId="1016" />
+		<Effect Time="1800" GfxId="751" Sp="3" Hit="3" Dmg="3" BowHit="3" BowDmg="3" MapId="1017" />
+		<Effect Time="1800" GfxId="751" Sp="3" Hit="3" Dmg="3" BowHit="3" BowDmg="3" MapId="1018" />
+		<Effect Time="1800" GfxId="751" Sp="3" Hit="3" Dmg="3" BowHit="3" BowDmg="3" MapId="1019" />
+		<Effect Time="1800" GfxId="751" Sp="3" Hit="3" Dmg="3" BowHit="3" BowDmg="3" MapId="1020" />
+		<Effect Time="1800" GfxId="751" Sp="3" Hit="3" Dmg="3" BowHit="3" BowDmg="3" MapId="1021" />
+		<Effect Time="1800" GfxId="751" Sp="3" Hit="3" Dmg="3" BowHit="3" BowDmg="3" MapId="1022" />
+		<Effect Time="1800" GfxId="751" Sp="3" Hit="3" Dmg="3" BowHit="3" BowDmg="3" MapId="1023" />
+		<Effect Time="1800" GfxId="751" Sp="3" Hit="3" Dmg="3" BowHit="3" BowDmg="3" MapId="1024" />
+		<Effect Time="1800" GfxId="751" Sp="3" Hit="3" Dmg="3" BowHit="3" BowDmg="3" MapId="1025" />
+		<Effect Time="1800" GfxId="751" Sp="3" Hit="3" Dmg="3" BowHit="3" BowDmg="3" MapId="1026" />
+		<Effect Time="1800" GfxId="751" Sp="3" Hit="3" Dmg="3" BowHit="3" BowDmg="3" MapId="1027" />
+		<Effect Time="1800" GfxId="751" Sp="3" Hit="3" Dmg="3" BowHit="3" BowDmg="3" MapId="1028" />
+	</Item>
+</ItemEffectList>

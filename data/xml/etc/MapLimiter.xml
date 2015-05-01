@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MapLimiterList>
+	<!-- ギランプリズンダンジョン1F -->
+	<MapLimiter MapId="53" AreaId="53">
+		<Effect Time="5400" Delay="10" X="33429" Y="32774" BackMapId="4" />
+	</MapLimiter>
+	<!-- ギランプリズンダンジョン2F -->
+	<MapLimiter MapId="54" AreaId="53">
+		<Effect Time="5400" Delay="10" X="33429" Y="32774" BackMapId="4" />
+	</MapLimiter>
+	<!-- ギランプリズンダンジョン3F -->
+	<MapLimiter MapId="55" AreaId="53">
+		<Effect Time="5400" Delay="10" X="33429" Y="32774" BackMapId="4" />
+	</MapLimiter>
+	<!-- ギランプリズンダンジョン4F -->
+	<MapLimiter MapId="56" AreaId="53">
+		<Effect Time="5400" Delay="10" X="33429" Y="32774" BackMapId="4" />
+	</MapLimiter>
+	<!-- 象牙の塔4F -->
+	<MapLimiter MapId="78" AreaId="78">
+		<Effect Time="3600" Delay="10" X="34053" Y="32284" BackMapId="4" />
+	</MapLimiter>
+	<!-- 象牙の塔5F -->
+	<MapLimiter MapId="79" AreaId="78">
+		<Effect Time="3600" Delay="10" X="34053" Y="32284" BackMapId="4" />
+	</MapLimiter>
+	<!-- 象牙の塔6F -->
+	<MapLimiter MapId="80" AreaId="78">
+		<Effect Time="3600" Delay="10" X="34053" Y="32284" BackMapId="4" />
+	</MapLimiter>
+	<!-- 象牙の塔7F -->
+	<MapLimiter MapId="81" AreaId="78">
+		<Effect Time="3600" Delay="10" X="34053" Y="32284" BackMapId="4" />
+	</MapLimiter>
+	<!-- 象牙の塔8F -->
+	<MapLimiter MapId="82" AreaId="78">
+		<Effect Time="3600" Delay="10" X="34053" Y="32284" BackMapId="4" />
+	</MapLimiter>
+	<!-- ラスタバド城：集会場1F -->
+	<MapLimiter MapId="451" AreaId="451">
+		<Effect Time="18000" Delay="10" X="32744" Y="32818" BackMapId="450" />
+	</MapLimiter>
+	<!-- ラスタバド城：突撃隊訓練場1F -->
+	<MapLimiter MapId="452" AreaId="451">
+		<Effect Time="18000" Delay="10" X="32744" Y="32818" BackMapId="450" />
+	</MapLimiter>
+	<!-- ラスタバド城：魔獣軍王の執務室1F -->
+	<MapLimiter MapId="453" AreaId="451">
+		<Effect Time="18000" Delay="10" X="32744" Y="32818" BackMapId="450" />
+	</MapLimiter>
+	<!-- ラスタバド城：野獣調教室1F -->
+	<MapLimiter MapId="454" AreaId="451">
+		<Effect Time="18000" Delay="10" X="32744" Y="32818" BackMapId="450" />
+	</MapLimiter>
+	<!-- ラスタバド城：野獣訓練室1F -->
+	<MapLimiter MapId="455" AreaId="451">
+		<Effect Time="18000" Delay="10" X="32744" Y="32818" BackMapId="450" />
+	</MapLimiter>
+	<!-- ラスタバド城：魔獣召喚室1F -->
+	<MapLimiter MapId="456" AreaId="451">
+		<Effect Time="18000" Delay="10" X="32744" Y="32818" BackMapId="450" />
+	</MapLimiter>
+	<!-- ラスタバド城：黒魔法訓練場2F -->
+	<MapLimiter MapId="460" AreaId="451">
+		<Effect Time="18000" Delay="10" X="32744" Y="32818" BackMapId="450" />
+	</MapLimiter>
+	<!-- ラスタバド城：黒魔法研究室2F -->
+	<MapLimiter MapId="461" AreaId="451">
+		<Effect Time="18000" Delay="10" X="32744" Y="32818" BackMapId="450" />
+	</MapLimiter>
+	<!-- ラスタバド城：魔霊軍王の執務室2F -->
+	<MapLimiter MapId="462" AreaId="451">
+		<Effect Time="18000" Delay="10" X="32744" Y="32818" BackMapId="450" />
+	</MapLimiter>
+	<!-- ラスタバド城：魔霊軍王の書斎2F -->
+	<MapLimiter MapId="463" AreaId="451">
+		<Effect Time="18000" Delay="10" X="32744" Y="32818" BackMapId="450" />
+	</MapLimiter>
+	<!-- ラスタバド城：精霊召喚室2F -->
+	<MapLimiter MapId="464" AreaId="451">
+		<Effect Time="18000" Delay="10" X="32744" Y="32818" BackMapId="450" />
+	</MapLimiter>
+	<!-- ラスタバド城：精霊の生息地2F -->
+	<MapLimiter MapId="465" AreaId="451">
+		<Effect Time="18000" Delay="10" X="32744" Y="32818" BackMapId="450" />
+	</MapLimiter>
+	<!-- ラスタバド城：闇の精霊研究室2F -->
+	<MapLimiter MapId="466" AreaId="451">
+		<Effect Time="18000" Delay="10" X="32744" Y="32818" BackMapId="450" />
+	</MapLimiter>
+	<!-- ラスタバド城：悪霊の祭壇3F -->
+	<MapLimiter MapId="470" AreaId="451">
+		<Effect Time="18000" Delay="10" X="32744" Y="32818" BackMapId="450" />
+	</MapLimiter>
+	<!-- ラスタバド城：デビルロードの祭壇3F -->
+	<MapLimiter MapId="471" AreaId="451">
+		<Effect Time="18000" Delay="10" X="32744" Y="32818" BackMapId="450" />
+	</MapLimiter>
+	<!-- ラスタバド城：傭兵訓練場3F -->
+	<MapLimiter MapId="472" AreaId="451">
+		<Effect Time="18000" Delay="10" X="32744" Y="32818" BackMapId="450" />
+	</MapLimiter>
+	<!-- ラスタバド城：冥法軍の訓練場3F -->
+	<MapLimiter MapId="473" AreaId="451">
+		<Effect Time="18000" Delay="10" X="32744" Y="32818" BackMapId="450" />
+	</MapLimiter>
+	<!-- ラスタバド城：オーム実験室3F -->
+	<MapLimiter MapId="474" AreaId="451">
+		<Effect Time="18000" Delay="10" X="32744" Y="32818" BackMapId="450" />
+	</MapLimiter>
+	<!-- ラスタバド城：冥法軍王の執務室3F -->
+	<MapLimiter MapId="475" AreaId="451">
+		<Effect Time="18000" Delay="10" X="32744" Y="32818" BackMapId="450" />
+	</MapLimiter>
+	<!-- ラスタバド城：中央コントロールルーム3F -->
+	<MapLimiter MapId="476" AreaId="451">
+		<Effect Time="18000" Delay="10" X="32744" Y="32818" BackMapId="450" />
+	</MapLimiter>
+	<!-- ラスタバド城：デビルロードの傭兵室3F -->
+	<MapLimiter MapId="477" AreaId="451">
+		<Effect Time="18000" Delay="10" X="32744" Y="32818" BackMapId="450" />
+	</MapLimiter>
+	<!-- ラスタバド城：立入禁止エリア3F -->
+	<MapLimiter MapId="478" AreaId="451">
+		<Effect Time="18000" Delay="10" X="32744" Y="32818" BackMapId="450" />
+	</MapLimiter>
+	<!-- ラスタバド城：地下訓練場B1F -->
+	<MapLimiter MapId="490" AreaId="451">
+		<Effect Time="18000" Delay="10" X="32744" Y="32818" BackMapId="450" />
+	</MapLimiter>
+	<!-- ラスタバド城：地下通路B1F -->
+	<MapLimiter MapId="491" AreaId="451">
+		<Effect Time="18000" Delay="10" X="32744" Y="32818" BackMapId="450" />
+	</MapLimiter>
+	<!-- ラスタバド城：暗殺軍王の執務室B1F -->
+	<MapLimiter MapId="492" AreaId="451">
+		<Effect Time="18000" Delay="10" X="32744" Y="32818" BackMapId="450" />
+	</MapLimiter>
+	<!-- ラスタバド城：地下コントロールルームB1F -->
+	<MapLimiter MapId="493" AreaId="451">
+		<Effect Time="18000" Delay="10" X="32744" Y="32818" BackMapId="450" />
+	</MapLimiter>
+	<!-- ラスタバド城：地下処刑場B1F -->
+	<MapLimiter MapId="494" AreaId="451">
+		<Effect Time="18000" Delay="10" X="32744" Y="32818" BackMapId="450" />
+	</MapLimiter>
+	<!-- ラスタバド城：地下決闘場B1F -->
+	<MapLimiter MapId="495" AreaId="451">
+		<Effect Time="18000" Delay="10" X="32744" Y="32818" BackMapId="450" />
+	</MapLimiter>
+	<!-- ラスタバド城：地下牢B1F -->
+	<MapLimiter MapId="496" AreaId="451">
+		<Effect Time="18000" Delay="10" X="32744" Y="32818" BackMapId="450" />
+	</MapLimiter>
+	<!-- ラスタバド城：グランカインの神殿/ケイナの部屋 -->
+	<MapLimiter MapId="530" AreaId="451">
+		<Effect Time="18000" Delay="10" X="32744" Y="32818" BackMapId="450" />
+	</MapLimiter>
+	<!-- ラスタバド城：ビアタス/バロメス/エンディアスの部屋 -->
+	<MapLimiter MapId="531" AreaId="451">
+		<Effect Time="18000" Delay="10" X="32744" Y="32818" BackMapId="450" />
+	</MapLimiter>
+	<!-- ラスタバド城：庭園/イデアの部屋 -->
+	<MapLimiter MapId="532" AreaId="451">
+		<Effect Time="18000" Delay="10" X="32744" Y="32818" BackMapId="450" />
+	</MapLimiter>
+	<!-- ラスタバド城：ティアメス/ラミアス/バロードの部屋 -->
+	<MapLimiter MapId="533" AreaId="451">
+		<Effect Time="18000" Delay="10" X="32744" Y="32818" BackMapId="450" />
+	</MapLimiter>
+	<!-- ラスタバド城：カサンドラ/ダンテスの部屋 -->
+	<MapLimiter MapId="534" AreaId="451">
+		<Effect Time="18000" Delay="10" X="32744" Y="32818" BackMapId="450" />
+	</MapLimiter>
+	<!-- ラスタバド城：ダークエルフの聖地 -->
+	<MapLimiter MapId="535" AreaId="451">
+		<Effect Time="18000" Delay="10" X="32744" Y="32818" BackMapId="450" />
+	</MapLimiter>
+  <!-- ドラゴンバレー ダンジョン 1F -->
+	<MapLimiter MapId="30" AreaId="30">
+		<Effect Time="7200" Delay="10" X="33429" Y="32814" BackMapId="4" />
+	</MapLimiter>
+  <!-- ドラゴンバレー ダンジョン 2F -->
+	<MapLimiter MapId="31" AreaId="30">
+		<Effect Time="7200" Delay="10" X="33429" Y="32814" BackMapId="4" />
+	</MapLimiter>
+  <!-- ドラゴンバレー ダンジョン 3F -->
+	<MapLimiter MapId="32" AreaId="30">
+		<Effect Time="7200" Delay="10" X="33429" Y="32814" BackMapId="4" />
+	</MapLimiter>
+  <!-- ドラゴンバレー ダンジョン 4F -->
+	<MapLimiter MapId="33" AreaId="30">
+		<Effect Time="7200" Delay="10" X="33429" Y="32814" BackMapId="4" />
+	</MapLimiter>
+  <!-- ドラゴンバレー ダンジョン 5F -->
+	<MapLimiter MapId="35" AreaId="30">
+		<Effect Time="7200" Delay="10" X="33429" Y="32814" BackMapId="4" />
+	</MapLimiter>
+  <!-- ドラゴンバレー ダンジョン 6F -->
+	<MapLimiter MapId="36" AreaId="30">
+		<Effect Time="7200" Delay="10" X="33429" Y="32814" BackMapId="4" />
+	</MapLimiter>
+  <!-- ドラゴンバレー ダンジョン 7F -->
+	<MapLimiter MapId="37" AreaId="30">
+		<Effect Time="7200" Delay="10" X="33429" Y="32814" BackMapId="4" />
+	</MapLimiter>
+	<!-- 影の神殿 -->
+	<MapLimiter MapId="777" AreaId="777">
+		<Effect MaxLevel="51" X="34043" Y="32184" BackMapId="4" />
+	</MapLimiter>
+	<!-- 見捨てられた者の地 -->
+	<MapLimiter MapId="778" AreaId="778">
+		<Effect MaxLevel="51" X="32608" Y="33178" BackMapId="4" />
+	</MapLimiter>
+	<!-- 欲望の洞窟 -->
+	<MapLimiter MapId="779" AreaId="778">
+		<Effect MaxLevel="51" X="32608" Y="33178" BackMapId="4" />
+	</MapLimiter>
+	<!-- 新隠された渓谷 -->
+	<MapLimiter MapId="2005" AreaId="2005">
+		<Effect MaxLevel="12" X="33084" Y="33391" BackMapId="4" />
+	</MapLimiter>
+	<!-- 旧隠された渓谷 -->
+	<MapLimiter MapId="69" AreaId="2005">
+		<Effect MaxLevel="12" X="33084" Y="33391" BackMapId="4" />
+	</MapLimiter>
+	<!-- 隠された渓谷ダンジョン -->
+	<MapLimiter MapId="86" AreaId="2005">
+		<Effect MaxLevel="12" X="33084" Y="33391" BackMapId="4" />
+	</MapLimiter>
+	
+</MapLimiterList>

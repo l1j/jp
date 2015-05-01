@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ItemEffectList>
+	<!-- くるった時計：2時間 -->
+	<Item ItemId="50585" Time="7200" Remove="1">
+		<Effect ItemId="50579" MinTime="18000" /> <!-- モポの契約書：ジュース100本 -->
+		<Effect ItemId="50580" MinTime="32400" /> <!-- モポの契約書：ジュース200本 -->
+		<Effect ItemId="50581" MinTime="43200" /> <!-- モポの契約書：ジュース300本 -->
+		<Effect ItemId="50582" MinTime="18000" /> <!-- モポの契約書：エキス100本 -->
+		<Effect ItemId="50583" MinTime="32400" /> <!-- モポの契約書：エキス200本 -->
+		<Effect ItemId="50584" MinTime="43200" /> <!-- モポの契約書：エキス300本 -->
+	</Item>
+	<!-- くるった時計：4時間 -->
+	<Item ItemId="50586" Time="14400" Remove="1">
+		<Effect ItemId="50579" MinTime="18000" /> <!-- モポの契約書：ジュース100本 -->
+		<Effect ItemId="50580" MinTime="32400" /> <!-- モポの契約書：ジュース200本 -->
+		<Effect ItemId="50581" MinTime="43200" /> <!-- モポの契約書：ジュース300本 -->
+		<Effect ItemId="50582" MinTime="18000" /> <!-- モポの契約書：エキス100本 -->
+		<Effect ItemId="50583" MinTime="32400" /> <!-- モポの契約書：エキス200本 -->
+		<Effect ItemId="50584" MinTime="43200" /> <!-- モポの契約書：エキス300本 -->
+	</Item>
+</ItemEffectList>

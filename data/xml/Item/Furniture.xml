@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ItemEffectList>
+	<!-- ジャイアントアントソルジャーの剥製 -->
+	<Item ItemId="41383">
+		<Effect NpcId="80109" />
+	</Item>
+	<!-- ベアーの剥製 -->
+	<Item ItemId="41384">
+		<Effect NpcId="80110" />
+	</Item>
+	<!-- ラミアの剥製 -->
+	<Item ItemId="41385">
+		<Effect NpcId="80113" />
+	</Item>
+	<!-- ブラックタイガーの剥製 -->
+	<Item ItemId="41386">
+		<Effect NpcId="80114" />
+	</Item>
+	<!-- 鹿の剥製 -->
+	<Item ItemId="41387">
+		<Effect NpcId="80115" />
+	</Item>
+	<!-- ハーピーの剥製 -->
+	<Item ItemId="41388">
+		<Effect NpcId="80124" />
+	</Item>
+	<!-- ブロンズナイト -->
+	<Item ItemId="41389">
+		<Effect NpcId="80118" />
+	</Item>
+	<!-- ブロンズホース -->
+	<Item ItemId="41390">
+		<Effect NpcId="80119" />
+	</Item>
+	<!-- 燭台 -->
+	<Item ItemId="41391">
+		<Effect NpcId="80120" />
+	</Item>
+	<!-- ティーテーブル -->
+	<Item ItemId="41392">
+		<Effect NpcId="80121" />
+	</Item>
+	<!-- 火鉢 -->
+	<Item ItemId="41393">
+		<Effect NpcId="80126" />
+	</Item>
+	<!-- たいまつ -->
+	<Item ItemId="41394">
+		<Effect NpcId="80125" />
+	</Item>
+	<!-- 君主用のお立ち台 -->
+	<Item ItemId="41395">
+		<Effect NpcId="80111" />
+	</Item>
+	<!-- 旗 -->
+	<Item ItemId="41396">
+		<Effect NpcId="80112" />
+	</Item>
+	<!-- ティーテーブル用の椅子(右) -->
+	<Item ItemId="41397">
+		<Effect NpcId="80116" />
+	</Item>
+	<!-- ティーテーブル用の椅子(左)の剥製 -->
+	<Item ItemId="41398">
+		<Effect NpcId="80117" />
+	</Item>
+	<!-- パーティション(右)の剥製 -->
+	<Item ItemId="41399">
+		<Effect NpcId="80122" />
+	</Item>
+	<!-- パーティション(左)の剥製 -->
+	<Item ItemId="41400">
+		<Effect NpcId="80123" />
+	</Item>
+</ItemEffectList>

@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ItemEffectList>
+	<!-- 浄化のポーション -->
+	<Item ItemId="40925" Remove="1">
+		<Effect ItemId="41173" NeedItemId="40987" Chance="90" Failure="158" />
+		<Effect ItemId="41174" NeedItemId="40988" Chance="90" Failure="158" />
+		<Effect ItemId="41175" NeedItemId="40989" Chance="90" Failure="158" />
+	</Item>
+	<!-- ミステリアス ポーション：1段階 -->
+	<Item ItemId="40926" Remove="1">
+		<Effect ItemId="41161" NeedItemId="41173" Chance="90" Failure="158" />
+		<Effect ItemId="41162" NeedItemId="41174" Chance="90" Failure="158" />
+		<Effect ItemId="41163" NeedItemId="41175" Chance="90" Failure="158" />
+	</Item>
+	<!-- ミステリアス ポーション：2段階 -->
+	<Item ItemId="40927" Remove="1">
+		<Effect ItemId="41164" NeedItemId="41176" Chance="90" Failure="158" />
+		<Effect ItemId="41165" NeedItemId="41177" Chance="90" Failure="158" />
+		<Effect ItemId="41166" NeedItemId="41178" Chance="90" Failure="158" />
+	</Item>
+	<!-- ミステリアス ポーション：3段階 -->
+	<Item ItemId="40928" Remove="1">
+		<Effect ItemId="41167" NeedItemId="41179" Chance="90" Failure="158" />
+		<Effect ItemId="41168" NeedItemId="41180" Chance="90" Failure="158" />
+		<Effect ItemId="41169" NeedItemId="41181" Chance="90" Failure="158" />
+	</Item>
+	<!-- ミステリアス ポーション：4段階 -->
+	<Item ItemId="40929" Remove="1">
+		<Effect ItemId="41170" NeedItemId="41182" Chance="90" Failure="158" />
+		<Effect ItemId="41171" NeedItemId="41183" Chance="90" Failure="158" />
+		<Effect ItemId="41172" NeedItemId="41184" Chance="90" Failure="158" />
+	</Item>
+	<!-- 加工されたサファイア：1段階 -->
+	<Item ItemId="40931" Remove="1">
+		<Effect ItemId="21014" NeedItemId="41161" Chance="90" Failure="158" />
+	</Item>
+	<!-- 加工されたルビー：1段階 -->
+	<Item ItemId="40932" Remove="1">
+		<Effect ItemId="21006" NeedItemId="41162" Chance="90" Failure="158" />
+	</Item>
+	<!-- 加工されたエメラルド：1段階 -->
+	<Item ItemId="40933" Remove="1">
+		<Effect ItemId="21007" NeedItemId="41163" Chance="90" Failure="158" />
+	</Item>
+	<!-- 加工されたサファイア：2段階 -->
+	<Item ItemId="40934" Remove="1">
+		<Effect ItemId="21015" NeedItemId="41164" Chance="90" Failure="158" />
+	</Item>
+	<!-- 加工されたルビー：2段階 -->
+	<Item ItemId="40935" Remove="1">
+		<Effect ItemId="21009" NeedItemId="41165" Chance="90" Failure="158" />
+	</Item>
+	<!-- 加工されたエメラルド：2段階 -->
+	<Item ItemId="40936" Remove="1">
+		<Effect ItemId="21008" NeedItemId="41166" Chance="90" Failure="158" />
+	</Item>
+	<!-- 加工されたサファイア：3段階 -->
+	<Item ItemId="40937" Remove="1">
+		<Effect ItemId="21016" NeedItemId="41167" Chance="90" Failure="158" />
+	</Item>
+	<!-- 加工されたルビー：3段階 -->
+	<Item ItemId="40938" Remove="1">
+		<Effect ItemId="21012" NeedItemId="41168" Chance="90" Failure="158" />
+	</Item>
+	<!-- 加工されたエメラルド：3段階 -->
+	<Item ItemId="40939" Remove="1">
+		<Effect ItemId="21010" NeedItemId="41169" Chance="90" Failure="158" />
+	</Item>
+	<!-- 加工されたサファイア：4段階 -->
+	<Item ItemId="40940" Remove="1">
+		<Effect ItemId="21017" NeedItemId="41170" Chance="90" Failure="158" />
+	</Item>
+	<!-- 加工されたルビー：4段階 -->
+	<Item ItemId="40941" Remove="1">
+		<Effect ItemId="21013" NeedItemId="41171" Chance="90" Failure="158" />
+	</Item>
+	<!-- 加工されたエメラルド：4段階 -->
+	<Item ItemId="40942" Remove="1">
+		<Effect ItemId="21011" NeedItemId="41172" Chance="90" Failure="158" />
+	</Item>
+	<!-- 加工されたアース ダイアモンド：1段階 -->
+	<Item ItemId="40943" Remove="1">
+		<Effect ItemId="20435" NeedItemId="41185" Chance="90" Success="443" Failure="447" />
+	</Item>
+	<!-- 加工されたウォーター ダイアモンド：1段階 -->
+	<Item ItemId="40944" Remove="1">
+		<Effect ItemId="20436" NeedItemId="41186" Chance="90" Success="442" Failure="446" />
+	</Item>
+	<!-- 加工されたファイアー ダイアモンド：1段階 -->
+	<Item ItemId="40945" Remove="1">
+		<Effect ItemId="20437" NeedItemId="41187" Chance="90" Success="441" Failure="445" />
+	</Item>
+	<!-- 加工されたウィンド ダイアモンド：1段階 -->
+	<Item ItemId="40946" Remove="1">
+		<Effect ItemId="20438" NeedItemId="41188" Chance="90" Success="444" Failure="448" />
+	</Item>
+	<!-- 加工されたアース ダイアモンド：2段階 -->
+	<Item ItemId="40947" Remove="1">
+		<Effect ItemId="20439" NeedItemId="41189" Chance="90" Success="443" Failure="447" />
+	</Item>
+	<!-- 加工されたウォーター ダイアモンド：2段階 -->
+	<Item ItemId="40948" Remove="1">
+		<Effect ItemId="20440" NeedItemId="41190" Chance="90" Success="442" Failure="446" />
+	</Item>
+	<!-- 加工されたファイアー ダイアモンド：2段階 -->
+	<Item ItemId="40949" Remove="1">
+		<Effect ItemId="20441" NeedItemId="41191" Chance="90" Success="441" Failure="445" />
+	</Item>
+	<!-- 加工されたウィンド ダイアモンド：2段階 -->
+	<Item ItemId="40950" Remove="1">
+		<Effect ItemId="20442" NeedItemId="41192" Chance="90" Success="444" Failure="448" />
+	</Item>
+	<!-- 加工されたアース ダイアモンド：3段階 -->
+	<Item ItemId="40951" Remove="1">
+		<Effect ItemId="20443" NeedItemId="41193" Chance="90" Success="443" Failure="447" />
+	</Item>
+	<!-- 加工されたウォーター ダイアモンド：3段階 -->
+	<Item ItemId="40952" Remove="1">
+		<Effect ItemId="20444" NeedItemId="41194" Chance="90" Success="442" Failure="446" />
+	</Item>
+	<!-- 加工されたファイアー ダイアモンド：3段階 -->
+	<Item ItemId="40953" Remove="1">
+		<Effect ItemId="20445" NeedItemId="41195" Chance="90" Success="441" Failure="445" />
+	</Item>
+	<!-- 加工されたウィンド ダイアモンド：3段階 -->
+	<Item ItemId="40954" Remove="1">
+		<Effect ItemId="20446" NeedItemId="41196" Chance="90" Success="444" Failure="448" />
+	</Item>
+	<!-- 加工されたアース ダイアモンド：4段階 -->
+	<Item ItemId="40955" Remove="1">
+		<Effect ItemId="20447" NeedItemId="41197" Chance="90" Success="443" Failure="447" />
+	</Item>
+	<!-- 加工されたウォーター ダイアモンド：4段階 -->
+	<Item ItemId="40956" Remove="1">
+		<Effect ItemId="20448" NeedItemId="41198" Chance="90" Success="442" Failure="446" />
+	</Item>
+	<!-- 加工されたファイアー ダイアモンド：4段階 -->
+	<Item ItemId="40957" Remove="1">
+		<Effect ItemId="20449" NeedItemId="41199" Chance="90" Success="441" Failure="445" />
+	</Item>
+	<!-- 加工されたウィンド ダイアモンド：4段階 -->
+	<Item ItemId="40958" Remove="1">
+		<Effect ItemId="20450" NeedItemId="41200" Chance="90" Success="444" Failure="448" />
+	</Item>
+	<!-- ダークマジックパウダー -->
+	<Item ItemId="40964" Remove="1">
+		<Effect ItemId="41019" NeedItemId="41011" Chance="50" Failure="158" />
+		<Effect ItemId="41020" NeedItemId="41012" Chance="50" Failure="158" />
+		<Effect ItemId="41021" NeedItemId="41013" Chance="50" Failure="158" />
+		<Effect ItemId="41022" NeedItemId="41014" Chance="50" Failure="158" />
+		<Effect ItemId="41023" NeedItemId="41015" Chance="50" Failure="158" />
+		<Effect ItemId="41024" NeedItemId="41016" Chance="50" Failure="158" />
+		<Effect ItemId="41025" NeedItemId="41017" Chance="50" Failure="158" />
+		<Effect ItemId="41026" NeedItemId="41018" Chance="50" Failure="158" />
+	</Item>
+	<!-- 召喚球の欠片 -->
+	<Item ItemId="41029" Remove="1">
+		<Effect ItemId="41031" NeedItemId="41030" Chance="50" Failure="158" />
+		<Effect ItemId="41032" NeedItemId="41031" Chance="50" Failure="158" />
+		<Effect ItemId="41033" NeedItemId="41032" Chance="50" Failure="158" />
+		<Effect ItemId="41034" NeedItemId="41033" Chance="50" Failure="158" />
+		<Effect ItemId="41035" NeedItemId="41034" Chance="50" Failure="158" />
+	</Item>
+	<!-- 糊 -->
+	<Item ItemId="41036" Remove="1">
+		<Effect ItemId="41048" NeedItemId="41038" Chance="67" Failure="158" />
+		<Effect ItemId="41049" NeedItemId="41039" Chance="67" Failure="158" />
+		<Effect ItemId="41050" NeedItemId="41040" Chance="67" Failure="158" />
+		<Effect ItemId="41051" NeedItemId="41041" Chance="67" Failure="158" />
+		<Effect ItemId="41052" NeedItemId="41042" Chance="67" Failure="158" />
+		<Effect ItemId="41053" NeedItemId="41043" Chance="67" Failure="158" />
+		<Effect ItemId="41054" NeedItemId="41044" Chance="67" Failure="158" />
+		<Effect ItemId="41055" NeedItemId="41045" Chance="67" Failure="158" />
+		<Effect ItemId="41056" NeedItemId="41046" Chance="67" Failure="158" />
+		<Effect ItemId="41057" NeedItemId="41047" Chance="67" Failure="158" />
+	</Item>
+	<!-- 糊付けされた航海日誌1ページ -->
+	<Item ItemId="41048" Remove="1">
+		<Effect ItemId="49084" NeedItemId="49082" />
+	</Item>
+	<!-- 糊付けされた航海日誌2ページ -->
+	<Item ItemId="41049" Remove="1">
+		<Effect ItemId="49085" NeedItemId="49083" />
+	</Item>
+	<!-- 糊付けされた航海日誌3ページ -->
+	<Item ItemId="41050" Remove="1">
+		<Effect ItemId="49086" NeedItemId="49084" />
+	</Item>
+	<!-- 糊付けされた航海日誌4ページ -->
+	<Item ItemId="41051" Remove="1">
+		<Effect ItemId="49087" NeedItemId="49085" />
+	</Item>
+	<!-- 糊付けされた航海日誌5ページ -->
+	<Item ItemId="41052" Remove="1">
+		<Effect ItemId="49088" NeedItemId="49086" />
+	</Item>
+	<!-- 糊付けされた航海日誌6ページ -->
+	<Item ItemId="41053" Remove="1">
+		<Effect ItemId="49089" NeedItemId="49087" />
+	</Item>
+	<!-- 糊付けされた航海日誌7ページ -->
+	<Item ItemId="41054" Remove="1">
+		<Effect ItemId="49090" NeedItemId="49088" />
+	</Item>
+	<!-- 糊付けされた航海日誌8ページ -->
+	<Item ItemId="41055" Remove="1">
+		<Effect ItemId="49091" NeedItemId="49089" />
+	</Item>
+	<!-- 糊付けされた航海日誌9ページ -->
+	<Item ItemId="41056" Remove="1">
+		<Effect ItemId="41058" NeedItemId="49090" />
+	</Item>
+	<!-- 糊付けされた航海日誌10ページ -->
+	<Item ItemId="41057" Remove="1">
+		<Effect ItemId="41058" NeedItemId="49091" />
+	</Item>
+	<!-- 歪みのコア -->
+	<Item ItemId="49092" Remove="1">
+		<Effect ItemId="49096" NeedItemId="49095" />
+		<Effect ItemId="49100" NeedItemId="49099" />
+		<Effect ItemId="49311" NeedItemId="49312" />
+		<Effect ItemId="49310" NeedItemId="49313" />
+	</Item>
+</ItemEffectList>

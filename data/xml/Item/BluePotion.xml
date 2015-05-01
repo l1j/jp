@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ItemEffectList>
+	<!-- ブルーポーション -->
+	<Item ItemId="40015" Remove="1">
+		<Effect Time="600" />
+	</Item>
+	<!-- 知恵のコイン -->
+	<Item ItemId="40736" Remove="1">
+		<Effect Time="600" />
+	</Item>
+	<!-- 神秘のマナポーション -->
+	<Item ItemId="41142" Remove="1">
+		<Effect Time="300" />
+	</Item>
+	<!-- 村人の魔力ポーション -->
+	<Item ItemId="41481" Remove="1">
+		<Effect Time="2400" />
+	</Item>
+	<!-- 祝福されたブルーポーション -->
+	<Item ItemId="140015" Remove="1">
+		<Effect Time="700" />
+	</Item>
+</ItemEffectList>

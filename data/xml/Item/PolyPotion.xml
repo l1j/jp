@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ItemEffectList>
+	<!-- パンプキンキャンディ -->
+	<Item ItemId="40725" Remove="1" Type="RANDOM">
+		<Effect PolyId="8677" Time="900" Chance="20" />
+		<Effect PolyId="6400" Time="900" Chance="20" />
+		<Effect PolyId="8676" Time="900" Chance="20" />
+		<Effect PolyId="3952" Time="900" Chance="20" />
+		<Effect PolyId="2388" Time="900" Chance="20" />
+	</Item>
+	<!-- ラバーボーンヘッド変身ポーション -->
+	<Item ItemId="41143" Remove="1">
+		<Effect PolyId="6086" Time="1800" />
+	</Item>
+	<!-- ラバーボーンアーチャー変身ポーション -->
+	<Item ItemId="41144" Remove="1">
+		<Effect PolyId="6087" Time="1800" />
+	</Item>
+	<!-- ラバーボーンナイフ変身ポーション -->
+	<Item ItemId="41145" Remove="1">
+		<Effect PolyId="6088" Time="1800" />
+	</Item>
+	<!-- 闇の鱗 -->
+	<Item ItemId="41154" Remove="1">
+		<Effect PolyId="3101" Time="600" />
+	</Item>
+	<!-- 烈火の鱗 -->
+	<Item ItemId="41155" Remove="1">
+		<Effect PolyId="3126" Time="600" />
+	</Item>
+	<!-- 背徳者の鱗 -->
+	<Item ItemId="41156" Remove="1">
+		<Effect PolyId="3888" Time="600" />
+	</Item>
+	<!-- 憎悪の鱗 -->
+	<Item ItemId="41157" Remove="1">
+		<Effect PolyId="3884" Time="600" />
+	</Item>
+	<!-- シャルナの変身スクロール（レベル30）-->
+	<Item ItemId="49149" Remove="1">
+		<Effect PolyId="6822" Time="1800" ClassInitial="P" Gender="M" />
+		<Effect PolyId="6823" Time="1800" ClassInitial="P" Gender="F" />
+		<Effect PolyId="6824" Time="1800" ClassInitial="K" Gender="M" />
+		<Effect PolyId="6825" Time="1800" ClassInitial="K" Gender="F" />
+		<Effect PolyId="6826" Time="1800" ClassInitial="E" Gender="M" />
+		<Effect PolyId="6827" Time="1800" ClassInitial="E" Gender="F" />
+		<Effect PolyId="6828" Time="1800" ClassInitial="W" Gender="M" />
+		<Effect PolyId="6829" Time="1800" ClassInitial="W" Gender="F" />
+		<Effect PolyId="6830" Time="1800" ClassInitial="D" Gender="M" />
+		<Effect PolyId="6831" Time="1800" ClassInitial="D" Gender="F" />
+		<Effect PolyId="7139" Time="1800" ClassInitial="R" Gender="M" />
+		<Effect PolyId="7140" Time="1800" ClassInitial="R" Gender="F" />
+		<Effect PolyId="7141" Time="1800" ClassInitial="I" Gender="M" />
+		<Effect PolyId="7142" Time="1800" ClassInitial="I" Gender="F" />
+	</Item>
+	<!-- シャルナの変身スクロール（レベル40）-->
+	<Item ItemId="49150" Remove="1">
+		<Effect PolyId="6832" Time="1800" ClassInitial="P" Gender="M" />
+		<Effect PolyId="6833" Time="1800" ClassInitial="P" Gender="F" />
+		<Effect PolyId="6834" Time="1800" ClassInitial="K" Gender="M" />
+		<Effect PolyId="6835" Time="1800" ClassInitial="K" Gender="F" />
+		<Effect PolyId="6836" Time="1800" ClassInitial="E" Gender="M" />
+		<Effect PolyId="6837" Time="1800" ClassInitial="E" Gender="F" />
+		<Effect PolyId="6838" Time="1800" ClassInitial="W" Gender="M" />
+		<Effect PolyId="6839" Time="1800" ClassInitial="W" Gender="F" />
+		<Effect PolyId="6840" Time="1800" ClassInitial="D" Gender="M" />
+		<Effect PolyId="6841" Time="1800" ClassInitial="D" Gender="F" />
+		<Effect PolyId="7143" Time="1800" ClassInitial="R" Gender="M" />
+		<Effect PolyId="7144" Time="1800" ClassInitial="R" Gender="F" />
+		<Effect PolyId="7145" Time="1800" ClassInitial="I" Gender="M" />
+		<Effect PolyId="7146" Time="1800" ClassInitial="I" Gender="F" />
+	</Item>
+	<!-- シャルナの変身スクロール（レベル52）-->
+	<Item ItemId="49151" Remove="1">
+		<Effect PolyId="6842" Time="1800" ClassInitial="P" Gender="M" />
+		<Effect PolyId="6843" Time="1800" ClassInitial="P" Gender="F" />
+		<Effect PolyId="6844" Time="1800" ClassInitial="K" Gender="M" />
+		<Effect PolyId="6845" Time="1800" ClassInitial="K" Gender="F" />
+		<Effect PolyId="6846" Time="1800" ClassInitial="E" Gender="M" />
+		<Effect PolyId="6847" Time="1800" ClassInitial="E" Gender="F" />
+		<Effect PolyId="6848" Time="1800" ClassInitial="W" Gender="M" />
+		<Effect PolyId="6849" Time="1800" ClassInitial="W" Gender="F" />
+		<Effect PolyId="6850" Time="1800" ClassInitial="D" Gender="M" />
+		<Effect PolyId="6851" Time="1800" ClassInitial="D" Gender="F" />
+		<Effect PolyId="7147" Time="1800" ClassInitial="R" Gender="M" />
+		<Effect PolyId="7148" Time="1800" ClassInitial="R" Gender="F" />
+		<Effect PolyId="7149" Time="1800" ClassInitial="I" Gender="M" />
+		<Effect PolyId="7150" Time="1800" ClassInitial="I" Gender="F" />
+	</Item>
+	<!-- シャルナの変身スクロール（レベル55）-->
+	<Item ItemId="49152" Remove="1">
+		<Effect PolyId="6852" Time="1800" ClassInitial="P" Gender="M" />
+		<Effect PolyId="6853" Time="1800" ClassInitial="P" Gender="F" />
+		<Effect PolyId="6854" Time="1800" ClassInitial="K" Gender="M" />
+		<Effect PolyId="6855" Time="1800" ClassInitial="K" Gender="F" />
+		<Effect PolyId="6856" Time="1800" ClassInitial="E" Gender="M" />
+		<Effect PolyId="6857" Time="1800" ClassInitial="E" Gender="F" />
+		<Effect PolyId="6858" Time="1800" ClassInitial="W" Gender="M" />
+		<Effect PolyId="6859" Time="1800" ClassInitial="W" Gender="F" />
+		<Effect PolyId="6860" Time="1800" ClassInitial="D" Gender="M" />
+		<Effect PolyId="6861" Time="1800" ClassInitial="D" Gender="F" />
+		<Effect PolyId="7151" Time="1800" ClassInitial="R" Gender="M" />
+		<Effect PolyId="7152" Time="1800" ClassInitial="R" Gender="F" />
+		<Effect PolyId="7153" Time="1800" ClassInitial="I" Gender="M" />
+		<Effect PolyId="7154" Time="1800" ClassInitial="I" Gender="F" />
+	</Item>
+	<!-- シャルナの変身スクロール（レベル60）-->
+	<Item ItemId="49153" Remove="1">
+		<Effect PolyId="6862" Time="1800" ClassInitial="P" Gender="M" />
+		<Effect PolyId="6863" Time="1800" ClassInitial="P" Gender="F" />
+		<Effect PolyId="6864" Time="1800" ClassInitial="K" Gender="M" />
+		<Effect PolyId="6865" Time="1800" ClassInitial="K" Gender="F" />
+		<Effect PolyId="6866" Time="1800" ClassInitial="E" Gender="M" />
+		<Effect PolyId="6867" Time="1800" ClassInitial="E" Gender="F" />
+		<Effect PolyId="6868" Time="1800" ClassInitial="W" Gender="M" />
+		<Effect PolyId="6869" Time="1800" ClassInitial="W" Gender="F" />
+		<Effect PolyId="6870" Time="1800" ClassInitial="D" Gender="M" />
+		<Effect PolyId="6871" Time="1800" ClassInitial="D" Gender="F" />
+		<Effect PolyId="7155" Time="1800" ClassInitial="R" Gender="M" />
+		<Effect PolyId="7156" Time="1800" ClassInitial="R" Gender="F" />
+		<Effect PolyId="7157" Time="1800" ClassInitial="I" Gender="M" />
+		<Effect PolyId="7158" Time="1800" ClassInitial="I" Gender="F" />
+	</Item>
+	<!-- シャルナの変身スクロール（レベル65）-->
+	<Item ItemId="49154" Remove="1">
+		<Effect PolyId="6872" Time="1800" ClassInitial="P" Gender="M" />
+		<Effect PolyId="6873" Time="1800" ClassInitial="P" Gender="F" />
+		<Effect PolyId="6874" Time="1800" ClassInitial="K" Gender="M" />
+		<Effect PolyId="6875" Time="1800" ClassInitial="K" Gender="F" />
+		<Effect PolyId="6876" Time="1800" ClassInitial="E" Gender="M" />
+		<Effect PolyId="6877" Time="1800" ClassInitial="E" Gender="F" />
+		<Effect PolyId="6878" Time="1800" ClassInitial="W" Gender="M" />
+		<Effect PolyId="6879" Time="1800" ClassInitial="W" Gender="F" />
+		<Effect PolyId="6880" Time="1800" ClassInitial="D" Gender="M" />
+		<Effect PolyId="6881" Time="1800" ClassInitial="D" Gender="F" />
+		<Effect PolyId="7159" Time="1800" ClassInitial="R" Gender="M" />
+		<Effect PolyId="7160" Time="1800" ClassInitial="R" Gender="F" />
+		<Effect PolyId="7161" Time="1800" ClassInitial="I" Gender="M" />
+		<Effect PolyId="7162" Time="1800" ClassInitial="I" Gender="F" />
+	</Item>
+	<!-- シャルナの変身スクロール（レベル70）-->
+	<Item ItemId="49155" Remove="1">
+		<Effect PolyId="6882" Time="1800" ClassInitial="P" Gender="M" />
+		<Effect PolyId="6883" Time="1800" ClassInitial="P" Gender="F" />
+		<Effect PolyId="6884" Time="1800" ClassInitial="K" Gender="M" />
+		<Effect PolyId="6885" Time="1800" ClassInitial="K" Gender="F" />
+		<Effect PolyId="6886" Time="1800" ClassInitial="E" Gender="M" />
+		<Effect PolyId="6887" Time="1800" ClassInitial="E" Gender="F" />
+		<Effect PolyId="6888" Time="1800" ClassInitial="W" Gender="M" />
+		<Effect PolyId="6889" Time="1800" ClassInitial="W" Gender="F" />
+		<Effect PolyId="6890" Time="1800" ClassInitial="D" Gender="M" />
+		<Effect PolyId="6891" Time="1800" ClassInitial="D" Gender="F" />
+		<Effect PolyId="7163" Time="1800" ClassInitial="R" Gender="M" />
+		<Effect PolyId="7164" Time="1800" ClassInitial="R" Gender="F" />
+		<Effect PolyId="7165" Time="1800" ClassInitial="I" Gender="M" />
+		<Effect PolyId="7166" Time="1800" ClassInitial="I" Gender="F" />
+	</Item>
+	<!-- オーク密使変身スクロール -->
+	<Item ItemId="49220" Remove="1">
+		<Effect PolyId="6984" Time="600" />
+	</Item>
+	<!-- リトルケレニス -->
+	<Item ItemId="50020" Remove="1">
+		<Effect PolyId="7845" Time="1800" />
+	</Item>
+	<!-- ブラックウイングケレニス -->
+	<Item ItemId="50021" Remove="1">
+		<Effect PolyId="7847" Time="1800" />
+	</Item>
+	<!-- 蒼天の騎士 -->
+	<Item ItemId="50022" Remove="1">
+		<Effect PolyId="7959" Time="1800" ClassInitial="P" />
+		<Effect PolyId="7959" Time="1800" ClassInitial="K" />
+		<Effect PolyId="7967" Time="1800" ClassInitial="E" />
+		<Effect PolyId="7967" Time="1800" ClassInitial="W" />
+		<Effect PolyId="7968" Time="1800" ClassInitial="D" />
+		<Effect PolyId="7969" Time="1800" ClassInitial="R" />
+		<Effect PolyId="7970" Time="1800" ClassInitial="I" />
+	</Item>
+	<!-- デスナイト -->
+	<Item ItemId="50023" Remove="1">
+		<Effect PolyId="6137" Time="1800" MinLevel="1" MaxLevel="51" />
+		<Effect PolyId="6142" Time="1800" MinLevel="52" MaxLevel="54" />
+		<Effect PolyId="6147" Time="1800" MinLevel="55" MaxLevel="59" />
+		<Effect PolyId="6152" Time="1800" MinLevel="60" MaxLevel="64" />
+		<Effect PolyId="6157" Time="1800" MinLevel="65" MaxLevel="69" />
+		<Effect PolyId="9205" Time="1800" MinLevel="70" MaxLevel="74" />
+		<Effect PolyId="9206" Time="1800" MinLevel="75" MaxLevel="99" />
+	</Item>
+	<!-- ダークエルフ -->
+	<Item ItemId="50024" Remove="1">
+		<Effect PolyId="6140" Time="1800" MinLevel="1" MaxLevel="51" />
+		<Effect PolyId="6145" Time="1800" MinLevel="52" MaxLevel="54" />
+		<Effect PolyId="6150" Time="1800" MinLevel="55" MaxLevel="59" />
+		<Effect PolyId="6155" Time="1800" MinLevel="60" MaxLevel="64" />
+		<Effect PolyId="6160" Time="1800" MinLevel="65" MaxLevel="69" />
+		<Effect PolyId="9225" Time="1800" MinLevel="70" MaxLevel="74" />
+		<Effect PolyId="9226" Time="1800" MinLevel="75" MaxLevel="99" />
+	</Item>
+	<!-- Lv52侍変身スクロール -->
+	<Item ItemId="50601" Remove="1">
+		<Effect PolyId="10232" Time="1800" />
+	</Item>
+	<!-- Lv57侍変身スクロール -->
+	<Item ItemId="50602" Remove="1">
+		<Effect PolyId="10235" Time="1800" />
+	</Item>
+	<!-- Lv62侍変身スクロール -->
+	<Item ItemId="50603" Remove="1">
+		<Effect PolyId="10238" Time="1800" />
+	</Item>
+	<!-- Lv52姫武者変身スクロール -->
+	<Item ItemId="50604" Remove="1">
+		<Effect PolyId="10283" Time="1800" />
+	</Item>
+	<!-- Lv57姫武者変身スクロール -->
+	<Item ItemId="50605" Remove="1">
+		<Effect PolyId="10286" Time="1800" />
+	</Item>
+	<!-- Lv62姫武者変身スクロール -->
+	<Item ItemId="50606" Remove="1">
+		<Effect PolyId="10275" Time="1800" />
+	</Item>
+	<!-- Lv52大名変身スクロール -->
+	<Item ItemId="50607" Remove="1">
+		<Effect PolyId="10259" Time="1800" />
+	</Item>
+	<!-- Lv57大名変身スクロール -->
+	<Item ItemId="50608" Remove="1">
+		<Effect PolyId="10262" Time="1800" />
+	</Item>
+	<!-- Lv62大名変身スクロール -->
+	<Item ItemId="50609" Remove="1">
+		<Effect PolyId="10277" Time="1800" />
+	</Item>
+	<!-- Lv52陰陽師変身スクロール -->
+	<Item ItemId="50610" Remove="1">
+		<Effect PolyId="10245" Time="1800" />
+	</Item>
+	<!-- Lv57陰陽師変身スクロール -->
+	<Item ItemId="50611" Remove="1">
+		<Effect PolyId="10248" Time="1800" />
+	</Item>
+	<!-- Lv62陰陽師変身スクロール -->
+	<Item ItemId="50612" Remove="1">
+		<Effect PolyId="10273" Time="1800" />
+	</Item>
+	<!-- Lv52忍者変身スクロール -->
+	<Item ItemId="50613" Remove="1">
+		<Effect PolyId="10306" Time="1800" />
+	</Item>
+	<!-- Lv57忍者変身スクロール -->
+	<Item ItemId="50614" Remove="1">
+		<Effect PolyId="10309" Time="1800" />
+	</Item>
+	<!-- Lv62忍者変身スクロール -->
+	<Item ItemId="50615" Remove="1">
+		<Effect PolyId="10276" Time="1800" />
+	</Item>
+</ItemEffectList>

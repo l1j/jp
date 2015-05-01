@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ShutdownCycleList>
+	<!--
+	自動シャットダウン時刻設定（複数時刻を設定可、分単位）
+	Time: シャットダウンする時刻を指定する場合は、hh:mm形式(24時間制)で指定する。
+	Delay: Timeより、Delay秒後にシャットダウンする。
+	-->
+	<!--<ShutdownCycle Time="00:00" Delay="300" />-->
+	<!--<ShutdownCycle Time="00:30" Delay="300" />-->
+	<!--<ShutdownCycle Time="01:00" Delay="300" />-->
+	<!--<ShutdownCycle Time="01:30" Delay="300" />-->
+	<!--<ShutdownCycle Time="02:00" Delay="300" />-->
+	<!--<ShutdownCycle Time="02:30" Delay="300" />-->
+	<!--<ShutdownCycle Time="03:00" Delay="300" />-->
+	<!--<ShutdownCycle Time="03:30" Delay="300" />-->
+	<!--<ShutdownCycle Time="04:00" Delay="300" />-->
+	<!--<ShutdownCycle Time="04:30" Delay="300" />-->
+	<!--<ShutdownCycle Time="05:00" Delay="300" />-->
+	<!--<ShutdownCycle Time="05:30" Delay="300" />-->
+	<!--<ShutdownCycle Time="06:00" Delay="300" />-->
+	<!--<ShutdownCycle Time="06:30" Delay="300" />-->
+	<!--<ShutdownCycle Time="07:00" Delay="300" />-->
+	<!--<ShutdownCycle Time="07:30" Delay="300" />-->
+	<!--<ShutdownCycle Time="08:00" Delay="300" />-->
+	<!--<ShutdownCycle Time="08:30" Delay="300" />-->
+	<!--<ShutdownCycle Time="09:00" Delay="300" />-->
+	<!--<ShutdownCycle Time="09:30" Delay="300" />-->
+	<!--<ShutdownCycle Time="10:00" Delay="300" />-->
+	<!--<ShutdownCycle Time="10:30" Delay="300" />-->
+	<!--<ShutdownCycle Time="11:00" Delay="300" />-->
+	<!--<ShutdownCycle Time="11:30" Delay="300" />-->
+	<!--<ShutdownCycle Time="12:00" Delay="300" />-->
+	<!--<ShutdownCycle Time="12:30" Delay="300" />-->
+	<!--<ShutdownCycle Time="13:00" Delay="300" />-->
+	<!--<ShutdownCycle Time="13:30" Delay="300" />-->
+	<!--<ShutdownCycle Time="14:00" Delay="300" />-->
+	<!--<ShutdownCycle Time="14:30" Delay="300" />-->
+	<!--<ShutdownCycle Time="15:00" Delay="300" />-->
+	<!--<ShutdownCycle Time="15:30" Delay="300" />-->
+	<!--<ShutdownCycle Time="16:00" Delay="300" />-->
+	<!--<ShutdownCycle Time="16:30" Delay="300" />-->
+	<!--<ShutdownCycle Time="17:00" Delay="300" />-->
+	<!--<ShutdownCycle Time="17:30" Delay="300" />-->
+	<!--<ShutdownCycle Time="18:00" Delay="300" />-->
+	<!--<ShutdownCycle Time="18:30" Delay="300" />-->
+	<!--<ShutdownCycle Time="19:00" Delay="300" />-->
+	<!--<ShutdownCycle Time="19:30" Delay="300" />-->
+	<!--<ShutdownCycle Time="20:00" Delay="300" />-->
+	<!--<ShutdownCycle Time="20:30" Delay="300" />-->
+	<!--<ShutdownCycle Time="21:00" Delay="300" />-->
+	<!--<ShutdownCycle Time="21:30" Delay="300" />-->
+	<!--<ShutdownCycle Time="22:00" Delay="300" />-->
+	<!--<ShutdownCycle Time="22:30" Delay="300" />-->
+	<!--<ShutdownCycle Time="23:00" Delay="300" />-->
+	<!--<ShutdownCycle Time="23:30" Delay="300" />-->
+</ShutdownCycleList>

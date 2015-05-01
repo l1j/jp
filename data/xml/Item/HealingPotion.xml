@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ItemEffectList>
+	<!-- レッドポーション -->
+	<Item ItemId="40010" Remove="1">
+		<Effect Min="15" Max="55" GfxId="189" />
+	</Item>
+	<!-- オレンジポーション -->
+	<Item ItemId="40011" Remove="1">
+		<Effect Min="45" Max="75" GfxId="194" />
+	</Item>
+	<!-- クリアポーション -->
+	<Item ItemId="40012" Remove="1">
+		<Effect Min="70" Max="110" GfxId="197" />
+	</Item>
+	<!-- 濃縮体力回復剤 -->
+	<Item ItemId="40019" Remove="1">
+		<Effect Min="15" Max="55" GfxId="189" />
+	</Item>
+	<!-- 濃縮高級体力回復剤 -->
+	<Item ItemId="40020" Remove="1">
+		<Effect Min="45" Max="75" GfxId="194" />
+	</Item>
+	<!-- 濃縮強力体力回復剤 -->
+	<Item ItemId="40021" Remove="1">
+		<Effect Min="70" Max="110" GfxId="197" />
+	</Item>
+	<!-- 迅速体力回復剤 -->
+	<Item ItemId="40022" Remove="1">
+		<Effect Min="10" Max="30" GfxId="189" />
+	</Item>
+	<!-- 迅速高級体力回復剤 -->
+	<Item ItemId="40023" Remove="1">
+		<Effect Min="20" Max="45" GfxId="194" />
+	</Item>
+	<!-- 迅速強力体力回復剤 -->
+	<Item ItemId="40024" Remove="1">
+		<Effect Min="30" Max="85" GfxId="197" />
+	</Item>
+	<!-- バナナジュース -->
+	<Item ItemId="40026" Remove="1">
+		<Effect Min="10" Max="40" GfxId="189" />
+	</Item>
+	<!-- オレンジジュース -->
+	<Item ItemId="40027" Remove="1">
+		<Effect Min="10" Max="40" GfxId="189" />
+	</Item>
+	<!-- リンゴジュース -->
+	<Item ItemId="40028" Remove="1">
+		<Effect Min="10" Max="40" GfxId="189" />
+	</Item>
+	<!-- 象牙の塔の体力回復剤 -->
+	<Item ItemId="40029" Remove="1">
+		<Effect Min="10" Max="50" GfxId="189" />
+	</Item>
+	<!-- ウサギの肝 -->
+	<Item ItemId="40043" Remove="1">
+		<Effect Min="450" Max="750" GfxId="189" />
+	</Item>
+	<!-- きつね色のパン -->
+	<Item ItemId="40058" Remove="1">
+		<Effect Min="20" Max="40" GfxId="189" />
+	</Item>
+	<!-- 黒こげのパン -->
+	<Item ItemId="40071" Remove="1">
+		<Effect Min="50" Max="90" GfxId="197" />
+	</Item>
+	<!-- エントの実 -->
+	<Item ItemId="40506" Remove="1">
+		<Effect Min="60" Max="80" GfxId="197" />
+	</Item>
+	<!-- 信頼のコイン -->
+	<Item ItemId="40734" Remove="1">
+		<Effect Min="50" Max="50" GfxId="189" />
+	</Item>
+	<!-- バーベキュー -->
+	<Item ItemId="40930" Remove="1">
+		<Effect Min="70" Max="200" GfxId="189" />
+	</Item>
+	<!-- 神秘のヒーリングポーション -->
+	<Item ItemId="41141" Remove="1">
+		<Effect Min="20" Max="60" GfxId="189" />
+	</Item>
+	<!-- 祝福された麦パン -->
+	<Item ItemId="41337" Remove="1">
+		<Effect Min="40" Max="110" GfxId="197" />
+	</Item>
+	<!-- ヤングフィッシュ -->
+	<Item ItemId="41298" Remove="1">
+		<Effect Min="3" Max="5" GfxId="189" />
+	</Item>
+	<!-- スウィフトフィッシュ -->
+	<Item ItemId="41299" Remove="1">
+		<Effect Min="5" Max="25" GfxId="194" />
+	</Item>
+	<!-- ストロングフィッシュ -->
+	<Item ItemId="41300" Remove="1">
+		<Effect Min="10" Max="65" GfxId="197" />
+	</Item>
+	<!-- クジャクの食糧 -->
+	<Item ItemId="41403" Remove="1">
+		<Effect Min="120" Max="600" GfxId="189" />
+	</Item>
+	<!-- かき氷イチゴ -->
+	<Item ItemId="41417" Remove="1">
+		<Effect Min="70" Max="110" GfxId="197" />
+	</Item>
+	<!-- かき氷レモン -->
+	<Item ItemId="41418" Remove="1">
+		<Effect Min="70" Max="110" GfxId="197" />
+	</Item>
+	<!-- かき氷マンゴー -->
+	<Item ItemId="41419" Remove="1">
+		<Effect Min="70" Max="110" GfxId="197" />
+	</Item>
+	<!-- かき氷メロン -->
+	<Item ItemId="41420" Remove="1">
+		<Effect Min="70" Max="110" GfxId="197" />
+	</Item>
+	<!-- かき氷小豆 -->
+	<Item ItemId="41421" Remove="1">
+		<Effect Min="70" Max="110" GfxId="197" />
+	</Item>
+	<!-- 凝縮した化合物 -->
+	<Item ItemId="49302" Remove="1">
+		<Effect Min="70" Max="110" GfxId="197" />
+	</Item>
+	<!-- ドラゴンの涙 -->
+	<Item ItemId="50554" Remove="1">
+		<Effect Min="300" Max="600" GfxId="189" MapId="1005" />
+		<Effect Min="300" Max="600" GfxId="189" MapId="1006" />
+		<Effect Min="300" Max="600" GfxId="189" MapId="1007" />
+		<Effect Min="300" Max="600" GfxId="189" MapId="1008" />
+		<Effect Min="300" Max="600" GfxId="189" MapId="1009" />
+		<Effect Min="300" Max="600" GfxId="189" MapId="1010" />
+		<Effect Min="300" Max="600" GfxId="189" MapId="1011" />
+		<Effect Min="300" Max="600" GfxId="189" MapId="1012" />
+		<Effect Min="300" Max="600" GfxId="189" MapId="1013" />
+		<Effect Min="300" Max="600" GfxId="189" MapId="1014" />
+		<Effect Min="300" Max="600" GfxId="189" MapId="1015" />
+		<Effect Min="300" Max="600" GfxId="189" MapId="1016" />
+		<Effect Min="300" Max="600" GfxId="189" MapId="1017" />
+		<Effect Min="300" Max="600" GfxId="189" MapId="1018" />
+		<Effect Min="300" Max="600" GfxId="189" MapId="1019" />
+		<Effect Min="300" Max="600" GfxId="189" MapId="1020" />
+		<Effect Min="300" Max="600" GfxId="189" MapId="1021" />
+		<Effect Min="300" Max="600" GfxId="189" MapId="1022" />
+		<Effect Min="300" Max="600" GfxId="189" MapId="1023" />
+		<Effect Min="300" Max="600" GfxId="189" MapId="1024" />
+		<Effect Min="300" Max="600" GfxId="189" MapId="1025" />
+		<Effect Min="300" Max="600" GfxId="189" MapId="1026" />
+		<Effect Min="300" Max="600" GfxId="189" MapId="1027" />
+		<Effect Min="300" Max="600" GfxId="189" MapId="1028" />
+	</Item>
+	<!-- ドワーフブドウジュース -->
+	<Item ItemId="50599" Remove="1">
+		<Effect Min="10" Max="70" GfxId="194" />
+	</Item>
+	<!-- ドワーフブドウエキス -->
+	<Item ItemId="50600" Remove="1">
+		<Effect Min="30" Max="50" GfxId="194" />
+	</Item>
+	<!-- 祝福されたレッドポーション -->
+	<Item ItemId="140010" Remove="1">
+		<Effect Min="25" Max="65" GfxId="189" />
+	</Item>
+	<!-- 祝福されたオレンジポーション -->
+	<Item ItemId="140011" Remove="1">
+		<Effect Min="55" Max="85" GfxId="194" />
+	</Item>
+	<!-- 祝福されたクリアポーション -->
+	<Item ItemId="140012" Remove="1">
+		<Effect Min="80" Max="120" GfxId="197" />
+	</Item>
+	<!-- 祝福されたエントの実 -->
+	<Item ItemId="140506" Remove="1">
+		<Effect Min="70" Max="90" GfxId="197" />
+	</Item>
+	<!-- 呪われたレッドポーション -->
+	<Item ItemId="240010" Remove="1">
+		<Effect Min="5" Max="45" GfxId="189" />
+	</Item>
+</ItemEffectList>

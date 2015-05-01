@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ItemEffectList>
+	<!-- シアンポーション -->
+	<Item ItemId="40017" Remove="1">
+		<Effect GfxId="192" />
+	</Item>
+	<!-- エントの枝 -->
+	<Item ItemId="40507" Remove="1">
+		<Effect GfxId="192" />
+	</Item>
+</ItemEffectList>

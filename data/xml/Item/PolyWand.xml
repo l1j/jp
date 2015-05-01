@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ItemEffectList>
+	<!-- メイプルワンド -->
+	<Item ItemId="40008" Remove="1">
+		<Effect PolyId="29" Chance="3" /> <!-- フローティングアイ -->
+		<Effect PolyId="95" Chance="3" /> <!-- ジャイアントスパイダー -->
+		<Effect PolyId="146" Chance="3" /> <!-- アンゴリアント -->
+		<Effect PolyId="945" Chance="3" /> <!-- 牛 -->
+		<Effect PolyId="947" Chance="3" /> <!-- 鹿 -->
+		<Effect PolyId="979" Chance="3" /> <!-- 猪 -->
+		<Effect PolyId="1037" Chance="3" /> <!-- ジャイアントアント -->
+		<Effect PolyId="1039" Chance="3" /> <!-- ジャイアントアントソルジャー -->
+		<Effect PolyId="2374" Chance="3" /> <!-- スケルトン -->
+		<Effect PolyId="2376" Chance="3" /> <!-- スケルトンアックス -->
+		<Effect PolyId="2377" Chance="3" /> <!-- スケルトンパイク -->
+		<Effect PolyId="2378" Chance="3" /> <!-- スパルトイ -->
+		<Effect PolyId="3860" Chance="3" /> <!-- オークアーチャー -->
+		<Effect PolyId="3861" Chance="3" /> <!-- ゴブリン -->
+		<Effect PolyId="3862" Chance="3" /> <!-- コボルト -->
+		<Effect PolyId="3863" Chance="3" /> <!-- ドワーフ -->
+		<Effect PolyId="3864" Chance="3" /> <!-- オークファイター -->
+		<Effect PolyId="3865" Chance="3" /> <!-- ウェアウルフ -->
+		<Effect PolyId="3866" Chance="3" /> <!-- ガンジオーク -->
+		<Effect PolyId="3867" Chance="3" /> <!-- ロバオーク -->
+		<Effect PolyId="3868" Chance="3" /> <!-- アトゥバオーク -->
+		<Effect PolyId="3869" Chance="3" /> <!-- ドゥダ-マラオーク -->
+		<Effect PolyId="3870" Chance="3" /> <!-- ネルガオーク -->
+		<Effect PolyId="3871" Chance="3" /> <!-- スケルトンアーチャー -->
+		<Effect PolyId="3872" Chance="3" /> <!-- ゾンビ -->
+		<Effect PolyId="3873" Chance="3" /> <!-- グール -->
+		<Effect PolyId="3874" Chance="3" /> <!-- ライカンスロープ -->
+		<Effect PolyId="3875" Chance="3" /> <!-- ガースト -->
+		<Effect PolyId="3876" Chance="3" />	<!-- バグベアー -->	
+		<Effect PolyId="3904" Chance="3" /> <!-- ストーンゴーレム -->
+		<Effect PolyId="3906" Chance="3" /> <!-- オーク -->
+	</Item>
+	<!-- ブラックエントの表皮 -->
+	<Item ItemId="40410" Remove="1">
+		<Effect PolyId="29" Chance="3" /> <!-- フローティングアイ -->
+		<Effect PolyId="95" Chance="3" /> <!-- ジャイアントスパイダー -->
+		<Effect PolyId="146" Chance="3" /> <!-- アンゴリアント -->
+		<Effect PolyId="945" Chance="3" /> <!-- 牛 -->
+		<Effect PolyId="947" Chance="3" /> <!-- 鹿 -->
+		<Effect PolyId="979" Chance="3" /> <!-- 猪 -->
+		<Effect PolyId="1037" Chance="3" /> <!-- ジャイアントアント -->
+		<Effect PolyId="1039" Chance="3" /> <!-- ジャイアントアントソルジャー -->
+		<Effect PolyId="2374" Chance="3" /> <!-- スケルトン -->
+		<Effect PolyId="2376" Chance="3" /> <!-- スケルトンアックス -->
+		<Effect PolyId="2377" Chance="3" /> <!-- スケルトンパイク -->
+		<Effect PolyId="2378" Chance="3" /> <!-- スパルトイ -->
+		<Effect PolyId="3860" Chance="3" /> <!-- オークアーチャー -->
+		<Effect PolyId="3861" Chance="3" /> <!-- ゴブリン -->
+		<Effect PolyId="3862" Chance="3" /> <!-- コボルト -->
+		<Effect PolyId="3863" Chance="3" /> <!-- ドワーフ -->
+		<Effect PolyId="3864" Chance="3" /> <!-- オークファイター -->
+		<Effect PolyId="3865" Chance="3" /> <!-- ウェアウルフ -->
+		<Effect PolyId="3866" Chance="3" /> <!-- ガンジオーク -->
+		<Effect PolyId="3867" Chance="3" /> <!-- ロバオーク -->
+		<Effect PolyId="3868" Chance="3" /> <!-- アトゥバオーク -->
+		<Effect PolyId="3869" Chance="3" /> <!-- ドゥダ-マラオーク -->
+		<Effect PolyId="3870" Chance="3" /> <!-- ネルガオーク -->
+		<Effect PolyId="3871" Chance="3" /> <!-- スケルトンアーチャー -->
+		<Effect PolyId="3872" Chance="3" /> <!-- ゾンビ -->
+		<Effect PolyId="3873" Chance="3" /> <!-- グール -->
+		<Effect PolyId="3874" Chance="3" /> <!-- ライカンスロープ -->
+		<Effect PolyId="3875" Chance="3" /> <!-- ガースト -->
+		<Effect PolyId="3876" Chance="3" />	<!-- バグベアー -->	
+		<Effect PolyId="3904" Chance="3" /> <!-- ストーンゴーレム -->
+		<Effect PolyId="3906" Chance="3" /> <!-- オーク -->
+	</Item>
+	<!-- 祝福されたメイプルワンド -->
+	<Item ItemId="140008" Remove="1">
+		<Effect PolyId="29" Chance="3" /> <!-- フローティングアイ -->
+		<Effect PolyId="95" Chance="3" /> <!-- ジャイアントスパイダー -->
+		<Effect PolyId="146" Chance="3" /> <!-- アンゴリアント -->
+		<Effect PolyId="945" Chance="3" /> <!-- 牛 -->
+		<Effect PolyId="947" Chance="3" /> <!-- 鹿 -->
+		<Effect PolyId="979" Chance="3" /> <!-- 猪 -->
+		<Effect PolyId="1037" Chance="3" /> <!-- ジャイアントアント -->
+		<Effect PolyId="1039" Chance="3" /> <!-- ジャイアントアントソルジャー -->
+		<Effect PolyId="2374" Chance="3" /> <!-- スケルトン -->
+		<Effect PolyId="2376" Chance="3" /> <!-- スケルトンアックス -->
+		<Effect PolyId="2377" Chance="3" /> <!-- スケルトンパイク -->
+		<Effect PolyId="2378" Chance="3" /> <!-- スパルトイ -->
+		<Effect PolyId="3860" Chance="3" /> <!-- オークアーチャー -->
+		<Effect PolyId="3861" Chance="3" /> <!-- ゴブリン -->
+		<Effect PolyId="3862" Chance="3" /> <!-- コボルト -->
+		<Effect PolyId="3863" Chance="3" /> <!-- ドワーフ -->
+		<Effect PolyId="3864" Chance="3" /> <!-- オークファイター -->
+		<Effect PolyId="3865" Chance="3" /> <!-- ウェアウルフ -->
+		<Effect PolyId="3866" Chance="3" /> <!-- ガンジオーク -->
+		<Effect PolyId="3867" Chance="3" /> <!-- ロバオーク -->
+		<Effect PolyId="3868" Chance="3" /> <!-- アトゥバオーク -->
+		<Effect PolyId="3869" Chance="3" /> <!-- ドゥダ-マラオーク -->
+		<Effect PolyId="3870" Chance="3" /> <!-- ネルガオーク -->
+		<Effect PolyId="3871" Chance="3" /> <!-- スケルトンアーチャー -->
+		<Effect PolyId="3872" Chance="3" /> <!-- ゾンビ -->
+		<Effect PolyId="3873" Chance="3" /> <!-- グール -->
+		<Effect PolyId="3874" Chance="3" /> <!-- ライカンスロープ -->
+		<Effect PolyId="3875" Chance="3" /> <!-- ガースト -->
+		<Effect PolyId="3876" Chance="3" />	<!-- バグベアー -->	
+		<Effect PolyId="3904" Chance="3" /> <!-- ストーンゴーレム -->
+		<Effect PolyId="3906" Chance="3" /> <!-- オーク -->
+	</Item>
+</ItemEffectList>

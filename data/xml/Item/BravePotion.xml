@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ItemEffectList>
+	<!-- ブレイブポーション -->
+	<Item ItemId="40014" Remove="1">
+		<Effect Time="300" GfxId="751" GfxId2="1" ClassInitial="K" />
+	</Item>
+	<!-- イビルブラッド -->
+	<Item ItemId="40031" Remove="1">
+		<Effect Time="600" GfxId="751" GfxId2="1" ClassInitial="P" />
+	</Item>
+	<!-- エルヴンワッフル -->
+	<Item ItemId="40068" Remove="1">
+		<Effect Time="600" GfxId="751" GfxId2="3" ClassInitial="E" />
+	</Item>
+	<!-- 名誉のコイン -->
+	<Item ItemId="40733" Remove="1">
+		<Effect Time="600" GfxId="751" GfxId2="1" ClassInitial="A" />
+	</Item>
+	<!-- 強化ブレイブポーション -->
+	<Item ItemId="41415" Remove="1">
+		<Effect Time="1800" GfxId="751" GfxId2="1" ClassInitial="K" />
+	</Item>
+	<!-- 村人の集中ポーション -->
+	<Item ItemId="41479" Remove="1">
+		<Effect Time="1920" GfxId="751" GfxId2="3" ClassInitial="E" />
+	</Item>
+	<!-- 村人のブレイブ ポーション -->
+	<Item ItemId="41480" Remove="1">
+		<Effect Time="1200" GfxId="751" GfxId2="1" ClassInitial="K" />
+	</Item>
+	<!-- ユグドラの実 -->
+	<Item ItemId="49158" Remove="1">
+		<Effect Time="480" GfxId="7110" GfxId2="0" ClassInitial="I" />
+	</Item>
+	<!-- 祝福されたブレイブポーション -->
+	<Item ItemId="140014" Remove="1">
+		<Effect Time="350" GfxId="751" GfxId2="1" ClassInitial="K" />
+	</Item>
+	<!-- 祝福されたエルヴンワッフル -->
+	<Item ItemId="140068" Remove="1">
+		<Effect Time="700" GfxId="751" GfxId2="1" ClassInitial="E" />
+	</Item>
+</ItemEffectList>
